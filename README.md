@@ -1,1 +1,3 @@
-**Server-Resorucepack**
+# Server-Resorucepack
+
+Credits to all orginal authors
