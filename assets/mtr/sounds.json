@@ -1,84 +1,1378 @@
 {
-
-	"dt8_11_door_open": {
+	"stadtbahn_1980mod_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980mod_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980mod_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980mod_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980mod_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980mod_point": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/point",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980mod_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980mod_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980mod_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980mod/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2010_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2010_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2010_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2010_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2010_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2010_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2010_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2010_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2010/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2018_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2018_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2018_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2018_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2018_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2018_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2018_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2018_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2018/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2026_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2026_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2026_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2026_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2026_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2026_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2026_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2026_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2026/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1987_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_point": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/point",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1987_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1987_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1987_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1987/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1995_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_motor2": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/motor2",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_point": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/point",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1995_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1995_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1995_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1995/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2002_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2002_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_2002_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_motor2": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/motor2",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_2002_motor3": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_2002/motor3",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_point": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/point",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1980_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1980_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1980/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_motor0": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/motor0",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_motor1": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/motor1",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_point": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/point",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_dooropn": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1975_doorcls": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "stadtbahn_1975_run": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/run",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_airhigh": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_airzero": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/airzero",
+                "pitch": 1,
+                "attenuation_distance": 96
+            }
+        ]
+    },
+    "stadtbahn_1975_loop": {
+        "sounds":[
+            {
+                "name": "mtr:stadtbahn_1975/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "b90_air": {
 		"sounds": [
 			{
-				"name": "mtr:dt8_11/door_open",
-				"pitch": 0.5
+				"name": "mtr:b90/air",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"dt8_11_door_close": {
+	"b90_airzero": {
 		"sounds": [
 			{
-				"name": "mtr:dt8_11/door_close",
-				"pitch": 0.5
+				"name": "mtr:b90/airzero",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"dt8_4_door_open": {
+	"b90_cpend": {
 		"sounds": [
 			{
-				"name": "mtr:dt8_4/door_open",
-				"pitch": 0.5
+				"name": "mtr:b90/cpend",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"dt8_4_door_close": {
+	"b90_cploop": {
 		"sounds": [
 			{
-				"name": "mtr:dt8_4/door_close",
-				"pitch": 0.5
+				"name": "mtr:b90/cploop",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"b_druckluft_door_open": {
+	"b90_cpstart": {
 		"sounds": [
 			{
-				"name": "mtr:b_druckluft/door_open",
-				"pitch": 0.5
+				"name": "mtr:b90/cpstart",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"b_druckluft_door_close": {
+	"b90_doorcls": {
 		"sounds": [
 			{
-				"name": "mtr:b_druckluft/door_close",
-				"pitch": 0.5
+				"name": "mtr:b90/doorcls",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"lrt2010_door_open": {
+	"b90_dooropn": {
 		"sounds": [
 			{
-				"name": "mtr:lrt2010/door_open",
-				"pitch": 0.5
+				"name": "mtr:b90/dooropn",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"lrt2010_door_close": {
+	"b90_flange0": {
 		"sounds": [
 			{
-				"name": "mtr:lrt2010/door_close",
-				"pitch": 0.5
+				"name": "mtr:b90/flange0",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"lrt2020_door_open": {
+	"b90_loop": {
 		"sounds": [
 			{
-				"name": "mtr:lrt2020/door_open",
-				"pitch": 0.5
+				"name": "mtr:b90/loop",
+				"attenuation_distance": 32
 			}
 		]
 	},
-	"lrt2020_door_close": {
+	"b90_motor0": {
 		"sounds": [
 			{
-				"name": "mtr:lrt2020/door_close",
-				"pitch": 0.5
+				"name": "mtr:b90/motor0",
+				"attenuation_distance": 32
 			}
 		]
-	}
+	},
+	"b90_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:b90/motor7",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_point": {
+		"sounds": [
+			{
+				"name": "mtr:b90/point",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run0": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run1": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run2": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run3": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run4": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run4",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run5": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run6": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b90_run7": {
+		"sounds": [
+			{
+				"name": "mtr:b90/run7",
+				"attenuation_distance": 32
+			}
+		]
+	},
+    "eidan_9000_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/airzero",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/flange0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_loop": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_point": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/point",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"eidan_9000_run0": {
+		"sounds": [
+			{
+				"name": "mtr:eidan_9000/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"london_underground_d78_air": {
+		"sounds": [
+			{
+				"name": "mtr:london_underground_d78/air",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"london_underground_d78_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:london_underground_d78/airzero",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"london_underground_d78_cpend": {
+		"sounds": [
+			{
+				"name": "mtr:london_underground_d78/cpend",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"london_underground_d78_cploop": {
+		"sounds": [
+			{
+				"name": "mtr:london_underground_d78/cploop",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"london_underground_d78_cpstart": {
+		"sounds": [
+			{
+				"name": "mtr:london_underground_d78/cpstart",
+				"attenuation_distance": 32
+			}
+		]
+	},
+    "yutong_door_close":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/door_close",
+              "attenuation_distance": 16,
+              "volume": 0.6
+           }
+        ]
+     },
+     "yutong_door_open":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/door_open",
+              "attenuation_distance": 16,
+              "volume": 0.6
+           }
+        ]
+     },
+     "yutong_eng_idle":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/eng_idle",
+              "attenuation_distance": 10
+           }
+        ]
+     },
+     "yutong_eng_idle2":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/eng_idle2",
+              "volume": 0.8,
+              "attenuation_distance": 35
+           }
+        ]
+     },
+     "yutong_idle":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/idle",
+              "attenuation_distance": 10
+           }
+        ]
+     },
+     "yutong_motor_run":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/motor_run",
+              "attenuation_distance": 25,
+              "volume": 1.0,
+              "pitch": 1.6
+           }
+        ]
+     },
+     "yutong_run_far":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/run_far",
+              "attenuation_distance": 30
+           }
+        ]
+     },
+     "yutong_horn":{
+        "sounds":[
+           {
+              "name":"mtr:yutong/horn",
+              "attenuation_distance": 25
+           }
+        ]
+     },
+     "bve_sp1900_run0":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_run1":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_run2":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_run3":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run3",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_run4":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run4",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_run5":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/run5",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_motor1":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/motor1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_motor2":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/motor2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_motor3":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/motor3",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_motor4":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/motor4",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_flange0":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/flange0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_dooropn":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/dooropn",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_sp1900_doorcls":{
+        "sounds":[
+           {
+              "name":"mtr:bve_sp1900/doorcls",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_run0":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_run1":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/run1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_run2":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/run2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_flange0":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/flange0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_flange1":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/flange1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor0":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor1":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor2":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor3":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor3",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor4":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor4",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor5":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor5",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor6":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor6",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor7":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor7",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_motor8":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/motor8",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_dooropn":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/dooropn",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_doorcls":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/doorcls",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_loop":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/loop",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_mlr_shoe":{
+        "sounds":[
+           {
+              "name":"mtr:bve_mlr/rub",
+              "attenuation_distance": 32
+           }
+        ]
+     }
 }
-	
