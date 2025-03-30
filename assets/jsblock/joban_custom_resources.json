@@ -1,0 +1,49 @@
+{
+  "pids_images": [
+    {
+      "id": "blue_crystal_rv_pids",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/bluecrystal.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "rv_yellow",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/rv_yellow.png",
+      "fonts": "mtr:mtr",
+      "color": "000000"
+    },
+    {
+      "id": "rv_purple",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/rv_purple.png",
+      "fonts": "mtr:mtr",
+      "color": "000000"
+    }
+  ]
+}
