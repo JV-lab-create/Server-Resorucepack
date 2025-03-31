@@ -1317,7 +1317,249 @@
 				"has_gangway_connection": true,
 				"model": "mtr:sendai1000/sendai1000.bbmodel",
 				"model_properties": "mtr:sendai1000/sendai1000.json"
-			}
+			},
+			"mlrfc_4":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class (4-car)",
+				"description":"This train can only run at 4 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/4/mlrfc_4.json"
+			 },
+			 "mlrfc_6_8":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class (6-car and 8-car)",
+				"description":"This train can only run at 6 cars and 8 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/6_8/mlrfc_6_8.json"
+			 },
+			 "mlrfc_9":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class (9-car)",
+				"description":"This train can only run at 9 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/9/mlrfc_9.json"
+			 },
+			 "mlrfc_12":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class (12-car)",
+				"description":"This train can only run at 12 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/12/mlrfc_12.json"
+			 },
+			 "mlrfc_4_map":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class and HD Map (4-car)",
+				"description":"This train can only run at 4 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/4/mlrfc_4.json",
+				"script_texts":[
+				   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
+				   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
+				   "var dhBase = new DisplayHelper(slotCfg);"
+				],
+				"script_files":[
+				   "mtr:map/main.js"
+				]
+			 },
+			 "mlrfc_6_8_map":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class and HD Map (6-car and 8-car)",
+				"description":"This train can only run at 6 cars and 8-cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/6_8/mlrfc_6_8.json",
+				"script_texts":[
+				   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
+				   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
+				   "var dhBase = new DisplayHelper(slotCfg);"
+				],
+				"script_files":[
+				   "mtr:map/main.js"
+				]
+			 },
+			 "mlrfc_9_map":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class and HD Map (9-car)",
+				"description":"This train can only run at 9 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/9/mlrfc_9.json",
+				"script_texts":[
+				   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
+				   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
+				   "var dhBase = new DisplayHelper(slotCfg);"
+				],
+				"script_files":[
+				   "mtr:map/main.js"
+				]
+			 },
+			 "mlrfc_12_map":{
+				"base_train_type":"mlr",
+				"name":"MLR with First Class and HD Map (12-car)",
+				"description":"This train can only run at 12 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/m_train",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"MLR",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/mlrfc",
+				"model":"mtr:custom_directory/mlrfc.bbmodel",
+				"model_properties":"mtr:custom_directory/12/mlrfc_12.json",
+				"script_texts":[
+				   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
+				   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
+				   "var dhBase = new DisplayHelper(slotCfg);"
+				],
+				"script_files":[
+				   "mtr:map/main.js"
+				]
+			 },
+			 "sp1900fc_4":{
+				"base_train_type":"sp1900",
+				"name":"SP1900 with First Class (4-car)",
+				"description":"This train can only run at 4 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/sp1900fc",
+				"model":"mtr:custom_directory/sp1900fc.bbmodel",
+				"model_properties":"mtr:custom_directory/4/sp1900fc_4.json"
+			 },
+			 "sp1900fc_6_8":{
+				"base_train_type":"sp1900",
+				"name":"SP1900 with First Class (6-car and 8-car)",
+				"description":"This train can only run at 6 cars and 8 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/sp1900fc",
+				"model":"mtr:custom_directory/sp1900fc.bbmodel",
+				"model_properties":"mtr:custom_directory/6_8/sp1900fc_6_8.json"
+			 },
+			 "sp1900fc_9_12":{
+				"base_train_type":"sp1900",
+				"name":"SP1900 with First Class (9-car and 12-car)",
+				"description":"This train can only run at 9 cars and 12 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/sp1900fc",
+				"model":"mtr:custom_directory/sp1900fc.bbmodel",
+				"model_properties":"mtr:custom_directory/9_12/sp1900fc_9_12.json"
+			 },
+			 "r_trainfc_4":{
+				"base_train_type":"r_train",
+				"name":"R-Train with First Class (4-car)",
+				"description":"This train can only run at 4 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/r_trainfc",
+				"model":"mtr:custom_directory/r_trainfc.bbmodel",
+				"model_properties":"mtr:custom_directory/4/r_trainfc_4.json"
+			 },
+			 "r_trainfc_6_8":{
+				"base_train_type":"r_train",
+				"name":"R-Train with First Class (6-car and 8-car)",
+				"description":"This train can only run at 6 cars and 8 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/r_trainfc",
+				"model":"mtr:custom_directory/r_trainfc.bbmodel",
+				"model_properties":"mtr:custom_directory/6_8/r_trainfc_6_8.json"
+			 },
+			 "r_trainfc_9_12":{
+				"base_train_type":"r_train",
+				"name":"R-Train with First Class (9-car and 12-car)",
+				"description":"This train can only run at 9 cars and 12 cars",
+				"wikipedia_article":"",
+				"color":"5DB7E8",
+				"gangway_connection_id":"mtr:textures/entity/sp1900",
+				"train_barrier_id":"mtr:textures/entity/mlr",
+				"door_animation_type":"STANDARD",
+				"render_door_overlay":false,
+				"rider_offset":0.0,
+				"texture_id":"mtr:custom_directory/r_trainfc",
+				"model":"mtr:custom_directory/r_trainfc.bbmodel",
+				"model_properties":"mtr:custom_directory/9_12/r_trainfc_9_12.json"
+			 }
 	},
 	"custom_signs": {
 		"exit_1": {
@@ -1720,247 +1962,13 @@
 			"small": false,
 			"background_color": "810FD7"
 		},
-		"mlrfc_4":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class (4-car)",
-			"description":"This train can only run at 4 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/4/mlrfc_4.json"
-		 },
-		 "mlrfc_6_8":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class (6-car and 8-car)",
-			"description":"This train can only run at 6 cars and 8 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/6_8/mlrfc_6_8.json"
-		 },
-		 "mlrfc_9":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class (9-car)",
-			"description":"This train can only run at 9 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/9/mlrfc_9.json"
-		 },
-		 "mlrfc_12":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class (12-car)",
-			"description":"This train can only run at 12 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/12/mlrfc_12.json"
-		 },
-		 "mlrfc_4_map":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class and HD Map (4-car)",
-			"description":"This train can only run at 4 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/4/mlrfc_4.json",
-			"script_texts":[
-			   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
-			   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
-			   "var dhBase = new DisplayHelper(slotCfg);"
-			],
-			"script_files":[
-			   "mtr:map/main.js"
-			]
-		 },
-		 "mlrfc_6_8_map":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class and HD Map (6-car and 8-car)",
-			"description":"This train can only run at 6 cars and 8-cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/6_8/mlrfc_6_8.json",
-			"script_texts":[
-			   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
-			   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
-			   "var dhBase = new DisplayHelper(slotCfg);"
-			],
-			"script_files":[
-			   "mtr:map/main.js"
-			]
-		 },
-		 "mlrfc_9_map":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class and HD Map (9-car)",
-			"description":"This train can only run at 9 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/9/mlrfc_9.json",
-			"script_texts":[
-			   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
-			   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
-			   "var dhBase = new DisplayHelper(slotCfg);"
-			],
-			"script_files":[
-			   "mtr:map/main.js"
-			]
-		 },
-		 "mlrfc_12_map":{
-			"base_train_type":"mlr",
-			"name":"MLR with First Class and HD Map (12-car)",
-			"description":"This train can only run at 12 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/m_train",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"MLR",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/mlrfc",
-			"model":"mtr:custom_directory/mlrfc.bbmodel",
-			"model_properties":"mtr:custom_directory/12/mlrfc_12.json",
-			"script_texts":[
-			   "include(Resources.id(\"mtrsteamloco:scripts/display_helper.js\"));",
-			   "var slotCfg = JSON.parse(Resources.readString(Resources.id(\"mtr:map/slots.json\")));",
-			   "var dhBase = new DisplayHelper(slotCfg);"
-			],
-			"script_files":[
-			   "mtr:map/main.js"
-			]
-		 },
-		 "sp1900fc_4":{
-			"base_train_type":"sp1900",
-			"name":"SP1900 with First Class (4-car)",
-			"description":"This train can only run at 4 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/sp1900fc",
-			"model":"mtr:custom_directory/sp1900fc.bbmodel",
-			"model_properties":"mtr:custom_directory/4/sp1900fc_4.json"
-		 },
-		 "sp1900fc_6_8":{
-			"base_train_type":"sp1900",
-			"name":"SP1900 with First Class (6-car and 8-car)",
-			"description":"This train can only run at 6 cars and 8 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/sp1900fc",
-			"model":"mtr:custom_directory/sp1900fc.bbmodel",
-			"model_properties":"mtr:custom_directory/6_8/sp1900fc_6_8.json"
-		 },
-		 "sp1900fc_9_12":{
-			"base_train_type":"sp1900",
-			"name":"SP1900 with First Class (9-car and 12-car)",
-			"description":"This train can only run at 9 cars and 12 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/sp1900fc",
-			"model":"mtr:custom_directory/sp1900fc.bbmodel",
-			"model_properties":"mtr:custom_directory/9_12/sp1900fc_9_12.json"
-		 },
-		 "r_trainfc_4":{
-			"base_train_type":"r_train",
-			"name":"R-Train with First Class (4-car)",
-			"description":"This train can only run at 4 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/r_trainfc",
-			"model":"mtr:custom_directory/r_trainfc.bbmodel",
-			"model_properties":"mtr:custom_directory/4/r_trainfc_4.json"
-		 },
-		 "r_trainfc_6_8":{
-			"base_train_type":"r_train",
-			"name":"R-Train with First Class (6-car and 8-car)",
-			"description":"This train can only run at 6 cars and 8 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/r_trainfc",
-			"model":"mtr:custom_directory/r_trainfc.bbmodel",
-			"model_properties":"mtr:custom_directory/6_8/r_trainfc_6_8.json"
-		 },
-		 "r_trainfc_9_12":{
-			"base_train_type":"r_train",
-			"name":"R-Train with First Class (9-car and 12-car)",
-			"description":"This train can only run at 9 cars and 12 cars",
-			"wikipedia_article":"",
-			"color":"5DB7E8",
-			"gangway_connection_id":"mtr:textures/entity/sp1900",
-			"train_barrier_id":"mtr:textures/entity/mlr",
-			"door_animation_type":"STANDARD",
-			"render_door_overlay":false,
-			"rider_offset":0.0,
-			"texture_id":"mtr:custom_directory/r_trainfc",
-			"model":"mtr:custom_directory/r_trainfc.bbmodel",
-			"model_properties":"mtr:custom_directory/9_12/r_trainfc_9_12.json"
-		 }
+		"arrow_green_down": {
+			"texture_id": "mtr:custom_directory/arrow_green_down.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		}
 	}
 }
