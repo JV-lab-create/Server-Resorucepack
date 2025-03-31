@@ -1510,5 +1510,173 @@
               "attenuation_distance": 32
            }
         ]
+     },
+     "bve_tml_c_train_run0":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run1":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run2":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run3":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run3",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run4":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run4",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run5":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run6":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_run7":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/run0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor0":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor1":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor1",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor2":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor2",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor3":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor3",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor4":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor4",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor5":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor5",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor13":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor13",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_motor14":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/motor14",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_flange0":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/flange0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_flange1":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/flange0",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_dooropn":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/dooropn",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_doorcls":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/doorcls",
+              "attenuation_distance": 32
+           }
+        ]
+     },
+     "bve_tml_c_train_loop":{
+        "sounds":[
+           {
+              "name":"mtr:ii_bve_sp1900/loop",
+              "attenuation_distance": 32
+           }
+        ]
      }
 }
