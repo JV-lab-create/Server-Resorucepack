@@ -1514,7 +1514,7 @@
      "bve_tml_c_train_run0":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run0",
+              "name":"mtr:bve_tml_c_train/run0",
               "attenuation_distance": 32
            }
         ]
@@ -1522,7 +1522,7 @@
      "bve_tml_c_train_run1":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run1",
+              "name":"mtr:bve_tml_c_train/run1",
               "attenuation_distance": 32
            }
         ]
@@ -1530,7 +1530,7 @@
      "bve_tml_c_train_run2":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run2",
+              "name":"mtr:bve_tml_c_train/run2",
               "attenuation_distance": 32
            }
         ]
@@ -1538,7 +1538,7 @@
      "bve_tml_c_train_run3":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run3",
+              "name":"mtr:bve_tml_c_train/run3",
               "attenuation_distance": 32
            }
         ]
@@ -1546,7 +1546,7 @@
      "bve_tml_c_train_run4":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run4",
+              "name":"mtr:bve_tml_c_train/run4",
               "attenuation_distance": 32
            }
         ]
@@ -1554,7 +1554,7 @@
      "bve_tml_c_train_run5":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run0",
+              "name":"mtr:bve_tml_c_train/run0",
               "attenuation_distance": 32
            }
         ]
@@ -1562,7 +1562,7 @@
      "bve_tml_c_train_run6":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run0",
+              "name":"mtr:bve_tml_c_train/run0",
               "attenuation_distance": 32
            }
         ]
@@ -1570,7 +1570,7 @@
      "bve_tml_c_train_run7":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/run0",
+              "name":"mtr:bve_tml_c_train/run0",
               "attenuation_distance": 32
            }
         ]
@@ -1578,7 +1578,7 @@
      "bve_tml_c_train_motor0":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor0",
+              "name":"mtr:bve_tml_c_train/motor0",
               "attenuation_distance": 32
            }
         ]
@@ -1586,7 +1586,7 @@
      "bve_tml_c_train_motor1":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor1",
+              "name":"mtr:bve_tml_c_train/motor1",
               "attenuation_distance": 32
            }
         ]
@@ -1594,7 +1594,7 @@
      "bve_tml_c_train_motor2":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor2",
+              "name":"mtr:bve_tml_c_train/motor2",
               "attenuation_distance": 32
            }
         ]
@@ -1602,7 +1602,7 @@
      "bve_tml_c_train_motor3":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor3",
+              "name":"mtr:bve_tml_c_train/motor3",
               "attenuation_distance": 32
            }
         ]
@@ -1610,7 +1610,7 @@
      "bve_tml_c_train_motor4":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor4",
+              "name":"mtr:bve_tml_c_train/motor4",
               "attenuation_distance": 32
            }
         ]
@@ -1618,7 +1618,7 @@
      "bve_tml_c_train_motor5":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor5",
+              "name":"mtr:bve_tml_c_train/motor5",
               "attenuation_distance": 32
            }
         ]
@@ -1626,7 +1626,7 @@
      "bve_tml_c_train_motor13":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor13",
+              "name":"mtr:bve_tml_c_train/motor13",
               "attenuation_distance": 32
            }
         ]
@@ -1634,7 +1634,7 @@
      "bve_tml_c_train_motor14":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/motor14",
+              "name":"mtr:bve_tml_c_train/motor14",
               "attenuation_distance": 32
            }
         ]
@@ -1642,7 +1642,7 @@
      "bve_tml_c_train_flange0":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/flange0",
+              "name":"mtr:bve_tml_c_train/flange0",
               "attenuation_distance": 32
            }
         ]
@@ -1650,7 +1650,7 @@
      "bve_tml_c_train_flange1":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/flange0",
+              "name":"mtr:bve_tml_c_train/flange0",
               "attenuation_distance": 32
            }
         ]
@@ -1658,7 +1658,7 @@
      "bve_tml_c_train_dooropn":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/dooropn",
+              "name":"mtr:bve_tml_c_train/dooropn",
               "attenuation_distance": 32
            }
         ]
@@ -1666,7 +1666,7 @@
      "bve_tml_c_train_doorcls":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/doorcls",
+              "name":"mtr:bve_tml_c_train/doorcls",
               "attenuation_distance": 32
            }
         ]
@@ -1674,7 +1674,7 @@
      "bve_tml_c_train_loop":{
         "sounds":[
            {
-              "name":"mtr:ii_bve_sp1900/loop",
+              "name":"mtr:bve_tml_c_train/loop",
               "attenuation_distance": 32
            }
         ]
