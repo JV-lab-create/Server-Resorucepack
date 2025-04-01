@@ -1,0 +1,9 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "minecraft:font/ranks/owner.png", "ascent": 8, "height": 8, "chars": [""]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/admin.png", "ascent": 8, "height": 8, "chars": [""]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/staff.png", "ascent": 8, "height": 8, "chars": [""]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/builder.png", "ascent": 8, "height": 8, "chars": [""]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/visitor.png", "ascent": 8, "height": 8, "chars": [""]}
+    ]
+}
