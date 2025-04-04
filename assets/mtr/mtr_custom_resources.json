@@ -1969,6 +1969,188 @@
 			"flip_custom_text": false,
 			"small": true,
 			"background_color": "000000"
+		},
+		"akivn_logo_1_text": {
+			"texture_id": "mtr:custom_directory/signs/akivn_logo.png",
+			"flip_texture": false,
+			"custom_text": "原生鐵路|Origin Railway",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"akivn_logo_1_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/akivn_logo.png",
+			"flip_texture": false,
+			"custom_text": "原生鐵路|Origin Railway",
+			"flip_custom_text": true,
+			"small": false
+		},
+		"akivn_logo_2": {
+			"texture_id": "mtr:custom_directory/signs/akivn_logo.png",
+			"small": false
+		},
+		"CHR_without_text": {
+			"texture_id": "mtr:custom_directory/signs/chr_custom_sign.png",
+			"small": false
+		},
+		"CHR_with_text": {
+			"texture_id": "mtr:custom_directory/signs/chr_custom_sign.png",
+			"flip_texture": false,
+			"custom_text": "岑香鐵路|CHR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"CHR_with_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/chr_custom_sign.png",
+			"flip_texture": false,
+			"custom_text": "岑香鐵路|CHR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"disneyland_icon": {
+			"texture_id": "mtr:custom_directory/signs/drl_icon.png",
+			"small": true
+		},
+		"disneyland_sign": {
+			"texture_id": "mtr:custom_directory/signs/drl_icon.png",
+			"flip_texture": false,
+			"custom_text": "往迪士尼列車|Trains to Disneyland",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"disneyland_sign_flipped": {
+			"texture_id": "mtr:custom_directory/signs/drl_icon.png",
+			"flip_texture": false,
+			"custom_text": "往迪士尼列車|Trains to Disneyland",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"diving_adora_exit_1_text": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_exit.png",
+			"flip_texture": false,
+			"custom_text": "往出口|to Exit",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"diving_adora_exit_1_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_exit.png",
+			"flip_texture": false,
+			"custom_text": "往出口|to Exit",
+			"flip_custom_text": true,
+			"small": false
+		},
+		"diving_adora_exit_2": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_exit.png",
+			"small": false
+		},
+		"diving_adora_train": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
+			"small": true
+		},
+		"diving_adora_train_text": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
+			"flip_texture": false,
+			"custom_text": "往月臺|to Platforms",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"diving_adora_train_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
+			"flip_texture": false,
+			"custom_text": "往月臺|to Platforms",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"platform_gap": {
+			"texture_id": "mtr:custom_directory/signs/platform_gap.png",
+			"small": true
+		},
+		"platform_gap_text": {
+			"texture_id": "mtr:custom_directory/signs/platform_gap.png",
+			"flip_texture": false,
+			"custom_text": "請小心月台空隙|Please mind the gap",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"platform_gap_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/platform_gap.png",
+			"flip_texture": true,
+			"custom_text": "請小心月台空隙|Please mind the gap",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"snr_logo": {
+			"texture_id": "mtr:custom_directory/signs/snr_logo.png",
+			"small": false
+		},
+		"snr_logo_text": {
+			"texture_id": "mtr:custom_directory/signs/snr_logo.png",
+			"flip_texture": false,
+			"custom_text": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
+			"flip_custom_text": false,
+			"small": false
+		},
+		"snr_logo_text_flipped": {
+			"texture_id": "mtr:custom_directory/signs/snr_logo.png",
+			"flip_texture": false,
+			"custom_text": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
+			"flip_custom_text": true,
+			"small": false
+		},
+		"social_distance": {
+			"texture_id": "mtr:custom_directory/signs/social_distance.png",
+			"small": true
+		},
+		"sound_transit_logo": {
+			"texture_id": "mtr:custom_directory/signs/sound_transit_logo.png",
+			"small": false
+		},
+		"t_kcr_sign": {
+			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"flip_texture": false,
+			"custom_text": "九廣鐵路|Kowloon Canton Railway",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+		"t_kcr_icon": {
+			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+		"t_kcr_sign_flipped": {
+			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"flip_texture": false,
+			"custom_text": "九廣鐵路|Kowloon Canton Railway",
+			"flip_custom_text": true,
+			"small": true,
+			"background_color": "000000"
+		},
+		"u_interchange_icon": {
+			"texture_id": "mtr:custom_directory/interchange.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"u_interchange_sign": {
+			"texture_id": "mtr:custom_directory/interchange.png",
+			"flip_texture": false,
+			"custom_text": "接續轉乘|Interchange",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"u_interchange_sign_flipped": {
+			"texture_id": "mtr:custom_directory/interchange.png",
+			"flip_texture": false,
+			"custom_text": "接續轉乘|Interchange",
+			"flip_custom_text": true,
+			"small": false,
+			"background_color": "000000"
 		}
 	}
 }
