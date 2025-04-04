@@ -2151,6 +2151,102 @@
 			"flip_custom_text": true,
 			"small": false,
 			"background_color": "000000"
+		},
+		"za": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/a.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zb": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/b.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zc": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/c.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zd": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/d.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"ze": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/e.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zf": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/f.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zg": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/g.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zh": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/h.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zi": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/i.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zj": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/j.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zk": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/k.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zl": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/l.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
 		}
 	}
 }
