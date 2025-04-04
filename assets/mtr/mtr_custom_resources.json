@@ -2105,7 +2105,7 @@
 			"small": false
 		},
 		"t_kcr_sign": {
-			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"texture_id": "mtr:custom_directory/signs/kcr_logo.png",
 			"flip_texture": false,
 			"custom_text": "九廣鐵路|Kowloon Canton Railway",
 			"flip_custom_text": false,
@@ -2113,7 +2113,7 @@
 			"background_color": "000000"
 		},
 		"t_kcr_icon": {
-			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"texture_id": "mtr:custom_directory/signs/kcr_logo.png",
 			"flip_texture": false,
 			"custom_text": "",
 			"flip_custom_text": false,
@@ -2121,7 +2121,7 @@
 			"background_color": "000000"
 		},
 		"t_kcr_sign_flipped": {
-			"texture_id": "mtr:custom_directory/kcr_logo.png",
+			"texture_id": "mtr:custom_directory/signs/kcr_logo.png",
 			"flip_texture": false,
 			"custom_text": "九廣鐵路|Kowloon Canton Railway",
 			"flip_custom_text": true,
@@ -2129,7 +2129,7 @@
 			"background_color": "000000"
 		},
 		"u_interchange_icon": {
-			"texture_id": "mtr:custom_directory/interchange.png",
+			"texture_id": "mtr:custom_directory/signs/interchange.png",
 			"flip_texture": false,
 			"custom_text": "",
 			"flip_custom_text": false,
@@ -2137,7 +2137,7 @@
 			"background_color": "000000"
 		},
 		"u_interchange_sign": {
-			"texture_id": "mtr:custom_directory/interchange.png",
+			"texture_id": "mtr:custom_directory/signs/interchange.png",
 			"flip_texture": false,
 			"custom_text": "接續轉乘|Interchange",
 			"flip_custom_text": false,
@@ -2145,7 +2145,7 @@
 			"background_color": "000000"
 		},
 		"u_interchange_sign_flipped": {
-			"texture_id": "mtr:custom_directory/interchange.png",
+			"texture_id": "mtr:custom_directory/signs/interchange.png",
 			"flip_texture": false,
 			"custom_text": "接續轉乘|Interchange",
 			"flip_custom_text": true,
