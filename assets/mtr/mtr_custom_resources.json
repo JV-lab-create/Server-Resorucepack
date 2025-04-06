@@ -1594,22 +1594,6 @@
 			"small": false,
 			"background_color": "000000"
 		},
-		"or_adora": {
-			"texture_id": "mtr:custom_directory/adora.png",
-			"flip_texture": false,
-			"custom_text": "感謝阿多拉提供支援|Acknowledge to Adora's NTI",
-			"flip_custom_text": false,
-			"small": false,
-			"background_color": "000000"
-		},
-		"or_adora1": {
-			"texture_id": "mtr:custom_directory/adora.png",
-			"flip_texture": false,
-			"custom_text": "感謝阿多拉提供支援|Acknowledge to Adora's NTI",
-			"flip_custom_text": true,
-			"small": false,
-			"background_color": "000000"
-		},
 		"or_arrow": {
 			"texture_id": "mtr:custom_directory/origin_arrow.png",
 			"flip_texture": false,
@@ -2095,10 +2079,6 @@
 			"custom_text": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
 			"flip_custom_text": true,
 			"small": false
-		},
-		"social_distance": {
-			"texture_id": "mtr:custom_directory/signs/social_distance.png",
-			"small": true
 		},
 		"sound_transit_logo": {
 			"texture_id": "mtr:custom_directory/signs/sound_transit_logo.png",
