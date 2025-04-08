@@ -2948,6 +2948,22 @@
 			"flip_custom_text": false,
 			"small": false,
 			"background_color": "000000"
+		},
+		"zm": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/m.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
+		},
+		"zn": {
+			"texture_id": "mtr:custom_directory/signs/spawn_zones/n.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
 		}
 	}
 }
