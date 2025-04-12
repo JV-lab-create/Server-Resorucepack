@@ -2964,6 +2964,38 @@
 			"flip_custom_text": false,
 			"small": false,
 			"background_color": "000000"
+		},
+		"APM": {
+			"texture_id": "mtr:custom_directory/signs/apm.png",
+			"flip_texture": false,
+			"custom_text": "",
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "000000"
 		}
+	},
+	"train_0": {
+		"texture_id": "mtr:custom_directory/signs/train_0.png",
+		"flip_texture": false,
+		"custom_text": "",
+		"flip_custom_text": false,
+		"small": false,
+		"background_color": "000000"
+	},
+	"train_1": {
+		"texture_id": "mtr:custom_directory/signs/train_0.png",
+		"flip_texture": false,
+		"custom_text": "",
+		"flip_custom_text": false,
+		"small": false,
+		"background_color": "000000"
+	},
+	"monorail": {
+		"texture_id": "mtr:custom_directory/signs/monorail.png",
+		"flip_texture": false,
+		"custom_text": "",
+		"flip_custom_text": false,
+		"small": false,
+		"background_color": "000000"
 	}
 }
