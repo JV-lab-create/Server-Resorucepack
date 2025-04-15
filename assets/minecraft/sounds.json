@@ -333,5 +333,528 @@
                 "attenuation_distance": 64
             }
         ]
-    }
+    },
+    "snr_platform": {
+		"sounds": [
+			{
+				"name": "minecraft:snr_platform"
+			}
+		]
+	},
+	"snr_mind_the_gap": {
+		"sounds": [
+			{
+				"name": "minecraft:snr_mind_the_gap"
+			}
+		]
+	},
+	"coconut_mall": {
+		"sounds": [
+			{
+				"name": "minecraft:coconut_mall"
+			}
+		]
+	},
+	"panasonic": {
+		"sounds": [
+			{
+				"name": "minecraft:panasonic"
+			}
+		]
+	},
+	"train_service": {
+		"sounds": [
+			{
+				"name": "minecraft:train_service"
+			}
+		]
+	},
+	"mask_up_metro": {
+		"sounds": [
+			{
+				"name": "minecraft:mask_up_metro"
+			}
+		]
+	},
+	"east_west_line_door_close": {
+		"sounds": [
+			{
+				"name": "minecraft:east_west_line_door_close"
+			}
+		]
+	},
+	"east_west_line_door_open": {
+		"sounds": [
+			{
+				"name": "minecraft:east_west_line_door_open"
+			}
+		]
+	},
+	"east_west_line_lol_wu_arrival": {
+		"sounds": [
+			{
+				"name": "minecraft:east_west_line_lol_wu_arrival"
+			}
+		]
+	},
+	"lo_wu_announcement": {
+		"sounds": [
+			{
+				"name": "minecraft:lo_wu_announcement"
+			}
+		]
+	},
+	"lo_wu_arrival_mtr_ver": {
+		"sounds": [
+			{
+				"name": "minecraft:lo_wu_arrival_mtr_ver"
+			}
+		]
+	},
+	"wdr_platform_doors": {
+		"sounds": [
+			{
+				"name": "minecraft:wdr_platform_doors"
+			}
+		]
+	},
+	"wdr_yellow_line": {
+		"sounds": [
+			{
+				"name": "minecraft:wdr_yellow_line"
+			}
+		]
+	},
+	"na_train_approaching_female": {
+		"sounds": [
+			{
+				"name": "minecraft:train_approaching_female"
+			}
+		]
+	},
+	"na_train_approaching_male": {
+		"sounds": [
+			{
+				"name": "minecraft:train_approaching_male"
+			}
+		]
+	},
+	"special_train_to_centown": {
+		"sounds": [
+			{
+				"name": "minecraft:special_train_to_centown"
+			}
+		]
+	},
+	"to_ay_bek_road": {
+		"sounds": [
+			{
+				"name": "minecraft:to_ay_bek_road"
+			}
+		]
+	},
+	"to_central": {
+		"sounds": [
+			{
+				"name": "minecraft:to_central"
+			}
+		]
+	},
+	"to_cheung_sing_tsuen": {
+		"sounds": [
+			{
+				"name": "minecraft:to_cheung_sing_tsuen"
+			}
+		]
+	},
+	"to_chisanyake": {
+		"sounds": [
+			{
+				"name": "minecraft:to_chisanyake"
+			}
+		]
+	},
+	"to_liebengburg": {
+		"sounds": [
+			{
+				"name": "minecraft:to_liebengburg"
+			}
+		]
+	},
+	"to_ryde": {
+		"sounds": [
+			{
+				"name": "minecraft:to_ryde"
+			}
+		]
+	},
+	"to_ryde_lieb": {
+		"sounds": [
+			{
+				"name": "minecraft:to_ryde_lieb"
+			}
+		]
+	},
+	"to_ryde_shipwreck": {
+		"sounds": [
+			{
+				"name": "minecraft:to_ryde_shipwreck"
+			}
+		]
+	},
+	"to_ryde_wanho": {
+		"sounds": [
+			{
+				"name": "minecraft:to_ryde_wanho"
+			}
+		]
+	},
+	"to_shek_chung_au": {
+		"sounds": [
+			{
+				"name": "minecraft:to_shek_chung_au"
+			}
+		]
+	},
+	"to_tai_shue_wan": {
+		"sounds": [
+			{
+				"name": "minecraft:to_tai_shue_wan"
+			}
+		]
+	},
+	"to_wanho_anchor": {
+		"sounds": [
+			{
+				"name": "minecraft:to_wanho_anchor"
+			}
+		]
+	},
+	"to_wanho_andowns": {
+		"sounds": [
+			{
+				"name": "minecraft:to_wanho_andowns"
+			}
+		]
+	},
+	"to_wanho_bay": {
+		"sounds": [
+			{
+				"name": "minecraft:to_wanho_bay"
+			}
+		]
+	},
+	"to_wanho_esplanade": {
+		"sounds": [
+			{
+				"name": "minecraft:to_wanho_esplanade"
+			}
+		]
+	},
+	"to_wanho_lieben": {
+		"sounds": [
+			{
+				"name": "minecraft:to_wanho_lieben"
+			}
+		]
+	},
+	"ol.forest_hills": {
+		"category": "master",
+		"sounds": [
+			"ol/forest_hills"
+		]
+	},
+	"ol.oak_grove": {
+		"category": "master",
+		"sounds": [
+			"ol/oak_grove"
+		]
+	},
+	"ap.ap_back_bay": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_back_bay"
+		]
+	},
+	"ap.ap_forest_hills": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_forest_hills"
+		]
+	},
+	"ap.ap_green": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_green"
+		]
+	},
+	"ap.ap_jackson": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_jackson"
+		]
+	},
+	"ap.ap_mass_ave": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_mass_ave"
+		]
+	},
+	"ap.ap_roxbury": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_roxbury"
+		]
+	},
+	"ap.ap_ruggles": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_ruggles"
+		]
+	},
+	"ap.ap_stony_brook": {
+		"category": "master",
+		"sounds": [
+			"ap/ap_stony_brook"
+		]
+	},
+	"ns.ns_back_bay": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_back_bay"
+		]
+	},
+	"ns.ns_forest_hills": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_forest_hills"
+		]
+	},
+	"ns.ns_green": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_green"
+		]
+	},
+	"ns.ap_ns_jackson": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_jackson"
+		]
+	},
+	"ns.ns_mass_ave": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_mass_ave"
+		]
+	},
+	"ns.ns_roxbury_crossing": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_roxbury_crossing"
+		]
+	},
+	"ns.ns_ruggles": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_ruggles"
+		]
+	},
+	"ns.ns_stony_brook": {
+		"category": "master",
+		"sounds": [
+			"ns/ns_stony_brook"
+		]
+	},
+	"s.forest_hills": {
+		"category": "master",
+		"sounds": [
+			"s/forest_hills"
+		]
+	},
+	"s.face_coverings": {
+		"category": "master",
+		"sounds": [
+			"s/face_coverings"
+		]
+	},
+	"ctr.announcement_refrain_from_modifying_maps": {
+		"category": "master",
+		"sounds": [
+			"ctr/announcement_refrain_from_modifying_maps"
+		]
+	},
+	"ctr.announcement_refrain_from_running": {
+		"category": "master",
+		"sounds": [
+			"ctr/announcement_refrain_from_running"
+		]
+	},
+	"ctr.announcement_door_left": {
+		"category": "master",
+		"sounds": [
+			"ctr/announcement_door_left"
+		]
+	},
+	"ctr.announcement_door_right": {
+		"category": "master",
+		"sounds": [
+			"ctr/announcement_door_right"
+		]
+	},
+	"ctr.youer_starscout_terminus": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_starscout_terminus"
+		]
+	},
+	"ctr.youer_moonbow": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_moonbow"
+		]
+	},
+	"ctr.youer_photoelectricpark": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_photoelectricpark"
+		]
+	},
+	"ctr.youer_lovebirdheadquarters": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_lovebirdheadquarters"
+		]
+	},
+	"ctr.youer_queengenkithefirst": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_queengenkithefirst"
+		]
+	},
+	"ctr.youer_centralpark": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_centralpark"
+		]
+	},
+	"ctr.youer_boscoism": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_boscoism"
+		]
+	},
+	"ctr.youer_jobanstreet": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_jobanstreet"
+		]
+	},
+	"ctr.youer_harmon_terminus": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_harmon_terminus"
+		]
+	},
+	"ctr.youer_northbound_2min": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_northbound_2min"
+		]
+	},
+	"ctr.youer_southbound_2min": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_southbound_2min"
+		]
+	},
+	"ctr.youer_northbound_arrival": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_northbound_arrival"
+		]
+	},
+	"ctr.youer_southbound_arrival": {
+		"category": "master",
+		"sounds": [
+			"ctr/youer_southbound_arrival"
+		]
+	},
+	"mtr_door_close": {
+		"sounds": [
+			{
+				"name": "minecraft:mtr_door_close"
+			}
+		]
+	},
+	"icm_isu_sub_w": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_sub_w"
+			}
+		]
+	},
+	"icm_isu_sub_e": {
+		"sounds": [
+			{
+				"name": "icm_isu_sub_e"
+			}
+		]
+	},
+	"icm_isu_snv": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_snv"
+			}
+		]
+	},
+	"icm_isu_sam_w": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_sam_w"
+			}
+		]
+	},
+	"icm_isu_sam_e": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_sam_e"
+			}
+		]
+	},
+	"icm_isu_ihs": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_ihs"
+			}
+		]
+	},
+	"icm_isu_chm_w": {
+		"sounds": [
+			{
+				"name": "minecraft:icm_isu_chm_w"
+			}
+		]
+	},
+	"eal_train_depart": {
+		"sounds": [
+			{
+				"name": "minecraft:eal_train_depart"
+			}
+		]
+	},
+	"eal_terminus": {
+		"sounds": [
+			{
+				"name": "minecraft:eal_terminus"
+			}
+		]
+	},
+	"hrt_mind_the_gap": {
+		"sounds": [
+			{
+				"name": "minecraft:hrt_mind_the_gap"
+			}
+		]
+	}
 }
