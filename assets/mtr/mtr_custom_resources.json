@@ -2242,6 +2242,76 @@
 				"base_train_type": "light_rail_4",
 				"texture_id": "mtr:custom_directory/light_rail_clr.png"
 			},
+			"c321_mtrain": {
+				"name": "M-Train (TRTC C321 Livery)",
+				"color": "3F78C9",
+				"base_train_type": "m_train",
+				"texture_id": "mtr:custom_directory/c321.png",
+				"speed_sound_count": 51,
+				"door_sound_base_id": "simensgto",
+				"speed_sound_base_id": "simensgto"
+			},
+			"mini_c321_mtrain": {
+				"name": "M-Train (TRTC C321 Livery)(mini)",
+				"color": "3F78C9",
+				"base_train_type": "m_train_mini",
+				"texture_id": "mtr:custom_directory/c321.png",
+				"speed_sound_count": 51,
+				"door_sound_base_id": "simensgto",
+				"speed_sound_base_id": "simensgto"
+				
+			},
+			"real_c321_mtrain": {
+				"name": "M-Train (TRTC C321 Livery)(4 doors)",
+				"color": "3F78C9",
+				"base_train_type": "m_train_small",
+				"texture_id": "mtr:custom_directory/c321.png",
+				"speed_sound_count": 51,
+				"door_sound_base_id": "simensgto",
+				"speed_sound_base_id": "simensgto"
+			},
+			"keihan5000": {
+				"name": "Keihan 5000 series",
+				"color": "00544C",
+				"base_train_type": "m_train",
+				"texture_id": "mtr:custom_directory/kh.png"
+			},
+			"keihan5000m": {
+				"name": "Keihan 5000 series（mini）",
+				"color": "00544C",
+				"base_train_type": "m_train_mini",
+				"texture_id": "mtr:custom_directory/kh.png"
+			},
+			"keihan5000s": {
+				"name": "Keihan 5000 series（4 door）",
+				"color": "00544C",
+				"base_train_type": "m_train_small",
+				"texture_id": "mtr:custom_directory/kh.png"
+			},
+			"class251": {
+				"name": "Class 230 (West Midlands Trains)",
+				"color": "188847",
+				"base_train_type": "london_underground_d78",
+				"texture_id": "mtr:custom_directory/jre/jre.png"
+			},
+			"class157": {
+				"name": "Class 157 (Fictional)",
+				"color": "E7AF25",
+				"gangway_connection_id": "mtr:fictional/157",
+				"rider_offset": 0.0,
+				"door_sound_base_id": "sp1900",
+				"texture_id": "mtr:custom_directory/class157/class157",
+				"model": "mtr:custom_directory/class157/class157.bbmodel",
+				"model_properties": "mtr:custom_directory/class157/class157.json"
+			},
+			"spt": {
+				"name": "School Private Train",
+				"color": "57b544",
+				"gangway_connection_id": "mtr:textures/entity/sp1900",
+				"train_barrier_id": "mtr:textures/entity/mlr",
+				"base_train_type": "cm_stock_mini",
+				"texture_id": "mtr:custom_directory/spt.png"
+			},
 			"rv_sp_fc": {
 				"name": "Railway Vision SP1900 (IHS-CEN)",
 				"color": "E870D9",
