@@ -2349,9 +2349,140 @@
 				"color": "FF5050",
 				"base_train_type": "c1141a",
 				"texture_id": "mtr:custom_directory/forail/forail_c1141a_rsl.png"
-			}
+			},
+			"custom_trains":{
+
+				"t1": {
+					"name":"6000 Series (Yellow) ",
+					"description":"My Custom Train Description",
+					"color":"FFD300",
+					"base_train_type": "k_train",
+					"texture_id":"mtr:textures/trains/k_train.png"
+					},
+			"1200_blue": {
+				"name":"1200 Series (Blue)",
+				"description":"My Custom Train Description",
+				"wikipedia_article":"Bombardier Movia C951/C951A",
+				"color":"4052FF",
+				"door_animation_type":"PLUG_SLOW",
+				"render_door_overlay":false,
+				"base_train_type": "k_train",
+				"texture_id":"mtr:textures/trains/delta_k_train.png",
+				"model":"mtr:textures/trains/delta_k_train.bbmodel"
+				},
+				"tube_orange": {
+					"name":"Orange Tube Train",
+					"description":"My Custom Train Description",
+					"wikipedia_article":"",
+					"color":"4052FF",
+					"door_animation_type":"STANDERD",
+					"render_door_overlay":false,
+					"base_train_type": "london_underground_1995",
+					"texture_id":"mtr:textures/trains/tubetrain.png",
+					"door_sound_base_id":"sp1900",
+					"speed_sound_base_id":"sp1900",
+					"speed_sound_count":"3000"
+					},
+				"6000_red": {
+					"name":"6000 Series (Red)",
+					"description":"My Custom Train Description",
+					"color":"FF0000",
+					"base_train_type": "k_train",
+					"texture_id":"mtr:textures/trains/k_train_red.png"
+					},
+							"6000_green": {
+								"name":"6000 Series (Green)",
+								"description":"My Custom Train Description",
+								"color":"4052FF",
+								"base_train_type": "k_train",
+								"texture_id":"mtr:textures/trains/k_train_green.png"
+								},
+										"6000_blue": {
+											"name":"6000 Series (Blue)",
+											"description":"My Custom Train Description",
+											"color":"4052FF",
+											"base_train_type": "k_train",
+											"texture_id":"mtr:textures/trains/k_train_blue.png"
+											},
+													"6000_orange": {
+														"name":"6000 Series (Orange)",
+														"description":"My Custom Train Description",
+														"color":"4052FF",
+														"base_train_type": "k_train",
+														"texture_id":"mtr:textures/trains/k_train_orange.png"
+														},
+																"6000_purple": {
+																	"name":"6000 Series (Purple)",
+																	"description":"My Custom Train Description",
+																	"color":"4052FF",
+																	"base_train_type": "k_train",
+																	"texture_id":"mtr:textures/trains/k_train_purple.png"
 		},
-	"custom_signs": {
+			"6000_pink": {
+			"name":"6000 Series (Pink)",
+			"description":"My Custom Train Description",
+			"color":"4052FF",
+			"base_train_type": "k_train",
+			"texture_id":"mtr:textures/trains/k_train_pink.png"
+		}
+		},
+		"custom_signs": {
+			"train1": {
+				"texture_id": "mtr:textures/signs/train1.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": false,
+				"small": true
+			},
+			"train1_flp": {
+				"texture_id": "mtr:textures/signs/train1.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": true,
+				"small": true
+			},
+			"train1_icon": {
+				"texture_id": "mtr:textures/signs/train1.png",
+				"small": true
+			},
+			"train2": {
+				"texture_id": "mtr:textures/signs/train2.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": false,
+				"small": true
+			},
+			"train2_flp": {
+				"texture_id": "mtr:textures/signs/train2.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": true,
+				"small": true
+			},
+			"train2_icon": {
+				"texture_id": "mtr:textures/signs/train2.png",
+				"small": true
+			},
+			"train3": {
+				"texture_id": "mtr:textures/signs/train3.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": false,
+				"small": true
+			},
+			"train3_flp": {
+				"texture_id": "mtr:textures/signs/train3.png",
+				"flip_texture": false,
+				"custom_text": "火車|Trains",
+				"flip_custom_text": true,
+				"small": true
+			},
+			"train3_icon": {
+				"texture_id": "mtr:textures/signs/train3.png",
+				"small": true
+			}
+		
+		},
 		"exit_1": {
 			"texture_id": "mtr:custom_directory/exitsign.png",
 			"flip_texture": false,
