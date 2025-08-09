@@ -1,5 +1,153 @@
 {
     "custom_trains": {
+        
+        "class_802_nolivery": {
+			"name": "British Rail Class 802 (No livery, Black nose)",
+			"color": "#eeeeee",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_nolivery.png"
+
+			},
+
+		"class_801_nolivery": {
+			"name": "British Rail Class 801 (No livery, Yellow nose)",
+			"color": "f1c232",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_801_nolivery.png"
+
+			},
+
+	"class_810_aurora": {
+			"name": "British Rail Class 810 Aurora (EMR - East Midlands Railway)",
+			"color": "#4d2f49",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_810_aurora.png"
+
+			},
+
+	"class_803_lumo": {
+			"name": "British Rail Class 803 (Lumo)",
+			"color": "#0047cb",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_803_lumo.png"
+
+			},
+
+	"class_802_hk_airportexpress": {
+			"name": "British Rail Class 802 (Hong Kong Airport Express, Fictional)",
+			"color": "#0086FF",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_hk_airportexpress.png"
+
+			},
+
+	"class_802_renfe_avant": {
+			"name": "British Rail Class 802 (Renfe, Avant)",
+			"color": "#FF4C00",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_avant.png"
+
+			},
+
+	"class_802_renfe_standard": {
+			"name": "British Rail Class 802 (Renfe, Standard)",
+			"color": "#851563",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_standard.png"
+
+			},
+
+	"class_802_renfe_velaro": {
+			"name": "British Rail Class 802 (Renfe, S-103 Velaro)",
+			"color": "#979797",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_velaro.png"
+
+			},
+
+	"class_801_lner_azuma": {
+			"name": "British Rail Class 801 Azuma (LNER - London NorthEastern Railway)",
+			"color": "#cf112b",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_801_azuma.png"
+
+		},
+    "c801a":{
+		"name":"Bombardier Innovia APM 100 (C801A)",
+		"description":"My Custom Train Description",
+		"wikipedia_article":"",
+		"color":"ff390e",
+		"gangway_connection_id":"",
+		"train_barrier_id":"",
+		"door_animation_type":"STANDARD",
+		"render_door_overlay":false,
+		"rider_offset":0.0,
+		"speed_sound_count": 48,
+		"speed_sound_base_id": "thyristor",
+		"door_sound_base_id": "thyristor",
+		"bve_sound_base_id": "thyristor",
+		"has_gangway_connection": false,
+		"texture_id":"mtr:apm100/c801a",
+		"model":"mtr:apm100/apm100.bbmodel",
+		"model_properties":"mtr:apm100/c801a.json"
+		},
+	"apm100":{
+		"name":"Bombardier Innovia APM 100 (2003-2014)",
+		"description":"My Custom Train Description",
+		"wikipedia_article":"",
+		"color":"ffffff",
+		"gangway_connection_id":"",
+		"train_barrier_id":"",
+		"door_animation_type":"STANDARD",
+		"render_door_overlay":false,
+		"rider_offset":0.0,
+		"speed_sound_count": 48,
+		"speed_sound_base_id": "thyristor",
+		"door_sound_base_id": "thyristor",
+		"bve_sound_base_id": "thyristor",
+		"has_gangway_connection": false,
+		"texture_id":"mtr:apm100/apm100",
+		"model":"mtr:apm100/apm100.bbmodel",
+		"model_properties":"mtr:apm100/apm100.json"
+		},
+		"c801b":{
+		"name":"Alstom Innovia APM 300R (C801B)",
+		"description":"My Custom Train Description",
+		"wikipedia_article":"",
+		"color":"47bed4",
+		"gangway_connection_id":"",
+		"train_barrier_id":"",
+		"door_animation_type":"R179",
+		"render_door_overlay":false,
+		"rider_offset":0.0,
+		"speed_sound_count": 48,
+		"speed_sound_base_id": "igbt",
+		"door_sound_base_id": "igbt",
+		"bve_sound_base_id": "igbt",
+		"has_gangway_connection": false,
+		"texture_id":"mtr:apm300r/c801b",
+		"model":"mtr:apm300r/apm300r.bbmodel",
+		"model_properties":"mtr:apm300r/c801b.json"
+		},
+		"apm300r":{
+		"name":"Alstom Innovia APM 300R (2022-Present)",
+		"description":"My Custom Train Description",
+		"wikipedia_article":"",
+		"color":"ffffff",
+		"gangway_connection_id":"",
+		"train_barrier_id":"",
+		"door_animation_type":"R179",
+		"render_door_overlay":false,
+		"rider_offset":0.0,
+		"speed_sound_count": 48,
+		"speed_sound_base_id": "igbt",
+		"door_sound_base_id": "igbt",
+		"bve_sound_base_id": "igbt",
+		"has_gangway_connection": false,
+		"texture_id":"mtr:apm300r/apm300r",
+		"model":"mtr:apm300r/apm300r.bbmodel",
+		"model_properties":"mtr:apm300r/apm300r.json"
+		},
         "tml_sp2": {
             "name": "SP1900 (Custom Sound) (TML) (Door Sticker)",
             "description": "",
@@ -3156,6 +3304,30 @@
         },
         "zn": {
             "texture_id": "mtr:custom_directory/signs/spawn_zones/n.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "t1": {
+            "texture_id": "mtr:custom_directory/signs/airport_terminals/1.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "t2": {
+            "texture_id": "mtr:custom_directory/signs/airport_terminals/2.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "t3": {
+            "texture_id": "mtr:custom_directory/signs/airport_terminals/3.png",
             "flip_texture": false,
             "custom_text": "",
             "flip_custom_text": false,
