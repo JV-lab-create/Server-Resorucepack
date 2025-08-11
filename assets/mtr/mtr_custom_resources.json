@@ -3318,6 +3318,22 @@
             "small": false,
             "background_color": "000000"
         },
+        "spairportparkway": {
+            "texture_id": "mtr:custom_directory/signs/airport_terminals/parkway.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "spairtrain": {
+            "texture_id": "mtr:custom_directory/signs/airport_terminals/train.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
         "t2": {
             "texture_id": "mtr:custom_directory/signs/airport_terminals/2.png",
             "flip_texture": false,
@@ -3381,6 +3397,79 @@
             "flip_custom_text": false,
             "small": false,
             "background_color": "000000"
+        },
+        "carpark": {
+            "texture_id": "mtr:custom_directory/signs/carpark.png",
+            "flip_texture": false,
+            "custom_text": "停車|Parking",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "carpark_fliped": {
+            "texture_id": "mtr:custom_directory/signs/carpark.png",
+            "flip_texture": false,
+            "custom_text": "停車|Parking",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
+        },
+        "carpark_icon": {
+            "texture_id": "mtr:custom_directory/signs/carpark.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
+        },
+        "bus": {
+            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "巴士|Buses",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "bus_fliped": {
+            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "巴士|Buses",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
+        },
+        "bus_icon": {
+            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
+        },
+        "light_bus": {
+            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "巴士|Buses",
+            "flip_custom_text": false,
+            "small": false,
+            "background_color": "000000"
+        },
+        "light_bus_fliped": {
+            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "巴士|Buses",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
+        },
+        "light_bus_icon": {
+            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
+            "flip_texture": false,
+            "custom_text": "",
+            "flip_custom_text": true,
+            "small": false,
+            "background_color": "000000"
         }
+        
     }
 }
