@@ -44,6 +44,116 @@
       "background": "jsblock:custom_directory/rv_purple.png",
       "fonts": "mtr:mtr",
       "color": "000000"
-    }
+    },
+    		{
+			"id": "win10_boot",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10boot.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_boot",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11boot.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "winre_modern",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/winremodern.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_dt",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11dt.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win_bsod",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsod.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "bsodmodern_1",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsodmodern1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "bsodmodern_2",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsodmodern2.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win10_re",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10re.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win10_dt",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10dt.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win_bios",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bios.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_re",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11re.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		}
   ]
 }
