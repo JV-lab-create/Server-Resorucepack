@@ -1,0 +1,252 @@
+{
+  "pids_images": [
+    {
+      "id": "blue_crystal_rv_pids",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/bluecrystal.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "rv_yellow",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/rv_yellow.png",
+      "fonts": "mtr:mtr",
+      "color": "000000"
+    },
+    {
+      "id": "rv_purple",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/rv_purple.png",
+      "fonts": "mtr:mtr",
+      "color": "000000"
+    },
+    		{
+			"id": "win10_boot",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10boot.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_boot",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11boot.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "winre_modern",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/winremodern.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_dt",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11dt.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win_bsod",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsod.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "bsodmodern_1",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsodmodern1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "bsodmodern_2",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bsodmodern2.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win10_re",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10re.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win10_dt",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win10dt.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win_bios",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/bios.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "win11_re",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/win11re.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+      		"id": "nsewl_pids",
+      		"name": "NSEWL Preset",
+      		"thumbnail": "jsblock:textures/thumbnails/nsewl_icon.png",
+      		"scriptFiles": ["jsblock:scripts/nsewl_pids.js"]
+		},
+    	{
+      		"id": "tel_pids",
+      		"name": "TEL Preset",
+      		"thumbnail": "jsblock:textures/thumbnails/tel_icon.png",
+      		"scriptFiles": ["jsblock:scripts/tel_pids.js"]
+		},
+		{
+      		"id": "dtl_pids",
+      		"name": "DTL Preset",
+      		"thumbnail": "jsblock:textures/thumbnails/dtl_icon.png",
+      		"scriptFiles": ["jsblock:scripts/dtl_pids.js"]
+    	},
+		{
+      		"id": "wmata_pids",
+      		"name": "WMATA PIDS",
+      		"scriptFiles": ["jsblock:scripts/wmata_pids.js"]
+    	},
+    	{
+      		"id": "cta_pids",
+      		"name": "CTA PIDS",
+      		"scriptFiles": ["jsblock:scripts/cta_pids.js"]
+    	},
+    	{
+      		"id": "test_pids",
+      		"name": "Test PIDS",
+      		"scriptFiles": ["jsblock:scripts/test_pids.js"]
+    	},
+		{
+			"id": "pids_ewl",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_ewl.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_nsl",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_nsl.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_ccl",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_ccl.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_dtl",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_dtl.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_nel",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_nel.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_tel",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:custom_directory/pids_tel.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		}
+  	]
+}

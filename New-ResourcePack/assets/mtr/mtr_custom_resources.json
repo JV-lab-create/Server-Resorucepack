@@ -1,0 +1,14 @@
+{
+  "vehicles": [],
+  "signs": [],
+  "rails": [],
+  "objects": [],
+  "lifts": [
+    {
+		"id": "detail",
+		"name": "Detailed Lift",
+		"color": "CCCCCC",
+		"textureResource": "mtr:lift/lift_1.png"
+	}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    
+	"tram_track": {
+		"name": "§9Tram tracks with attached road",
+        "model": "mtrsteamloco:rails/tram_track.obj",
+		"repeatInterval": 0.5
+    },
+	"tram_track1": {
+		"name":"§9Tram tracks without road",
+		"model": "mtrsteamloco:rails/tram_track1.obj",
+		"repeatInterval": 0.5
+	},
+	"sunken_road_real": {
+		"name":"§9Realistic sunken tracks",
+		"model":"mtrsteamloco:rails/sunken_road_real.obj",
+		"repeatInterval": 0.6
+	}
+}

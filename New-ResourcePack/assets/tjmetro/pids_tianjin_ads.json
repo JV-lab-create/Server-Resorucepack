@@ -1,0 +1,60 @@
+{
+    "_comment_aspectRatio": 1.82,
+    "tjmetro": {
+        "name": "advertisement.tjmetro.name",
+        "description": "advertisement.tjmetro.description",
+        "color": "CB1C1C",
+        "advertisements": [
+            {
+                "image": "tjmetro:advertisements/banner.png",
+                "text": "advertisement.tjmetro.banner"
+            },
+            {
+                "image": "tjmetro:advertisements/weblate.png",
+                "text": "advertisement.tjmetro.weblate"
+            },
+            {
+                "image": "tjmetro:advertisements/bde.png",
+                "text": "advertisement.tjmetro.bde"
+            }
+        ]
+    },
+        "spawn_rail": {
+        "name": "SPAWN RAIL",
+        "description": "spawn rail advertisements",
+        "color": "CB1C1C",
+        "advertisements": [
+            {
+                "image": "tjmetro:advertisements/spawnrail/track.png",
+                "text": "Spawn Rail is a commuter rail train, that goes around spawn. It goes to many places such as Spawn, Airport, Euless, Middle Town, Nothernbeach and more"
+            },
+            {
+                "image": "tjmetro:advertisements/spawnrail/euless.png",
+                "text": "Spawn Rail has nice and simple stations, even though they are outside they are still nice, clean. Some stations also have a air condensioned room"
+            },
+            {
+                "image": "tjmetro:advertisements/spawnrail/inside.png",
+                "text": "The Spawn Rail has a nice inside, including a 2nt floor and more. Longer trains sometimes have a sleeper car!"
+            }
+        ]
+    },
+    "airport": {
+        "name": "SPAWN AIRPORT",
+        "description": "SPAWN AIRPORT ANOUNCEMENTS",
+        "color": "CB1C1C",
+        "advertisements": [
+            {
+                "image": "tjmetro:advertisements/airport/one.png",
+                "text": "Welcome to Spawn Internasnal Airport, Remember to keep your beloning with you at all times. If you see random belongins please report them to TSA Security"
+            },
+            {
+                "image": "tjmetro:advertisements/airport/two.png",
+                "text": "Securty is everyones responsibly, you must have a ticket berfore going thought the security checpoint."
+            },
+            {
+                "image": "tjmetro:advertisements/airport/four.png",
+                "text": "Ride the train to spawn, your can ride the Airport Express to spawn. You can also take the High Speed Rail to other places too, and you can also take the Blue Line to spawn too"
+            }
+        ]
+    }
+}
