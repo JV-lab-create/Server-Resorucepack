@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "localPackName": "SyncedPack",
+  "disableBuiltinSources": true,
+  "sources": [
+    {
+      "name": "New-ResourcePack",
+      "baseUrl": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/New-ResourcePack/",
+      "hasDirHash": true,
+      "hasArchive": false
+    }
+  ]
+}
