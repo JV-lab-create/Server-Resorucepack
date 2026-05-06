@@ -5,7 +5,7 @@
 * Windows PIDS - Windows PIDS Screens By SQ\_PRO ib nidrubth
 * SG MRT PIDS V2 \[MTR4] - MRT PIDS - By ah05\_
 * SG MRT style PIDS v1.01 Public Ver \[MTR4] - MRT PIDS (Static) - By ah05\_
-* \[MTR4+JCM] US PIDS Pack - CTA PIDS, DC WMATA PIDS, - By EJD799
+* World PIDS-Pack in `/wpp/` https://modrinth.com/resourcepack/world-pids-pack
 
 #### Elevator
 

@@ -1,3 +1,10 @@
+/*
+  This is from SG MRT PIDS Pack
+  https://modrinth.com/resourcepack/sg-mrt-pids-v2/
+  by TeamPommes
+*/
+
+
 include(Resources.id("jsblock:scripts/pids_util.js")); // Built-in script shipped with JCM
 const HEADER_HEIGHT = 13;
 

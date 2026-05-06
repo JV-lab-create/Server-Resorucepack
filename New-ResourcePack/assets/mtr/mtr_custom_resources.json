@@ -1,14 +1,1575 @@
 {
-  "vehicles": [],
-  "signs": [],
+  "vehicles": [
+	{
+            "id": "gray_a_train_ael_trailer",
+            "name": "Airport Express CAF Train",
+            "color": "7f7f7f",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "MTR_Adtranz%E2%80%93CAF_EMU",
+            "tags": [
+                "family:a_train",
+                "iso_3166:HK",
+                "doors:2",
+                "type:trailer"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "bveSoundBaseResource": "a_train",
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "gray_a_train_ael_cab_1",
+            "name": "Airport Express CAF Train Cab (Forwards)",
+            "color": "7f7f7f",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 2,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "MTR_Adtranz%E2%80%93CAF_EMU",
+            "tags": [
+                "family:a_train",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_1"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "bveSoundBaseResource": "a_train",
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "gray_a_train_ael_cab_2",
+            "name": "Airport Express CAF Train Cab (Backwards)",
+            "color": "7f7f7f",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 2,
+            "wikipediaArticle": "MTR_Adtranz%E2%80%93CAF_EMU",
+            "tags": [
+                "family:a_train",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_2"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "bveSoundBaseResource": "bve_tml_c_train",
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "gray_a_train_ael_cab_3",
+            "name": "Airport Express CAF Train Cab (Double)",
+            "color": "7f7f7f",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 2,
+            "couplingPadding2": 2,
+            "wikipediaArticle": "MTR_Adtranz%E2%80%93CAF_EMU",
+            "tags": [
+                "family:a_train",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_3"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/a_train.bbmodel",
+                    "textureResource": "mtr:train/gray_a_train_ael.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/a_train_ael_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/a_train_ael.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "bveSoundBaseResource": "a_train",
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+		{
+            "id": "sp1900_customsound_trailer",
+            "name": "SP1900 Custom Sound Trailer (Normal)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:5",
+                "type:trailer"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "sp1900_customsound_small_trailer",
+            "name": "SP1900 Custom Sound Trailer (Small)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:4",
+                "type:trailer"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 21,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "sp1900_customsound_mini_trailer",
+            "name": "SP1900 Custom Sound Trailer (Mini)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:2",
+                "type:trailer"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 13,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "sp1900_cab_1",
+            "name": "SP1900 Custom Sound Cab (Forwards, Normal)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:5",
+                "type:cab_1"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "sp1900_customsound_small_cab_1",
+            "name": "SP1900 Custom Sound Cab (Forwards, Small)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:4",
+                "type:cab_1"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 21,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "sp1900_customsound_mini_cab_1",
+            "name": "SP1900 Custom Sound Cab (Forwards, Mini)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 0,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_1"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 13,
+            "bogie1Position": -2.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "SP1900 Custom Sound_cab_2",
+            "name": "SP1900 Cab (Backwards, Normal)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:5",
+                "type:cab_2"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "sp1900_customsound_small_cab_2",
+            "name": "SP1900 Custom Sound Cab (Backwards, Small)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:4",
+                "type:cab_2"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 21,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "sp1900_customsound_mini_cab_2",
+            "name": "SP1900 Custom Sound Cab (Backwards, Mini)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_2"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_end_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 13,
+            "bogie1Position": -6.5,
+            "bogie2Position": 2.5
+        },
+        {
+            "id": "sp1900_cab_3",
+            "name": "SP1900 Custom Sound Cab (Double, Normal)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:5",
+                "type:cab_3"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 25,
+            "bogie1Position": -8.5,
+            "bogie2Position": 8.5
+        },
+        {
+            "id": "sp1900_customsound_small_cab_3",
+            "name": "SP1900 Custom Sound Cab (Double, Small)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:4",
+                "type:cab_3"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_small.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 21,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5
+        },
+        {
+            "id": "sp1900_customsound_mini_cab_3",
+            "name": "SP1900 Custom Sound Cab (Double, Mini)",
+            "color": "4b87ff",
+            "transportMode": "TRAIN",
+            "width": 2,
+            "couplingPadding1": 1,
+            "couplingPadding2": 1,
+            "wikipediaArticle": "SP1900_EMU",
+            "tags": [
+                "family:sp1900",
+                "iso_3166:HK",
+                "doors:2",
+                "type:cab_3"
+            ],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_common.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/sp1900.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/sp1900.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_head_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_left.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_left_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_right.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_right_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/door_overlay_top_sp1900.bbmodel",
+                    "textureResource": "mtr:textures/overlay/door_overlay_sp1900_top.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/sp1900_door_top_overlay.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/sp1900_mini.json"
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json"
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyDoorSoundBaseResource": "sp1900",
+            "legacyDoorCloseSoundTime": 0.5,
+            "length": 13,
+            "bogie1Position": 0,
+            "bogie2Position": 0
+        }
+
+  ],
+  "signs": [
+    {
+	    "id": "arrow_turn_forward1",
+	    "textureResource": "mtr:sign/arrow_turn_forward1",
+	    "customText": "",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "arrow_turn_forward2",
+	    "textureResource": "mtr:sign/arrow_turn_forward2",
+	    "customText": "",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+        "id": "fare_adjustment_flip",
+		"texture_id": "mtr:textures/block/sign/tickets.png",
+		"custom_text": "精算機|Fare adjustment",
+		"flip_custom_text": true,
+		"small": true
+	},
+    {
+        "id": "fare_adjustment",
+		"texture_id": "mtr:textures/block/sign/tickets.png",
+		"custom_text": "精算機|Fare adjustment",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+	    "id": "line_ten_sign",
+	    "textureResource": "mtr:sign/line-10.png",
+	    "customText": "第10行|Line 10",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "line_ten_sign_fliped",
+	    "textureResource": "mtr:sign/line-10.png",
+	    "customText": "第10行|Line 10",
+	    "small": false,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "line_ten_sign_icon",
+	    "textureResource": "mtr:sign/line-10.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "line_eleven_sign",
+	    "textureResource": "mtr:sign/line-11.png",
+	    "customText": "第11行|Line 11",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "line_eleven_sign_fliped",
+	    "textureResource": "mtr:sign/line-11.png",
+	    "customText": "第11行|Line 11",
+	    "small": false,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "line_eleven_sign_icon",
+	    "textureResource": "mtr:sign/line-11.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "line_twelve_sign",
+	    "textureResource": "mtr:sign/line-12.png",
+	    "customText": "第12行|Line 12",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "line_twelve_sign_fliped",
+	    "textureResource": "mtr:sign/line-12.png",
+	    "customText": "第12行|Line 12",
+	    "small": false,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "line_twelve_sign_icon",
+	    "textureResource": "mtr:sign/line-112.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "indium_icon",
+	    "textureResource": "mtr:sign/indium.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "iris",
+	    "textureResource": "mtr:sign/iris.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "lithium",
+	    "textureResource": "mtr:sign/lithium.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "msd",
+	    "textureResource": "mtr:sign/msd.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "sodium",
+	    "textureResource": "mtr:sign/sodium.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "updator",
+	    "textureResource": "mtr:sign/updator.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "carpet",
+	    "textureResource": "mtr:sign/carpet.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "dynamicfps",
+	    "textureResource": "mtr:sign/dyn.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "debugify",
+	    "textureResource": "mtr:sign/debugify.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "BetterF3",
+	    "textureResource": "mtr:sign/f3.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "jsblock",
+	    "textureResource": "mtr:sign/jsblock.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "yacl_yet_another_config_mod",
+	    "textureResource": "mtr:sign/yacl.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "yosbr",
+	    "textureResource": "mtr:sign/yosbr.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "kotlin",
+	    "textureResource": "mtr:sign/kotlin.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "melody_logo",
+	    "textureResource": "mtr:sign/melody_logo.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "etf",
+	    "textureResource": "mtr:sign/etf.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "emf",
+	    "textureResource": "mtr:sign/emf.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "puzzle",
+	    "textureResource": "mtr:sign/puzzle.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "yte",
+	    "textureResource": "mtr:sign/yte.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "polytone",
+	    "textureResource": "mtr:sign/polytone.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "spark",
+	    "textureResource": "mtr:sign/spark.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "starlight",
+	    "textureResource": "mtr:sign/starlight.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "MoreCulling",
+	    "textureResource": "mtr:sign/MoreCulling.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "mousetweaks_logo",
+	    "textureResource": "mtr:sign/mousetweaks_logo.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "fancymenu_logo",
+	    "textureResource": "mtr:sign/fancymenu_logo.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "sliders",
+	    "textureResource": "mtr:sign/sliders.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "mousetweaks_logo",
+	    "textureResource": "mtr:sign/mousetweaks_logo.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "rma",
+	    "textureResource": "mtr:sign/rma.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "fabulously_optimized",
+	    "textureResource": "mtr:sign/fabulously_optimized.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "entityculling",
+	    "textureResource": "mtr:sign/entityculling.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "joban",
+	    "textureResource": "mtr:sign/joban.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "g_caps",
+	    "textureResource": "mtr:sign/g_caps.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "g_caps",
+	    "textureResource": "mtr:sign/prefab.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "roblox",
+	    "textureResource": "mtr:sign/roblox.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "rtc",
+	    "textureResource": "mtr:sign/rtc.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "tube_red_train",
+	    "textureResource": "mtr:sign/train/train2.png",
+	    "customText": "",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "tube_red_train_text",
+	    "textureResource": "mtr:sign/train/train2.png",
+	    "customText": "火車|Trains",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "tube_red_train_text",
+	    "textureResource": "mtr:sign/train/train2.png",
+	    "customText": "火車|Trains",
+	    "small": false,
+	    "flipCustomText": true
+    },
+    {
+        "id": "overworld_sign_flip",
+		"texture_id": "mtr:textures/block/sign/overworld.png",
+		"custom_text": "地上世界|Overworld",
+		"flip_custom_text": true,
+		"small": true
+	},
+    {
+        "id": "overworld_sign",
+		"texture_id": "mtr:textures/block/sign/overworld.png",
+		"custom_text": "地上世界|Overworld",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+	    "id": "overworld_sign_icon",
+	    "textureResource": "mtr:sign/overworld.png",
+	    "customText": "",
+	    "small": true,
+	    "flipCustomText": false
+    }
+  ],
   "rails": [],
   "objects": [],
   "lifts": [
     {
-		"id": "detail",
-		"name": "Detailed Lift",
-		"color": "CCCCCC",
-		"textureResource": "mtr:lift/lift_1.png"
-	}
+		  "id": "detail",
+		  "name": "Detailed Lift",
+		  "color": "CCCCCC",
+		  "textureResource": "mtr:lift/lift_1.png"
+	  }
   ]
 }
