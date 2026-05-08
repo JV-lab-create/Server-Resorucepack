@@ -550,5 +550,279 @@
               "attenuation_distance": 32
            }
         ]
-     }
+     },
+     "gen_diesel_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/airzero",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+	   "gen_diesel_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_cp": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/cp",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_cpend": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/cpend",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_cpstart": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/cpstart",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_loop": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "gen_diesel_point": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/point",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor0",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor1",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor2",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor3",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor4",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor5",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor7",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/motor6",
+                "pitch": 1,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "gen_diesel_run": {
+        "sounds": [
+            {
+                "name": "mtr:gen_diesel/run",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "thyristor_open": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/open",
+				"pitch": 1
+			}
+		]
+	},
+	"thyristor_close": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/close",
+				"pitch": 1
+			}
+		]
+
+	},
+		"thyristor_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	  	"thyristor_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"thyristor_loop": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"thyristor_run0": {
+		"sounds": [
+			{
+				"name": "mtr:thyristor/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+		      "igbt_open": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/open",
+				"pitch": 1
+			}
+		]
+	},
+	"igbt_close": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/close",
+				"pitch": 1
+			}
+		]
+
+	},
+		"igbt_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	  	"igbt_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"igbt_loop": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+	
+			}
+		]
+      },
+	"igbt_run0": {
+		"sounds": [
+			{
+				"name": "mtr:igbt/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	}
 }

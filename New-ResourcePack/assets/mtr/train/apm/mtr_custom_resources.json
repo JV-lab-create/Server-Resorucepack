@@ -1,0 +1,1304 @@
+{
+  "vehicles": [
+    {
+      "id": "mtr_custom_train_c801_middle",
+      "name": "Adtranz CX-100 (C801) (Middle)",
+      "color": "09AFD5",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt",
+          "modelPropertiesResource": "mtr:train/apm/properties_102e3fd1.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c4314f2c.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_f1201f62.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_7252ffc9.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_a4be3f28.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_48b9b4ec.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801_1",
+      "name": "Adtranz CX-100 (C801) (Forwards)",
+      "color": "09AFD5",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt",
+          "modelPropertiesResource": "mtr:train/apm/properties_a7f2d857.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_284f30c1.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_532c8c85.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_ef538af6.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_bf38a6d6.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_3dcd7d62.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801_2",
+      "name": "Adtranz CX-100 (C801) (Backwards)",
+      "color": "09AFD5",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt",
+          "modelPropertiesResource": "mtr:train/apm/properties_c08d3fa1.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c0fd83f0.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_4f215526.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_64a4940b.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_466c5ee4.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_8c3863cf.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801_3",
+      "name": "Adtranz CX-100 (C801) (Single)",
+      "color": "09AFD5",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt",
+          "modelPropertiesResource": "mtr:train/apm/properties_957a9e9b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_227755d2.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_96983ebc.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c3e1b1c.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_bplrt.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_3cd954d.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_cbcc5f88.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_cx100_middle",
+      "name": "Adtranz CX-100 (AGTS) (Middle)",
+      "color": "144769",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_f1a2ec0.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c22a53d.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_b64663a1.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_fab10a61.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_bb1fcea1.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_81065e46.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_cx100_1",
+      "name": "Adtranz CX-100 (AGTS) (Forwards)",
+      "color": "144769",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_1623561e.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_2604f311.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_5dcdbb73.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_5dcd79e2.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_b338e8bf.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4848f4fb.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_cx100_2",
+      "name": "Adtranz CX-100 (AGTS) (Backwards)",
+      "color": "144769",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_f6385df.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_df33f26c.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_643804c4.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_116bc31d.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_666d9a5c.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_19e0cccd.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_cx100_3",
+      "name": "Adtranz CX-100 (AGTS) (Single)",
+      "color": "144769",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_f91d8b9d.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_b09f069a.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_6b785e29.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_612e14b0.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/cx100/cx100.bbmodel",
+          "textureResource": "mtr:train/apm/cx100/cx100_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_18d0cc4d.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_d209df99.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801a_middle",
+      "name": "Bombardier Innovia APM 100 (C801A) (Middle)",
+      "color": "FF390E",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a",
+          "modelPropertiesResource": "mtr:train/apm/properties_1289b21d.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_91fc03ff.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_bfe20706.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_ae6bace8.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_af796b01.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_43bc494.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801a_1",
+      "name": "Bombardier Innovia APM 100 (C801A) (Forwards)",
+      "color": "FF390E",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a",
+          "modelPropertiesResource": "mtr:train/apm/properties_4ba9e58e.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_6a33c02f.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_41a4337f.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_85ac2cab.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_9203472f.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_52e8984a.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801a_2",
+      "name": "Bombardier Innovia APM 100 (C801A) (Backwards)",
+      "color": "FF390E",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a",
+          "modelPropertiesResource": "mtr:train/apm/properties_52bb9c9b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_984b958d.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_c1c29eb8.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_2f4e4a6.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_90ebe0be.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_1df99115.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801a_3",
+      "name": "Bombardier Innovia APM 100 (C801A) (Single)",
+      "color": "FF390E",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a",
+          "modelPropertiesResource": "mtr:train/apm/properties_2bdfe213.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4914de0b.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_3020b4e6.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_3ae4533a.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/c801a.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_fcbc5127.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_bd9547ca.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm100_middle",
+      "name": "Bombardier Innovia APM 100 (Airport Specs) (Middle)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100",
+          "modelPropertiesResource": "mtr:train/apm/properties_cc62ca4c.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_23f1f928.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_aeffc3a2.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_cd52e458.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_c08e1ca0.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_1de9bba4.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm100_1",
+      "name": "Bombardier Innovia APM 100 (Airport Specs) (Forwards)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100",
+          "modelPropertiesResource": "mtr:train/apm/properties_d4df05fc.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_fccca221.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_d72b83eb.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_8ed14653.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_a18a4f8e.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_2fb33fd7.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm100_2",
+      "name": "Bombardier Innovia APM 100 (Airport Specs) (Backwards)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100",
+          "modelPropertiesResource": "mtr:train/apm/properties_34ad2806.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_cc5df8ad.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_59489090.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4e124ad6.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_8af044d2.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_1421ec73.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm100_3",
+      "name": "Bombardier Innovia APM 100 (Airport Specs) (Single)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100",
+          "modelPropertiesResource": "mtr:train/apm/properties_c818a469.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_94198d1.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_29191914.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_47ca932b.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm100/apm100.bbmodel",
+          "textureResource": "mtr:train/apm/apm100/apm100.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_f4ffc5ca.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_50929798.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "thyristor",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801b_middle",
+      "name": "Alstom Innovia APM 300R (C801B) (Middle)",
+      "color": "47BED4",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b",
+          "modelPropertiesResource": "mtr:train/apm/properties_26443735.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_7ca1287e.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_65cdc419.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_e4cc4238.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_68ecd2f6.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c9f0bfbc.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801b_1",
+      "name": "Alstom Innovia APM 300R (C801B) (Forwards)",
+      "color": "47BED4",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b",
+          "modelPropertiesResource": "mtr:train/apm/properties_5ba2d8a2.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_55581c72.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_f03912bf.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_a6ce696b.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_3e6ac0fe.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_9464db50.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801b_2",
+      "name": "Alstom Innovia APM 300R (C801B) (Backwards)",
+      "color": "47BED4",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b",
+          "modelPropertiesResource": "mtr:train/apm/properties_c037ddc5.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_ac11eb67.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_3de4c14b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_b7bb427.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_e3a2d918.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4498117e.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_c801b_3",
+      "name": "Alstom Innovia APM 300R (C801B) (Single)",
+      "color": "47BED4",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b",
+          "modelPropertiesResource": "mtr:train/apm/properties_4ddc4443.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_75d17d57.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_4c3e2372.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_391d9e26.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/c801b.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_7be9078d.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_c57948e5.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm300r_trailer",
+      "name": "Alstom Innovia APM 300R (AGTS) (Middle)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_5ebc341b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_e6da060a.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_c549f91b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4a68a9c5.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_7b497833.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_64ee2e4b.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm300r_1",
+      "name": "Alstom Innovia APM 300R (AGTS) (Forwards)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_ccbde591.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_3540c3c8.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_ee8cccb8.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_432c8458.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_db8a6a5b.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_121942b.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm300r_2",
+      "name": "Alstom Innovia APM 300R (AGTS) (Backwards)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_ef35a77f.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_14fdae11.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_27433c38.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_1552ff57.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_d6c89d08.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_6238c8b3.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_apm300r_3",
+      "name": "Alstom Innovia APM 300R (AGTS) (Single)",
+      "color": "FFFFFF",
+      "transportMode": "TRAIN",
+      "length": 12,
+      "width": 2,
+      "bogie1Position": -3.08,
+      "bogie2Position": 3.08,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver",
+          "modelPropertiesResource": "mtr:train/apm/properties_eed89850.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4a830d83.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_ddd6cde3.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_d516aeca.json",
+          "flipTextureV": true
+        }
+      ],
+      "bogie2Models": [
+        {
+          "modelResource": "mtr:train/apm/apm300r/apm300r.bbmodel",
+          "textureResource": "mtr:train/apm/apm300r/apm300r_denver.png",
+          "modelPropertiesResource": "mtr:train/apm/properties_b3f4f4ae.json",
+          "positionDefinitionsResource": "mtr:train/apm/definition_4b9f270c.json",
+          "flipTextureV": true
+        }
+      ],
+      "hasGangway1": false,
+      "hasGangway2": false,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0,
+      "bveSoundBaseResource": "igbt",
+      "legacySpeedSoundBaseResource": "",
+      "legacySpeedSoundCount": 1,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "",
+      "legacyDoorCloseSoundTime": 0
+    }
+  ],
+  "signs": [],
+  "rails": [],
+  "objects": [],
+  "lifts": []
+}

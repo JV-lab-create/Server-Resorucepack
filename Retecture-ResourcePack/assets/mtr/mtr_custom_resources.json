@@ -1,0 +1,1059 @@
+{
+	"custom_trains": {
+		"emu4003": {
+			"name": "EMU4003",
+			"color": "06b4c8",
+			"base_train_type": "c_train",
+			"door_animation_type": "STANDARD",
+			"texture_id": "mtr:custom_directory/emu4003normal.png"
+		},
+		"emu4003s": {
+			"name": "EMU4003 (Small)",
+			"color": "06b4c8",
+			"base_train_type": "c_train_small",
+			"door_animation_type": "STANDARD",
+			"texture_id": "mtr:custom_directory/emu4003normal.png"
+		},
+		"emu4003m": {
+			"name": "EMU4003 (Mini)",
+			"color": "06b4c8",
+			"base_train_type": "c_train_mini",
+			"door_animation_type": "BOUNCY_2",
+			"texture_id": "mtr:custom_directory/emu4003normal.png"
+		},
+		"emu4003_janet": {
+			"name": "EMU4003 (Janet Rocket Line (3))",
+			"color": "06b4c8",
+			"base_train_type": "c_train",
+			"door_animation_type": "STANDARD",
+			"texture_id": "mtr:custom_directory/c_trainkek_janet.png"
+		},
+		"emu4003s_janet": {
+			"name": "EMU4003 (Small, Janet Rocket Line (3))",
+			"color": "06b4c8",
+			"base_train_type": "c_train_small",
+			"door_animation_type": "STANDARD",
+			"texture_id": "mtr:custom_directory/c_trainkek_janet.png"
+		},
+		"emu4003m_janet": {
+			"name": "EMU4003 (Mini, Janet Rocket Line (3))",
+			"color": "06b4c8",
+			"base_train_type": "c_train_mini",
+			"door_animation_type": "BOUNCY_2",
+			"texture_id": "mtr:custom_directory/c_trainkek_janet.png"
+		},
+		"lemu100": {
+			"name": "LEMU100 Son of Light Line (1) (Surge)",
+			"color": "d0d000",
+			"base_train_type": "london_underground_1995",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/son_of_light_tex_real.png"
+		},
+		"emu4002a": {
+			"name": "EMU4002A Tozai Line (2)",
+			"color": "063468",
+			"base_train_type": "a_train_tcl_small",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:custom_directory/a_train_tcl_sakurasakura.png"
+		},
+		"emu4002a_m": {
+			"name": "EMU4002A Tozai Line (2) (Mini)",
+			"color": "063468",
+			"base_train_type": "a_train_tcl_mini",
+			"door_animation_type": "PLUG_FAST",
+			"texture_id": "mtr:custom_directory/a_train_tcl_sakurasakura.png"
+		},
+		"emu4003a": {
+			"name": "EMU4003A (Stella)",
+			"color": "2446bd",
+			"base_train_type": "r211t",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/4004.png"
+		},
+		"emu4003amini": {
+			"name": "EMU4003A mini (Swinger)",
+			"color": "2446bd",
+			"base_train_type": "r211t_mini",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/4004.png"
+		},
+		"emu4003a_janet": {
+			"name": "EMU4003A (Stella, Janet Rocket Line (3))",
+			"color": "2446bd",
+			"base_train_type": "r211t",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/4004_janet.png"
+		},
+		"emu4003amini_janet": {
+			"name": "EMU4003A mini (Swinger, Janet Rocket Line (3))",
+			"color": "2446bd",
+			"base_train_type": "r211t_mini",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/4004_janet.png"
+		},
+		"xemu2204": {
+			"name": "XEMU2204 (Red Dragon)",
+			"color": "ca1e48",
+			"base_train_type": "e44",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/e44_bcl_red_dragon.png"
+		},
+		"xemu2204_mini": {
+			"name": "XEMU2204 (Red Dragon, Mini)",
+			"color": "ca1e48",
+			"base_train_type": "e44_mini",
+			"door_animation_type": "MLR",
+			"texture_id": "mtr:custom_directory/e44_bcl_red_dragon.png"
+		},
+		"semu3408": {
+			"name": "EMU4010 (OR Ottoland Line (6) Train)",
+			"color": "cbc98a",
+			"base_train_type": "r_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/ottoland_line_final.png"
+		},
+		"semu3408_small": {
+			"name": "EMU4010A (OR Ottoland Line Train (6), Small)",
+			"color": "cbc98a",
+			"base_train_type": "r_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/ottoland_line_final.png"
+		},
+		"semu3408_mini": {
+			"name": "EMU4010B (OR Ottoland Line (6) / North Port West LRT Train, Mini)",
+			"color": "cbc98a",
+			"base_train_type": "r_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/ottoland_line_final.png"
+		},
+		"emu4003bF": {
+			"name": "EMU4003B (OR Otto-Mansion Line (5) Train)",
+			"color": "ff6000",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train.png"
+		},
+		"emu4003b1F": {
+			"name": "EMU4003B (OR Otis-Otto Line (8) Train)",
+			"color": "29a69a",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train_line8.png"
+		},
+		"emu4003b2F": {
+			"name": "EMU4003B (Red)",
+			"color": "ff0000",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_red.png"
+		},
+		"emu4003b3F": {
+			"name": "EMU4003B (Yellow)",
+			"color": "ffff00",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_yellow.png"
+		},
+		"emu4003b4F": {
+			"name": "EMU4003B (Green)",
+			"color": "00b000",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_green.png"
+		},
+		"emu4003b5F": {
+			"name": "EMU4003B (Blue)",
+			"color": "0070b0",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_blue.png"
+		},
+		"emu4003b6F": {
+			"name": "EMU4003B (Purple)",
+			"color": "8000ff",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_purple.png"
+		},
+		"emu4003b7F": {
+			"name": "EMU4003B (Magenta)",
+			"color": "ff00ff",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_magenta.png"
+		},
+		"emu4003bP3F": {
+			"name": "EMU4003B (Line P3)",
+			"color": "94e922",
+			"base_train_type": "s_train",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_suu.png"
+		},
+		"emu4003bS": {
+			"name": "EMU4003B (OR Otto-Mansion Line (5) Train, Small)",
+			"color": "ff6000",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train.png"
+		},
+		"emu4003b1S": {
+			"name": "EMU4003B (OR Otis-Otto Line (8) Train, Small)",
+			"color": "29a69a",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train_line8.png"
+		},
+		"emu4003b2S": {
+			"name": "EMU4003B (Red, Small)",
+			"color": "ff0000",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_red.png"
+		},
+		"emu4003b3S": {
+			"name": "EMU4003B (Yellow, Small)",
+			"color": "ffff00",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_yellow.png"
+		},
+		"emu4003b4S": {
+			"name": "EMU4003B (Green, Small)",
+			"color": "00b000",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_green.png"
+		},
+		"emu4003b5S": {
+			"name": "EMU4003B (Blue, Small)",
+			"color": "0070b0",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_blue.png"
+		},
+		"emu4003b6S": {
+			"name": "EMU4003B (Purple, Small)",
+			"color": "8000ff",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_purple.png"
+		},
+		"emu4003b7S": {
+			"name": "EMU4003B (Magenta, Small)",
+			"color": "ff00ff",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_magenta.png"
+		},
+		"emu4003bP3S": {
+			"name": "EMU4003B (Line P3, Small)",
+			"color": "94e922",
+			"base_train_type": "s_train_small",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_suu.png"
+		},
+		"emu4003bM": {
+			"name": "EMU4003B (OR Otto-Mansion Line (5) Train, Mini)",
+			"color": "ff6000",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train.png"
+		},
+		"emu4003b1M": {
+			"name": "EMU4003B (OR Otis-Otto Line (8) Train, Mini)",
+			"color": "29a69a",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/s_train_line8.png"
+		},
+		"emu4003b2M": {
+			"name": "EMU4003B (Red, Mini)",
+			"color": "ff0000",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_red.png"
+		},
+		"emu4003b3M": {
+			"name": "EMU4003B (Yellow, Mini)",
+			"color": "ffff00",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_yellow.png"
+		},
+		"emu4003b4M": {
+			"name": "EMU4003B (Green, Mini)",
+			"color": "00b000",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_green.png"
+		},
+		"emu4003b5M": {
+			"name": "EMU4003B (Blue, Mini)",
+			"color": "0070b0",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_blue.png"
+		},
+		"emu4003b6M": {
+			"name": "EMU4003B (Purple, Mini)",
+			"color": "8000ff",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_purple.png"
+		},
+		"emu4003b7M": {
+			"name": "EMU4003B (Magenta, Mini)",
+			"color": "ff00ff",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_magenta.png"
+		},
+		"emu4003bP3M": {
+			"name": "EMU4003B (Line P3, Mini)",
+			"color": "94e922",
+			"base_train_type": "s_train_mini",
+			"door_animation_type": "STANDARD_SLOW",
+			"texture_id": "mtr:custom_directory/4003_suu.png"
+		},
+		"hsr2207": {
+			"name": "XEMU2207 (ORHSR RDS Winner Train 'Sakura')",
+			"color": "f49deb",
+			"base_train_type": "a_train_ael",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/a_train_ael.png"
+		},
+		"hsr2207-1": {
+			"name": "XEMU2207a (ORHSR RDS Winner Train 'Sakura', Mini)",
+			"color": "f49deb",
+			"base_train_type": "a_train_ael_mini",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/a_train_ael.png"
+		},
+		"hsr2207-2": {
+			"name": "XEMU2207-1 (ORHSR 'General')",
+			"color": "31613d",
+			"base_train_type": "a_train_ael",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/a_train_code_general.png"
+		},
+		"hsr2207-3": {
+			"name": "XEMU2207-1a (ORHSR 'General', Mini)",
+			"color": "31613d",
+			"base_train_type": "a_train_ael_mini",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/a_train_code_general.png"
+		},
+		"hsr2211": {
+			"name": "XEMU2211 (OR Kintetsu 'Amu')",
+			"color": "f06671",
+			"base_train_type": "class_377_southern",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/class_377_southern.png"
+		},
+		"emu4014": {
+			"name": "EMU4014 ('Mirai')",
+			"color": "2e77d5",
+			"base_train_type": "k_train",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/emu4014.png"
+		},
+		"emu4014a": {
+			"name": "EMU4014 ('Mirai', Small)",
+			"color": "2e77d5",
+			"base_train_type": "k_train_small",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/emu4014.png"
+		},
+		"emu4014b": {
+			"name": "EMU4014 ('Mirai', Mini)",
+			"color": "2e77d5",
+			"base_train_type": "k_train_mini",
+			"door_animation_type": "PLUG_SLOW",
+			"texture_id": "mtr:custom_directory/emu4014.png"
+		},
+		"m45_r": {
+			"name": "Class 345 (Big)",
+			"color": "614199",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/l7.png"
+		},
+		"m45_s": {
+			"name": "Class 345 (Regular)",
+			"color": "614199",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:custom_directory/l7_.png"
+		},
+		"m45_m": {
+			"name": "Class 345 (Small)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/l7_.png"
+		},
+		"cm1_r": {
+			"name": "Occasus 夕日 (Regular)",
+			"color": "954aff",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/b111a_cm1.png"
+		},
+		"cm1_s": {
+			"name": "Occasus 夕日 (Small)",
+			"color": "954aff",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:custom_directory/b111a_cm1.png"
+		},
+		"cm1_m": {
+			"name": "Occasus 夕日 (Mini)",
+			"color": "954aff",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/b111a_cm1.png"
+		},
+		"m45_r_": {
+			"name": "Myriad 無量 (Regular)",
+			"color": "abdff5",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/l7.png"
+		},
+		"m45_s_": {
+			"name": "Myriad 無量 (Small)",
+			"color": "abdff5",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:custom_directory/l7.png"
+		},
+		"m45_m_": {
+			"name": "Myriad 無量 (mini)",
+			"color": "abdff5",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/l7.png"
+		},
+		"gatwick_express_377": {
+			"name": "British Rail Class 377 Gatwick Express (GTR)",
+			"color": "DC081F",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:gatwick_express/class_377_gatwickexpress.png"
+		},
+		"gatwick_express_377_white": {
+			"name": "British Rail Class 377 Gatwick Express (White)",
+			"color": "DC081F",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:gatwick_express/class_377_gngatwickexpress.png"
+		},
+		"gatwick_express_377_old": {
+			"name": "British Rail Class 377 Gatwick Express (National Express [Old])",
+			"color": "DC081F",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:gatwick_express/class_377_oldgatwickexpress.png"
+		},
+		"hrt_m23_bal": {
+			"name": "HRT (M23) [BAL]",
+			"color": "666699",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:custom_directory/m1_banqiao.png"
+		},
+		"CHRSP": {
+			"name": "CHR SP1900",
+			"color": "#003399",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/chr/chr_sp1900.png"
+		},
+		"CHRspsm": {
+			"name": "CHR SP1900 Mini",
+			"color": "#003399",
+			"base_train_type": "sp1900_mini",
+			"texture_id": "mtr:custom_directory/chr/chr_sp1900.png"
+		},
+		"CHRMLR": {
+			"name": "CHR MLR",
+			"color": "#003399",
+			"base_train_type": "mlr",
+			"texture_id": "mtr:custom_directory/chr/chr_mlr.png"
+		},
+		"CHRMLRSmall": {
+			"name": "CHR MLR Small",
+			"color": "#003399",
+			"base_train_type": "mlr_small",
+			"texture_id": "mtr:custom_directory/chr/chr_mlr.png"
+		},
+		"CHR1441": {
+			"name": "CHR C1141A",
+			"color": "#B42249",
+			"base_train_type": "c1141a",
+			"texture_id": "mtr:custom_directory/chr/chr_c1141a.png"
+		},
+		"CHR1441sm": {
+			"name": "CHR C1141A (Mini)",
+			"color": "#B42249",
+			"base_train_type": "c1141a_mini",
+			"texture_id": "mtr:custom_directory/chr/chr_c1141a.png"
+		},
+		"CHRMtrain": {
+			"name": "CHR M Train",
+			"color": "#163A01",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/chr/chr_m_train.png"
+		},
+		"CHRMtrainmini": {
+			"name": "CHR M Train (Mini)",
+			"color": "#163A01",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/chr/chr_m_train.png"
+		},
+		"CHRLRT": {
+			"name": "CHR Light Rail",
+			"color": "#FF6A52",
+			"base_train_type": "light_rail_1",
+			"texture_id": "mtr:custom_directory/chr/chr_lightrail.png"
+		},
+		"chr_drl": {
+			"name": "CHR DRL Train",
+			"color": "FF6A52",
+			"base_train_type": "drl",
+			"texture_id": "mtr:custom_directory/chr/chr_drl.png"
+		},
+		"chr_k_train": {
+			"name": "CHR K Train by Eric280",
+			"color": "FF6A52",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/chr/chr_k_train.png"
+		},
+		"chr_k_train_mini": {
+			"name": "CHR K Train by Eric280 (Mini)",
+			"color": "FF6A52",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/chr/chr_k_train.png"
+		},
+		"wdr_c_train_small": {
+			"name": "WDR C Train (Small)",
+			"color": "FF6A52",
+			"base_train_type": "c_train_small",
+			"texture_id": "mtr:custom_directory/chr/wdr_c_train.png"
+		},
+		"wdr_k_train_small": {
+			"name": "WDR K Train (Small)",
+			"color": "FF6A52",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:custom_directory/chr/wdr_k_train.png"
+		},
+		"refurbe44": {
+			"name": "Refurbished E44",
+			"color": "666666",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/refurbe44.png"
+		},
+		"refurbchre44": {
+			"name": "Refurbished E44 (CHR)",
+			"color": "666666",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/refurbchre44.png"
+		},
+		"refurbendere44": {
+			"name": "Refurbished E44 (Ender)",
+			"color": "666666",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/refurbendere44.png"
+		},
+		"refurbe44_mini": {
+			"name": "Refurbished E44 (Mini)",
+			"color": "666666",
+			"base_train_type": "e44_mini",
+			"texture_id": "mtr:custom_directory/refurbe44.png"
+		},
+		"refurbchre44_mini": {
+			"name": "Refurbished E44 (CHR, Mini)",
+			"color": "666666",
+			"base_train_type": "e44_mini",
+			"texture_id": "mtr:custom_directory/refurbchre44.png"
+		},
+		"refurbendere44_mini": {
+			"name": "Refurbished E44 (Ender, Mini)",
+			"color": "666666",
+			"base_train_type": "e44_mini",
+			"texture_id": "mtr:custom_directory/refurbendere44.png"
+		},
+		"hrt_aquila_wyl": {
+			"name": "HRT Aquila (M4) [WYL]",
+			"color": "666699",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/hrt_m4.png"
+		},
+		"rv2020_k_train": {
+			"name": "RV2020 K Train (Purple)",
+			"color": "#871231",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/rv_k_q.png"
+		},
+		"rv2020_k_train_mini": {
+			"name": "RV2020 K Train Mini (Purple)",
+			"color": "#871231",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/rv_k_q.png"
+		},
+		"snr_k_train": {
+			"name": "SNR K Train by Eric280",
+			"color": "#FF6A52",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/snr_k_train.png"
+		},
+		"snr_k_train_mini": {
+			"name": "SNR K Train by Eric280 (Mini)",
+			"color": "#FF6A52",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/snr_k_train.png"
+		},
+		"rv2020_mlr_train": {
+			"name": "RV2020 MLR",
+			"color": "#871231",
+			"base_train_type": "mlr",
+			"texture_id": "mtr:custom_directory/mlr_refurbish.png"
+		},
+		"rv2020_mlr_train_mini": {
+			"name": "RV2020 MLR Mini",
+			"color": "#871231",
+			"base_train_type": "mlr_mini",
+			"texture_id": "mtr:custom_directory/mlr_refurbish.png"
+		},
+		"rv2020_a_train": {
+			"name": "RV2020 A Train",
+			"color": "#871231",
+			"base_train_type": "a_train_tcl",
+			"texture_id": "mtr:custom_directory/a_train_tkl.png"
+		},
+		"rv2020_a_train_mini": {
+			"name": "RV2020 A Train Mini",
+			"color": "#871231",
+			"base_train_type": "a_train_tcl",
+			"texture_id": "mtr:custom_directory/a_train_tkl.png"
+		},
+		"maiko_k_train": {
+			"name": "Railway Vision K Train",
+			"color": "#999999",
+			"base_train_type": "k_train",
+			"texture_id": "mtr:custom_directory/maiko_k_train.png"
+		},
+		"maiko_k_train_mini": {
+			"name": "Railway Vision K Train Mini",
+			"color": "#999999",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/maiko_k_train.png"
+		},
+		"archipelago_e44": {
+			"name": "Archipelago Line E44",
+			"color": "FEC5E5",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/old_mlr.png"
+		},
+		"archipelago_e44_mini": {
+			"name": "Archipelago Line E44 (Mini)",
+			"color": "FEC5E5",
+			"base_train_type": "e44_mini",
+			"texture_id": "mtr:custom_directory/old_mlr.png"
+		},
+		"clr_light_rail": {
+			"name": "Centown Light Rail",
+			"color": "E8BFFF",
+			"base_train_type": "light_rail_4",
+			"texture_id": "mtr:custom_directory/light_rail_clr.png"
+		},
+		"drl_m_train5door": {
+			"name": "DRL M Train by Eric280",
+			"color": "E777CB",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/m_train_drl.png"
+		},
+		"drl_m_train_2door": {
+			"name": "DRL M Train by Eric280 (Mini)",
+			"color": "E777CB",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/m_train_drl.png"
+		},
+		"mlr_unofficial": {
+			"name": "MLR Unofficial by Eric280",
+			"color": "61B4E4",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/m_train_mlr.png"
+		},
+		"mlr_unofficial_mini": {
+			"name": "MLR Unofficial by Eric280 (Mini)",
+			"color": "61B4E4",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/m_train_mlr.png"
+		},
+		"drl_b_train5door": {
+			"name": "DRL B Train by Eric280",
+			"color": "F800BB",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/drl_additional_train.png"
+		},
+		"drl_b_train2door": {
+			"name": "DRL B-Train by Eric280 (Mini)",
+			"color": "F800BB",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/drl_additional_train.png"
+		},
+		"drl_b_train5door_drm": {
+			"name": "DRL B Train with Electronic Display by Eric280",
+			"color": "F800BB",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/drl_additional_train_dynamicroutemap.png"
+		},
+		"drl_b_train2door_drm": {
+			"name": "DRL B-Train with Electronic Display by Eric280 (Mini)",
+			"color": "F800BB",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/drl_additional_train_dynamicroutemap.png"
+		},
+		"drl_b_train_new": {
+			"name": "DRL B-Train by Eric280 (New)",
+			"color": "F800BB",
+			"base_train_type": "drl",
+			"texture_id": "mtr:custom_directory/drl_b_train.png"
+		},
+		"sound_transit_1141a": {
+			"name": "Sound Transit C1141A by Eric280",
+			"color": "002E6D",
+			"base_train_type": "c1141a",
+			"texture_id": "mtr:custom_directory/sound_transit_c1141a.png"
+		},
+		"sound_transit_1141a_mini": {
+			"name": "Sound Transit C1141A by Eric280 (Mini)",
+			"color": "002E6D",
+			"base_train_type": "c1141a_mini",
+			"texture_id": "mtr:custom_directory/sound_transit_c1141a.png"
+		},
+		"hrt_c1116A": {
+			"name": "HRT C1116A",
+			"color": "FF6A52",
+			"base_train_type": "e44",
+			"texture_id": "mtr:custom_directory/hrt_c1116a_e44.png"
+		},
+		"hrt_c_train_rv": {
+			"name": "HRT C-Train RV",
+			"color": "FF6A52",
+			"base_train_type": "c_train",
+			"texture_id": "mtr:custom_directory/c_train_rv_hrt.png"
+		},
+		"kcrsp1900": {
+			"name": "KCR Millennium Train by Eric280",
+			"color": "B6008D",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:custom_directory/kcr_sp1900.png"
+		},
+		"kcrsp1900_mini": {
+			"name": "KCR Millennium Train by Eric280 (Mini)",
+			"color": "B6008D",
+			"base_train_type": "sp1900_mini",
+			"texture_id": "mtr:custom_directory/kcr_sp1900.png"
+		},
+		"class_802_chr": {
+            "name": "CHR Class 802",
+            "color": "3437eb",
+            "base_train_type": "class_802_tpe",
+            "texture_id": "mtr:custom_directory/chr/class_802_chr.png"
+        },
+		"smrt_trains_c651": {
+			"name": "SMRT Trains C651",
+			"color": "E22726",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:texture/m_train_c651.png" 
+		},
+
+        "smrt_trains_c651_refurbished": {
+			"name": "SMRT Trains C651 Refurbished",
+			"color": "E22726",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:texture/m_train_c651_refurbished.png" 
+		},
+
+        "smrt_trains_c151_mini": {
+			"name": "SMRT Trains C151 Mini",
+			"color": "E22726",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:texture/m_train_c151.png" 
+		},
+
+        "smrt_trains_c651_mini": {
+			"name": "SMRT Trains C651 Mini",
+			"color": "E22726",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:texture/m_train_c651.png" 
+		},
+
+        "smrt_trains_c651_refurbished_mini": {
+			"name": "SMRT Trains C651 Refurbished Mini",
+			"color": "E22726",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:texture/m_train_c651_refurbished.png" 
+		},
+
+        "smrt_trains_r151": {
+			"name": "SMRT Trains R151",
+			"color": "E22726",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:texture/k_train_r151.png"
+ 
+		},
+
+		"smrt_trains_r151_mini": {
+			"name": "SMRT Trains R151 Mini",
+			"color": "E22726",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:texture/k_train_r151.png"
+ 
+		},
+
+        "smrt_trains_c830": {
+			"name": "SMRT Trains C830",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c830.png"
+ 
+		},
+
+		"sbs_transit_c830_mini": {
+			"name": "SMRT Trains C830 Mini",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c830.png" 
+		},
+
+        "smrt_trains_c830c": {
+			"name": "SMRT Trains C830C",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c830c.png"
+ 
+		},
+
+		"smrt_trains_c830c_mini": {
+			"name": "SMRT Trains C830C Mini",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c830c.png" 
+		},
+
+        "smrt_trains_c851e_ccl": {
+			"name": "SMRT Trains C851E Circle Line",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c851e_ccl.png"
+ 
+		},
+
+		"smrt_trains_c851e_ccl_mini": {
+			"name": "SMRT Trains C851E Circle Line Mini",
+			"color": "FE9900",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c851e_ccl.png" 
+		},
+
+        "sbs_transit_c851e_nel": {
+			"name": "SBS Transit C851E North East Line",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c851e_nel.png"
+ 
+		},
+
+		"sbs_transit_c851e_nel_mini": {
+			"name": "SBS Transit C851E North East Line Mini",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c851e_nel.png" 
+		},
+        "sbs_transit_c951": {
+			"name": "SBS Transit C951",
+			"color": "252F86",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c951.png"
+ 
+		},
+
+		"sbs_transit_c951_mini": {
+			"name": "SBS Transit C951 Mini",
+			"color": "252F86",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c951.png" 
+		},
+
+        "smrt_trains_c151a": {
+			"name": "SMRT Trains C151A",
+			"color": "E22726",
+			"base_train_type": "c_train_small",
+			"texture_id": "mtr:texture/c_train_c151a.png"
+ 
+		},
+ 
+		"smrt_trains_c151b": {
+			"name": "SMRT Trains C151B",
+			"color": "E22726",
+			"base_train_type": "c_train_small",
+			"texture_id": "mtr:texture/c_train_c151b.png"
+ 
+		},
+
+        "smrt_trains_c151c": {
+			"name": "SMRT Trains C151C",
+			"color": "E22726",
+			"base_train_type": "c_train_small",
+			"texture_id": "mtr:texture/c_train_c151c.png"
+ 
+		},
+
+        "smrt_trains_c751b": {
+			"name": "SMRT Trains C751B",
+			"color": "E22726",
+			"base_train_type": "c_train_small",
+			"texture_id": "mtr:texture/c_train_c751b.png"
+ 
+		},
+
+		"smrt_trains_c151a_mini": {
+			"name": "SMRT Trains C151A Mini",
+			"color": "E22726",
+			"base_train_type": "c_train_mini",
+			"texture_id": "mtr:texture/c_train_c151a.png"
+ 
+		},
+ 
+		"smrt_trains_c151b_mini": {
+			"name": "SMRT Trains C151B Mini",
+			"color": "E22726",
+			"base_train_type": "c_train_mini",
+			"texture_id": "mtr:texture/c_train_c151b.png"
+ 
+		},
+
+        "smrt_trains_c151c_mini": {
+			"name": "SMRT Trains C151C Mini",
+			"color": "E22726",
+			"base_train_type": "c_train_mini",
+			"texture_id": "mtr:texture/c_train_c151c.png"
+ 
+		},
+
+        "smrt_trains_c751b_mini": {
+			"name": "SMRT Trains C751B Mini",
+			"color": "E22726",
+			"base_train_type": "c_train_mini",
+			"texture_id": "mtr:texture/c_train_c751b.png"
+ 
+		},
+
+        "sbs_transit_c751a": {
+			"name": "SBS Transit C751A",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c751a.png"
+ 
+		},
+
+		"sbs_transit_c751a_mini": {
+			"name": "SBS Transit C751A Mini",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c751a.png" 
+		},
+
+        "sbs_transit_c751c": {
+			"name": "SBS Transit C751C",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_small",
+			"texture_id": "mtr:texture/a_train_c751c.png"
+ 
+		},
+
+		"sbs_transit_c751c_mini": {
+			"name": "SBS Transit C751C Mini",
+			"color": "873F93",
+			"base_train_type": "a_train_tcl_mini",
+			"texture_id": "mtr:texture/a_train_c751c.png" 
+		},
+
+        "smrt_trains_t251": {
+			"name": "SMRT Trains T251",
+			"color": "9D5B25",
+			"base_train_type": "s_train",
+			"texture_id": "mtr:texture/s_train_t251.png"
+ 
+		},
+
+		"smrt_trains_t251_mini": {
+			"name": "SMRT Trains T251 Mini",
+			"color": "9D5B25",
+			"base_train_type": "s_train_mini",
+			"texture_id": "mtr:texture/s_train_t251.png"
+ 
+		},
+				"class_802_nolivery": {
+			"name": "British Rail Class 802 (No livery, Black nose)",
+			"color": "#eeeeee",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_nolivery.png"
+
+			},
+
+		"class_801_nolivery": {
+			"name": "British Rail Class 801 (No livery, Yellow nose)",
+			"color": "f1c232",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_801_nolivery.png"
+
+			},
+
+	"class_810_aurora": {
+			"name": "British Rail Class 810 Aurora (EMR - East Midlands Railway)",
+			"color": "#4d2f49",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_810_aurora.png"
+
+			},
+
+	"class_803_lumo": {
+			"name": "British Rail Class 803 (Lumo)",
+			"color": "#0047cb",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_803_lumo.png"
+
+			},
+
+	"class_802_hk_airportexpress": {
+			"name": "British Rail Class 802 (Hong Kong Airport Express, Fictional)",
+			"color": "#0086FF",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_hk_airportexpress.png"
+
+			},
+
+	"class_802_renfe_avant": {
+			"name": "British Rail Class 802 (Renfe, Avant)",
+			"color": "#FF4C00",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_avant.png"
+
+			},
+
+	"class_802_renfe_standard": {
+			"name": "British Rail Class 802 (Renfe, Standard)",
+			"color": "#851563",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_standard.png"
+
+			},
+
+	"class_802_renfe_velaro": {
+			"name": "British Rail Class 802 (Renfe, S-103 Velaro)",
+			"color": "#979797",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_802_renfe_velaro.png"
+
+			},
+
+	"class_801_lner_azuma": {
+			"name": "British Rail Class 801 Azuma (LNER - London NorthEastern Railway)",
+			"color": "#cf112b",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:custom_directory/class_801_azuma.png"
+
+		}
+
+	}
+}
