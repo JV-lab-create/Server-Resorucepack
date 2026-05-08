@@ -1631,7 +1631,7 @@
 	    "flipCustomText": false
     },
     {
-	    "id": "kcr_logo_station",
+	    "id": "#kcr_logo_station",
 	    "textureResource": "mtr:sign/kcr_logo.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
@@ -1639,8 +1639,56 @@
 	    "flipCustomText": false
     },
     {
-	    "id": "kcr_logo_station_fliped",
+	    "id": "#kcr_logo_station_fliped",
 	    "textureResource": "mtr:sign/kcr_logo.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "#mtr_gray_station",
+	    "textureResource": "mtr:sign/logo_grayscale.png.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "#mtr_gray_station_fliped",
+	    "textureResource": "mtr:sign/logo_grayscale.png.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "#chr_logo_station",
+	    "textureResource": "mtr:sign/chr_custom_sign.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "#chr_logo_station_fliped",
+	    "textureResource": "mtr:sign/chr_custom_sign.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "#snr_logo_station",
+	    "textureResource": "mtr:sign/snr_logo.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "#snr_logo_station_fliped",
+	    "textureResource": "mtr:sign/snr_logo.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
 	    "small": true,
