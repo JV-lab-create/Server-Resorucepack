@@ -1187,7 +1187,7 @@
         "id": "traingle_platform_big",
 		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
 		"customText": "sign.mtr.platform",
-        "signTyoe": "PLATFORM",
+        "signType": "PLATFORM",
 		"flipCustomText": false,
 		"small": false
 	},
@@ -1195,7 +1195,7 @@
         "id": "traingle_platform_big_fliped",
 		"textureResource": "mtr:sign/template/lift_arrow.png",
 		"customText": "sign.mtr.platform",
-        "signTyoe": "PLATFORM",
+        "signType": "PLATFORM",
 		"flipCustomText": true,
 		"small": false
 	},
@@ -1203,7 +1203,7 @@
         "id": "traingle_platform_small",
 		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
 		"customText": "sign.mtr.platform",
-        "signTyoe": "PLATFORM",
+        "signType": "PLATFORM",
 		"flipCustomText": false,
 		"small": true
 	},
@@ -1211,7 +1211,7 @@
         "id": "traingle_platform_big_small",
 		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
 		"customText": "sign.mtr.platform",
-        "signTyoe": "PLATFORM",
+        "signType": "PLATFORM",
 		"flipCustomText": true,
 		"small": true
 	},
@@ -1651,7 +1651,7 @@
 	    "textureResource": "mtr:sign/logo_grayscale.png.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
-	    "small": true,
+	    "small": false,
 	    "flipCustomText": false
     },
     {
@@ -1659,7 +1659,7 @@
 	    "textureResource": "mtr:sign/logo_grayscale.png.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
-	    "small": true,
+	    "small": false,
 	    "flipCustomText": true
     },
     {
@@ -1667,7 +1667,7 @@
 	    "textureResource": "mtr:sign/chr_custom_sign.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
-	    "small": true,
+	    "small": false,
 	    "flipCustomText": false
     },
     {
@@ -1683,7 +1683,7 @@
 	    "textureResource": "mtr:sign/snr_logo.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
-	    "small": true,
+	    "small": false,
 	    "flipCustomText": false
     },
     {
@@ -1691,7 +1691,28 @@
 	    "textureResource": "mtr:sign/snr_logo.png",
         "signType": "STATION",
 		"customText": "sign.mtr.station",
-	    "small": true,
+	    "small": false,
+	    "flipCustomText": true
+    },
+	  {
+	    "id": "emerald_sign",
+	    "textureResource": "mtr:sign/emerald.png",
+		"customText": "祖母綠|Emeralds",
+	    "small": false,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "emerald_sign_fliped",
+	    "textureResource": "mtr:sign/emerald.png",
+		"customText": "祖母綠|Emeralds",
+	    "small": false,
+	    "flipCustomText": true
+    },
+    {
+	    "id": "emerald_icon",
+	    "textureResource": "mtr:sign/emerald.png",
+		"customText": "",
+	    "small": false,
 	    "flipCustomText": true
     }
   ],
