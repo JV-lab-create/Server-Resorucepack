@@ -1184,6 +1184,75 @@
   ],
   "signs": [
     {
+        "id": "traingle_platform_big",
+		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
+		"custom_text": "DO NOT USE！",
+        "signTyoe": "PLATFORM",
+		"flip_custom_text": false,
+		"small": false
+	},
+    {
+        "id": "traingle_platform_big_fliped",
+		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
+		"custom_text": "sign.mtr.platform",
+        "signTyoe": "PLATFORM",
+		"flip_custom_text": true,
+		"small": false
+	},
+    {
+        "id": "traingle_platform_small",
+		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
+		"custom_text": "sign.mtr.platform",
+        "signTyoe": "PLATFORM",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+        "id": "traingle_platform_big_small",
+		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
+		"custom_text": "sign.mtr.platform",
+        "signTyoe": "PLATFORM",
+		"flip_custom_text": true,
+		"small": true
+	},
+    {
+        "id": "zi_yue_rail",
+		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"custom_text": "子悦轨道交通|ZiYue Rail Transport",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+        "id": "zi_yue_rail_fliped",
+		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"custom_text": "子悦轨道交通|ZiYue Rail Transport",
+		"flip_custom_text": true,
+		"small": true
+	},
+    {
+        "id": "zi_yue_rail_logo",
+		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"custom_text": "",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+        "id": "zi_yue_rail_station_text",
+		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"customText": "sign.mtr.station",
+        "signType": "STATION",
+		"flip_custom_text": false,
+		"small": true
+	},
+    {
+        "id": "zi_yue_rail_station_text_fliped",
+		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"customText": "sign.mtr.station",
+        "signType": "STATION",
+		"flip_custom_text": true,
+		"small": true
+	},
+    {
 	    "id": "arrow_turn_forward1",
 	    "textureResource": "mtr:sign/arrow_turn_forward1",
 	    "customText": "",
@@ -1560,6 +1629,22 @@
 	    "customText": "",
 	    "small": true,
 	    "flipCustomText": false
+    },
+    {
+	    "id": "kcr_logo_station",
+	    "textureResource": "mtr:sign/kcr_logo.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": false
+    },
+    {
+	    "id": "kcr_logo_station_fliped",
+	    "textureResource": "mtr:sign/kcr_logo.png",
+        "signType": "STATION",
+		"customText": "sign.mtr.station",
+	    "small": true,
+	    "flipCustomText": true
     }
   ],
   "rails": [],
