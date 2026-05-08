@@ -4685,251 +4685,6 @@
       "flipCustomText": false
     },
     {
-      "id": "indium_icon",
-      "textureResource": "mtr:sign/indium.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "iris",
-      "textureResource": "mtr:sign/iris.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "lithium",
-      "textureResource": "mtr:sign/lithium.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "msd",
-      "textureResource": "mtr:sign/msd.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "sodium",
-      "textureResource": "mtr:sign/sodium.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "updator",
-      "textureResource": "mtr:sign/updator.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "carpet",
-      "textureResource": "mtr:sign/carpet.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "dynamicfps",
-      "textureResource": "mtr:sign/dyn.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "debugify",
-      "textureResource": "mtr:sign/debugify.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "BetterF3",
-      "textureResource": "mtr:sign/f3.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "jsblock",
-      "textureResource": "mtr:sign/jsblock.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "yacl_yet_another_config_mod",
-      "textureResource": "mtr:sign/yacl.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "yosbr",
-      "textureResource": "mtr:sign/yosbr.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "kotlin",
-      "textureResource": "mtr:sign/kotlin.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "melody_logo",
-      "textureResource": "mtr:sign/melody_logo.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "etf",
-      "textureResource": "mtr:sign/etf.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "emf",
-      "textureResource": "mtr:sign/emf.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "puzzle",
-      "textureResource": "mtr:sign/puzzle.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "yte",
-      "textureResource": "mtr:sign/yte.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "polytone",
-      "textureResource": "mtr:sign/polytone.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "spark",
-      "textureResource": "mtr:sign/spark.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "starlight",
-      "textureResource": "mtr:sign/starlight.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "MoreCulling",
-      "textureResource": "mtr:sign/MoreCulling.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "mousetweaks_logo",
-      "textureResource": "mtr:sign/mousetweaks_logo.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "fancymenu_logo",
-      "textureResource": "mtr:sign/fancymenu_logo.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "sliders",
-      "textureResource": "mtr:sign/sliders.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "mousetweaks_logo",
-      "textureResource": "mtr:sign/mousetweaks_logo.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "rma",
-      "textureResource": "mtr:sign/rma.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "fabulously_optimized",
-      "textureResource": "mtr:sign/fabulously_optimized.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "entityculling",
-      "textureResource": "mtr:sign/entityculling.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "joban",
-      "textureResource": "mtr:sign/joban.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "g_caps",
-      "textureResource": "mtr:sign/g_caps.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "g_caps",
-      "textureResource": "mtr:sign/prefab.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "roblox",
-      "textureResource": "mtr:sign/roblox.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "rtc",
-      "textureResource": "mtr:sign/rtc.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
       "id": "CHR_without_text",
       "textureResource": "mtr:sign/chr_custom_sign.png",
       "customText": "",
@@ -4944,7 +4699,7 @@
       "flipCustomText": false
     },
     {
-      "id": "CHR_with_text",
+      "id": "CHR_with_text_fliped",
       "textureResource": "mtr:sign/chr_custom_sign.png",
       "customText": "岑香鐵路|CHR",
       "small": false,
@@ -4990,20 +4745,6 @@
       "textureResource": "mtr:sign/snr_logo.png",
       "customText": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
       "small": false,
-      "flipCustomText": true
-    },
-    {
-      "id": "disneyland_sign",
-      "textureResource": "mtr:sign/drl_icon.png",
-      "customText": "往迪士尼列車|Trains to Disneyland",
-      "small": true,
-      "flipCustomText": false
-    },
-    {
-      "id": "disneyland_sign_flipped",
-      "textureResource": "mtr:sign/drl_icon.png",
-      "customText": "往迪士尼列車|Trains to Disneyland",
-      "small": true,
       "flipCustomText": true
     },
     {
@@ -5057,6 +4798,13 @@
       "flipCustomText": false
     },
     {
+      "id": "kcr_logo",
+      "textureResource": "mtr:sign/kcr_logo.png",
+      "customText": "",
+      "small": true,
+      "flipCustomText": false
+    },
+    {
       "id": "#kcr_logo_station_fliped",
       "textureResource": "mtr:sign/kcr_logo.png",
       "signType": "STATION",
@@ -5069,7 +4817,7 @@
       "textureResource": "mtr:sign/logo_grayscale.png.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
-      "small": true,
+      "small": false,
       "flipCustomText": false
     },
     {
@@ -5077,7 +4825,7 @@
       "textureResource": "mtr:sign/logo_grayscale.png.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
-      "small": true,
+      "small": false,
       "flipCustomText": true
     },
     {
@@ -5085,7 +4833,7 @@
       "textureResource": "mtr:sign/chr_custom_sign.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
-      "small": true,
+      "small": false,
       "flipCustomText": false
     },
     {
@@ -5093,7 +4841,7 @@
       "textureResource": "mtr:sign/chr_custom_sign.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
-      "small": true,
+      "small": false,
       "flipCustomText": true
     },
     {
@@ -5111,14 +4859,6 @@
       "customText": "sign.mtr.station",
       "small": true,
       "flipCustomText": true
-    },
-    {
-      "id": "#chr_logo_station",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
-      "signType": "STATION",
-      "customText": "sign.mtr.station",
-      "small": true,
-      "flipCustomText": false
     },
     {
       "id": "emerald_sign",
@@ -5641,6 +5381,251 @@
       "flipTexture": false,
       "flipCustomText": true,
       "backgroundColor": "000000"
+    },
+    {
+      "id": "indium_icon",
+      "textureResource": "mtr:sign/indium.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "iris",
+      "textureResource": "mtr:sign/iris.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "lithium",
+      "textureResource": "mtr:sign/lithium.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "msd",
+      "textureResource": "mtr:sign/msd.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "sodium",
+      "textureResource": "mtr:sign/sodium.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "updator",
+      "textureResource": "mtr:sign/updator.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "carpet",
+      "textureResource": "mtr:sign/carpet.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "dynamicfps",
+      "textureResource": "mtr:sign/dyn.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "debugify",
+      "textureResource": "mtr:sign/debugify.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "BetterF3",
+      "textureResource": "mtr:sign/f3.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "jsblock",
+      "textureResource": "mtr:sign/jsblock.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "yacl_yet_another_config_mod",
+      "textureResource": "mtr:sign/yacl.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "yosbr",
+      "textureResource": "mtr:sign/yosbr.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "kotlin",
+      "textureResource": "mtr:sign/kotlin.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "melody_logo",
+      "textureResource": "mtr:sign/melody_logo.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "etf",
+      "textureResource": "mtr:sign/etf.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "emf",
+      "textureResource": "mtr:sign/emf.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "puzzle",
+      "textureResource": "mtr:sign/puzzle.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "yte",
+      "textureResource": "mtr:sign/yte.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "polytone",
+      "textureResource": "mtr:sign/polytone.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "spark",
+      "textureResource": "mtr:sign/spark.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "starlight",
+      "textureResource": "mtr:sign/starlight.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "MoreCulling",
+      "textureResource": "mtr:sign/MoreCulling.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "mousetweaks_logo",
+      "textureResource": "mtr:sign/mousetweaks_logo.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "fancymenu_logo",
+      "textureResource": "mtr:sign/fancymenu_logo.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "sliders",
+      "textureResource": "mtr:sign/sliders.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "mousetweaks_logo",
+      "textureResource": "mtr:sign/mousetweaks_logo.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "rma",
+      "textureResource": "mtr:sign/rma.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "fabulously_optimized",
+      "textureResource": "mtr:sign/fabulously_optimized.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "entityculling",
+      "textureResource": "mtr:sign/entityculling.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "joban",
+      "textureResource": "mtr:sign/joban.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "g_caps",
+      "textureResource": "mtr:sign/g_caps.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "g_caps",
+      "textureResource": "mtr:sign/prefab.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "roblox",
+      "textureResource": "mtr:sign/roblox.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
+      "id": "rtc",
+      "textureResource": "mtr:sign/rtc.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
     }
   ],
   "rails": [],

@@ -947,24 +947,6 @@
             "texture_id": "mtr:textures/signs/train3.png",
             "small": true
         },
-        "diving_adora_train": {
-            "texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
-            "small": true
-        },
-        "diving_adora_train_text": {
-            "texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
-            "flip_texture": false,
-            "custom_text": "往月臺|to Platforms",
-            "flip_custom_text": false,
-            "small": true
-        },
-        "diving_adora_train_text_flipped": {
-            "texture_id": "mtr:custom_directory/signs/diving_adora_train.png",
-            "flip_texture": false,
-            "custom_text": "往月臺|to Platforms",
-            "flip_custom_text": true,
-            "small": true
-        },
         "za": {
             "texture_id": "mtr:custom_directory/signs/spawn_zones/a.png",
             "flip_texture": false,
@@ -1130,86 +1112,6 @@
             "flip_texture": false,
             "custom_text": "",
             "flip_custom_text": false,
-            "small": false,
-            "background_color": "000000"
-        },
-        "monorail": {
-            "texture_id": "mtr:custom_directory/signs/monorail.png",
-            "flip_texture": false,
-            "custom_text": "",
-            "flip_custom_text": false,
-            "small": false,
-            "background_color": "000000"
-        },
-        "carpark": {
-            "texture_id": "mtr:custom_directory/signs/carpark.png",
-            "flip_texture": false,
-            "custom_text": "停車|Parking",
-            "flip_custom_text": false,
-            "small": false,
-            "background_color": "000000"
-        },
-        "carpark_fliped": {
-            "texture_id": "mtr:custom_directory/signs/carpark.png",
-            "flip_texture": false,
-            "custom_text": "停車|Parking",
-            "flip_custom_text": true,
-            "small": false,
-            "background_color": "000000"
-        },
-        "carpark_icon": {
-            "texture_id": "mtr:custom_directory/signs/carpark.png",
-            "flip_texture": false,
-            "custom_text": "",
-            "flip_custom_text": true,
-            "small": false,
-            "background_color": "000000"
-        },
-        "bus": {
-            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "巴士|Buses",
-            "flip_custom_text": false,
-            "small": false,
-            "background_color": "000000"
-        },
-        "bus_fliped": {
-            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "巴士|Buses",
-            "flip_custom_text": true,
-            "small": false,
-            "background_color": "000000"
-        },
-        "bus_icon": {
-            "texture_id": "mtr:custom_directory/signs/bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "",
-            "flip_custom_text": true,
-            "small": false,
-            "background_color": "000000"
-        },
-        "light_bus": {
-            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "巴士|Buses",
-            "flip_custom_text": false,
-            "small": false,
-            "background_color": "000000"
-        },
-        "light_bus_fliped": {
-            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "巴士|Buses",
-            "flip_custom_text": true,
-            "small": false,
-            "background_color": "000000"
-        },
-        "light_bus_icon": {
-            "texture_id": "mtr:custom_directory/signs/light-bus_stand.png",
-            "flip_texture": false,
-            "custom_text": "",
-            "flip_custom_text": true,
             "small": false,
             "background_color": "000000"
         }
