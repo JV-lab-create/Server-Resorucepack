@@ -1185,71 +1185,71 @@
   "signs": [
     {
         "id": "traingle_platform_big",
-		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
-		"custom_text": "DO NOT USE！",
+		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
+		"customText": "sign.mtr.platform",
         "signTyoe": "PLATFORM",
-		"flip_custom_text": false,
+		"flipCustomText": false,
 		"small": false
 	},
     {
         "id": "traingle_platform_big_fliped",
-		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
-		"custom_text": "sign.mtr.platform",
+		"textureResource": "mtr:sign/template/lift_arrow.png",
+		"customText": "sign.mtr.platform",
         "signTyoe": "PLATFORM",
-		"flip_custom_text": true,
+		"flipCustomText": true,
 		"small": false
 	},
     {
         "id": "traingle_platform_small",
-		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
-		"custom_text": "sign.mtr.platform",
+		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
+		"customText": "sign.mtr.platform",
         "signTyoe": "PLATFORM",
-		"flip_custom_text": false,
+		"flipCustomText": false,
 		"small": true
 	},
     {
         "id": "traingle_platform_big_small",
-		"texture_id": "mtr:textures/block/sign/lift_arrow.png",
-		"custom_text": "sign.mtr.platform",
+		"textureResource": "mtr:textures/block/sign/lift_arrow.png",
+		"customText": "sign.mtr.platform",
         "signTyoe": "PLATFORM",
-		"flip_custom_text": true,
+		"flipCustomText": true,
 		"small": true
 	},
     {
         "id": "zi_yue_rail",
-		"texture_id": "mtr:sign/ziuerail_logo.png",
-		"custom_text": "子悦轨道交通|ZiYue Rail Transport",
-		"flip_custom_text": false,
+		"textureResource": "mtr:sign/ziueraillogo.png",
+		"customText": "子悦轨道交通|ZiYue Rail Transport",
+		"flipCustomText": false,
 		"small": true
 	},
     {
         "id": "zi_yue_rail_fliped",
-		"texture_id": "mtr:sign/ziuerail_logo.png",
-		"custom_text": "子悦轨道交通|ZiYue Rail Transport",
-		"flip_custom_text": true,
+		"textureResource": "mtr:sign/ziueraillogo.png",
+		"customText": "子悦轨道交通|ZiYue Rail Transport",
+		"flipCustomText": true,
 		"small": true
 	},
     {
         "id": "zi_yue_rail_logo",
-		"texture_id": "mtr:sign/ziuerail_logo.png",
-		"custom_text": "",
-		"flip_custom_text": false,
+		"textureResource": "mtr:sign/ziueraillogo.png",
+		"customText": "",
+		"flipCustomText": false,
 		"small": true
 	},
     {
         "id": "zi_yue_rail_station_text",
-		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"textureResource": "mtr:sign/ziueraillogo.png",
 		"customText": "sign.mtr.station",
         "signType": "STATION",
-		"flip_custom_text": false,
+		"flipCustomText": false,
 		"small": true
 	},
     {
         "id": "zi_yue_rail_station_text_fliped",
-		"texture_id": "mtr:sign/ziuerail_logo.png",
+		"textureResource": "mtr:sign/ziueraillogo.png",
 		"customText": "sign.mtr.station",
         "signType": "STATION",
-		"flip_custom_text": true,
+		"flipCustomText": true,
 		"small": true
 	},
     {
@@ -1268,16 +1268,16 @@
     },
     {
         "id": "fare_adjustment_flip",
-		"texture_id": "mtr:textures/block/sign/tickets.png",
-		"custom_text": "精算機|Fare adjustment",
-		"flip_custom_text": true,
+		"textureResource": "mtr:textures/block/sign/tickets.png",
+		"customText": "精算機|Fare adjustment",
+		"flipCustomText": true,
 		"small": true
 	},
     {
         "id": "fare_adjustment",
-		"texture_id": "mtr:textures/block/sign/tickets.png",
-		"custom_text": "精算機|Fare adjustment",
-		"flip_custom_text": false,
+		"textureResource": "mtr:textures/block/sign/tickets.png",
+		"customText": "精算機|Fare adjustment",
+		"flipCustomText": false,
 		"small": true
 	},
     {
@@ -1611,16 +1611,16 @@
     },
     {
         "id": "overworld_sign_flip",
-		"texture_id": "mtr:textures/block/sign/overworld.png",
-		"custom_text": "地上世界|Overworld",
-		"flip_custom_text": true,
+		"textureResource": "mtr:textures/block/sign/overworld.png",
+		"customText": "地上世界|Overworld",
+		"flipCustomText": true,
 		"small": true
 	},
     {
         "id": "overworld_sign",
-		"texture_id": "mtr:textures/block/sign/overworld.png",
-		"custom_text": "地上世界|Overworld",
-		"flip_custom_text": false,
+		"textureResource": "mtr:textures/block/sign/overworld.png",
+		"customText": "地上世界|Overworld",
+		"flipCustomText": false,
 		"small": true
 	},
     {
