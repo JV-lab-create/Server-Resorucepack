@@ -4636,6 +4636,13 @@
       "small": true
     },
     {
+      "id": "sound_transit",
+      "textureResource": "mtr:sign/sound_transit_logo.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
       "id": "line_ten_sign",
       "textureResource": "mtr:sign/line-10.png",
       "customText": "第10行|Line 10",
@@ -4657,27 +4664,6 @@
       "flipCustomText": false
     },
     {
-      "id": "line_eleven_sign",
-      "textureResource": "mtr:sign/line-11.png",
-      "customText": "第11行|Line 11",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
-      "id": "line_eleven_sign_fliped",
-      "textureResource": "mtr:sign/line-11.png",
-      "customText": "第11行|Line 11",
-      "small": false,
-      "flipCustomText": true
-    },
-    {
-      "id": "line_eleven_sign_icon",
-      "textureResource": "mtr:sign/line-11.png",
-      "customText": "",
-      "small": false,
-      "flipCustomText": false
-    },
-    {
       "id": "line_twelve_sign",
       "textureResource": "mtr:sign/line-12.png",
       "customText": "第12行|Line 12",
@@ -4693,7 +4679,7 @@
     },
     {
       "id": "line_twelve_sign_icon",
-      "textureResource": "mtr:sign/line-112.png",
+      "textureResource": "mtr:sign/line-12.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
@@ -4968,7 +4954,7 @@
       "id": "disneyland_icon",
       "textureResource": "mtr:sign/drl_icon.png",
       "customText": "",
-      "small": false,
+      "small": true,
       "flipCustomText": false
     },
     {
@@ -5383,7 +5369,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": false,
+      "flipCustomText": true,
       "backgroundColor": "000000"
     },
     {
@@ -5446,7 +5432,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5464,7 +5450,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5482,7 +5468,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5500,7 +5486,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5518,7 +5504,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5536,7 +5522,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5554,7 +5540,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5572,7 +5558,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5590,7 +5576,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5608,7 +5594,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5626,7 +5612,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
@@ -5644,7 +5630,7 @@
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
-      "flipCustomText": true,
+      "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
