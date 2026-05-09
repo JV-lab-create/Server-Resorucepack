@@ -16,13 +16,9 @@ Thus is still work in progress, I am trying to figure out where the source of mo
 * Singapore MRT NSEWL Trains 4-Pack - NonPlayerCharacter - modrinth
 * Singapore MRT Alstom Movia R151 - NonPlayerCharacter - modrinth
 * Singapore MRT Thomson-East Coast Line T251 - NonPlayerCharacter - modrinth
-* S43tec LRT - 3.0.0 Version - MTR Server Discord Archinve - Don't remember who its by
-* Lightace LRVS - 3.0.0 Version - Cinderace Railway on Discord
-* hkislandtram - broken in 4.0.0 - By: ??? Don't remember
-* metroace\_mrt - SMRT Discord Server - TOS for Resource pack -> [SMRT TOS](https://docs.google.com/document/d/1Y5oUz_Q7YD6XAhgbKEs4D3XFZIP-QJcuo1u2GhuX0Yk/edit?usp=sharing)
+* S43tec LRT - 3.0.0 Version - MTR Server Discord Archive -> [S43 Discord Server](discord.gg/nZy5dyX)
+* Lightace LRVS - 3.0.0 Version SMRT Discord Server - TOS for Resource pack -> [SMRT TOS](https://docs.google.com/document/d/1Y5oUz_Q7YD6XAhgbKEs4D3XFZIP-QJcuo1u2GhuX0Yk/edit?usp=sharing) [SMRT Discord Server](https://discord.gg/zM5PydRdtH)
 * Some trains and signs are from Centown Resourcepack
-* Orignal Railway [Planet Minecraft](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
-* 
 
 
 
