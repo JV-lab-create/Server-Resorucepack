@@ -7,7 +7,8 @@
 * Windows PIDS - Windows PIDS Screens By SQ\_PRO ib nidrubth
 * SG MRT PIDS V2 \[MTR4] - MRT PIDS - By ah05\_
 * SG MRT style PIDS v1.01 Public Ver \[MTR4] - MRT PIDS (Static) - By ah05\_
-* World PIDS-Pack in `/wpp/` https://modrinth.com/resourcepack/world-pids-pack
+* World PIDS-Pack some in `/wpp/` https://modrinth.com/resourcepack/world-pids-pack
+* Orignal Railway - [Source](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
 
 #### Elevator
 
@@ -21,6 +22,7 @@
 
 * Amtrack Trains Addon (By Ultimate-USA-YT) [Source](https://modrinth.com/resourcepack/the-amtrack-addon)
 * smb112x's APM Pack (By smb112x) [Source](https://modrinth.com/resourcepack/mtr-smb112x-apm-pack)
+* London Overground Class 345/710 [Modrinth](https://modrinth.com/resourcepack/london-overground-class-345/gallery?version=1.20.4)
 
 #### Signs
 
@@ -28,5 +30,10 @@
 * Orignal Railway - [Source](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
 * Centown Resource Pack [Source (the resources.zip file in world)](https://github.com/itsamemari0/Centown)
 * London Underground Mod
+
+### Models
+
+* Microsoft Surface Board - Windows 3D Paint Gallery
+- Not finished fully
 
 We recomend not to take resources out of this pack, due to you not knowing what owner is. Please download some from the info listed above here.

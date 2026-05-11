@@ -4535,7 +4535,223 @@
       "legacyConstantPlaybackSpeed": false,
       "legacyDoorSoundBaseResource": "",
       "legacyDoorCloseSoundTime": 0
-    }
+    },
+    {
+            "id": "class_345_overground_cab2",
+            "name": "Class 345 Overground (Forwards)",
+            "color": "EE7D11",
+            "transportMode": "TRAIN",
+            "length": 21,
+            "width": 2,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6,
+            "couplingPadding1": 1,
+            "couplingPadding2": 0,
+            "description": "Class 345 in the London Overground Aventra livery by ElectrostarJudge. Original model made by Jonathan.",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/class_345.bbmodel",
+                    "textureResource": "mtr:overground/class_345_lo.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/class_345_cab_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/class_345_cab_1.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": false
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "class_377",
+            "legacySpeedSoundCount": 51,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "class_345",
+            "legacyDoorCloseSoundTime": 0.5
+        },
+        {
+            "id": "class_345_overground_trailer_a",
+            "name": "Class 345 Overground Trailer",
+            "color": "EE7D11",
+            "transportMode": "TRAIN",
+            "length": 21,
+            "width": 2,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "Class 345 in Overground Livery, TSO",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/class_345.bbmodel",
+                    "textureResource": "mtr:overground/class_345_lo.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/class_345_2_trailer.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/class_345_2_trailer.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "class_377",
+            "legacySpeedSoundCount": 51,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "class_345",
+            "legacyDoorCloseSoundTime": 0.5
+        },
+        
+        {
+            "name": "Class 345 Overground Trailer B",
+            "color": "EE7D11",
+            "transportMode": "TRAIN",
+            "length": 21,
+            "width": 2,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "Class 345 in London Overground livery, TSO2",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/class_345.bbmodel",
+                    "textureResource": "mtr:overground/class_345_lo.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/class_345_1_trailer.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/class_345_1_trailer.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "class_377",
+            "legacySpeedSoundCount": 51,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "class_345",
+            "legacyDoorCloseSoundTime": 0.5
+        },
+        {
+            "id": "class_345_overground_cab1",
+            "name": "Class 345 Overground (Backwards)",
+            "color": "EE7D11",
+            "transportMode": "TRAIN",
+            "length": 21,
+            "width": 2,
+            "bogie1Position": -6.5,
+            "bogie2Position": 6.5,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "description": "Class 345 in London Overground livery, Cab Backwards. ",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/class_345.bbmodel",
+                    "textureResource": "mtr:overground/class_345_lo.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/class_345_cab_2.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/class_345_cab_2.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": false
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "class_377",
+            "legacySpeedSoundCount": 51,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "class_345",
+            "legacyDoorCloseSoundTime": 0.5
+        }
   ],
   "signs": [
     {
@@ -4548,7 +4764,7 @@
     },
     {
       "id": "traingle_platform_big_fliped",
-      "textureResource": "mtr:sign/template/lift_arrow.png",
+      "textureResource": "mtr:custom_signs/template/lift_arrow.png",
       "customText": "sign.mtr.platform",
       "signTyoe": "PLATFORM",
       "flipCustomText": true,
@@ -4572,28 +4788,28 @@
     },
     {
       "id": "zi_yue_rail",
-      "textureResource": "mtr:sign/ziueraillogo.png",
+      "textureResource": "mtr:custom_signs/ziueraillogo.png",
       "customText": "子悦轨道交通|ZiYue Rail Transport",
       "flipCustomText": false,
       "small": true
     },
     {
       "id": "zi_yue_rail_fliped",
-      "textureResource": "mtr:sign/ziueraillogo.png",
+      "textureResource": "mtr:custom_signs/ziueraillogo.png",
       "customText": "子悦轨道交通|ZiYue Rail Transport",
       "flipCustomText": true,
       "small": true
     },
     {
       "id": "zi_yue_rail_logo",
-      "textureResource": "mtr:sign/ziueraillogo.png",
+      "textureResource": "mtr:custom_signs/ziueraillogo.png",
       "customText": "",
       "flipCustomText": false,
       "small": true
     },
     {
       "id": "zi_yue_rail_station_text",
-      "textureResource": "mtr:sign/ziueraillogo.png",
+      "textureResource": "mtr:custom_signs/ziueraillogo.png",
       "customText": "sign.mtr.station",
       "signType": "STATION",
       "flipCustomText": false,
@@ -4601,7 +4817,7 @@
     },
     {
       "id": "zi_yue_rail_station_text_fliped",
-      "textureResource": "mtr:sign/ziueraillogo.png",
+      "textureResource": "mtr:custom_signs/ziueraillogo.png",
       "customText": "sign.mtr.station",
       "signType": "STATION",
       "flipCustomText": true,
@@ -4609,14 +4825,14 @@
     },
     {
       "id": "arrow_turn_forward1",
-      "textureResource": "mtr:sign/arrow_turn_forward1",
+      "textureResource": "mtr:custom_signs/arrow_turn_forward1",
       "customText": "",
       "small": true,
       "flipCustomText": false
     },
     {
       "id": "arrow_turn_forward2",
-      "textureResource": "mtr:sign/arrow_turn_forward2",
+      "textureResource": "mtr:custom_signs/arrow_turn_forward2",
       "customText": "",
       "small": true,
       "flipCustomText": false
@@ -4637,161 +4853,161 @@
     },
     {
       "id": "sound_transit",
-      "textureResource": "mtr:sign/sound_transit_logo.png",
+      "textureResource": "mtr:custom_signs/sound_transit_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "line_ten_sign",
-      "textureResource": "mtr:sign/line-10.png",
+      "textureResource": "mtr:custom_signs/line-10.png",
       "customText": "第10行|Line 10",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "line_ten_sign_fliped",
-      "textureResource": "mtr:sign/line-10.png",
+      "textureResource": "mtr:custom_signs/line-10.png",
       "customText": "第10行|Line 10",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "line_ten_sign_icon",
-      "textureResource": "mtr:sign/line-10.png",
+      "textureResource": "mtr:custom_signs/line-10.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "line_twelve_sign",
-      "textureResource": "mtr:sign/line-12.png",
+      "textureResource": "mtr:custom_signs/line-12.png",
       "customText": "第12行|Line 12",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "line_twelve_sign_fliped",
-      "textureResource": "mtr:sign/line-12.png",
+      "textureResource": "mtr:custom_signs/line-12.png",
       "customText": "第12行|Line 12",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "line_twelve_sign_icon",
-      "textureResource": "mtr:sign/line-12.png",
+      "textureResource": "mtr:custom_signs/line-12.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "CHR_without_text",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
+      "textureResource": "mtr:custom_signs/chr_custom_sign.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "CHR_with_text",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
+      "textureResource": "mtr:custom_signs/chr_custom_sign.png",
       "customText": "岑香鐵路|CHR",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "CHR_with_text_fliped",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
+      "textureResource": "mtr:custom_signs/chr_custom_sign.png",
       "customText": "岑香鐵路|CHR",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "disneyland_icon",
-      "textureResource": "mtr:sign/drl_icon.png",
+      "textureResource": "mtr:custom_signs/drl_icon.png",
       "customText": "",
       "small": true,
       "flipCustomText": false
     },
     {
       "id": "disneyland_sign",
-      "textureResource": "mtr:sign/drl_icon.png",
+      "textureResource": "mtr:custom_signs/drl_icon.png",
       "customText": "往迪士尼列車|Trains to Disneyland",
       "small": true,
       "flipCustomText": false
     },
     {
       "id": "disneyland_sign_flipped",
-      "textureResource": "mtr:sign/drl_icon.png",
+      "textureResource": "mtr:custom_signs/drl_icon.png",
       "customText": "往迪士尼列車|Trains to Disneyland",
       "small": true,
       "flipCustomText": true
     },
     {
       "id": "snr_logo",
-      "textureResource": "mtr:sign/snr_logo.png",
+      "textureResource": "mtr:custom_signs/snr_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "snr_logo_text",
-      "textureResource": "mtr:sign/snr_logo.png",
+      "textureResource": "mtr:custom_signs/snr_logo.png",
       "customText": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "snr_logo_text_flipped",
-      "textureResource": "mtr:sign/snr_logo.png",
+      "textureResource": "mtr:custom_signs/snr_logo.png",
       "customText": "歡迎乘搭絆幻鐵路|Welcome to Somnium Network Railways",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "tube_red_train",
-      "textureResource": "mtr:sign/train/train2.png",
+      "textureResource": "mtr:custom_signs/train/train2.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "tube_red_train_text",
-      "textureResource": "mtr:sign/train/train2.png",
+      "textureResource": "mtr:custom_signs/train/train2.png",
       "customText": "火車|Trains",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "tube_red_train_text_fliped",
-      "textureResource": "mtr:sign/train/train2.png",
+      "textureResource": "mtr:custom_signs/train/train2.png",
       "customText": "火車|Trains",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "overworld_sign_flip",
-      "textureResource": "mtr:sign/overworld.png",
+      "textureResource": "mtr:custom_signs/overworld.png",
       "customText": "地上世界|Overworld",
       "flipCustomText": true,
       "small": true
     },
     {
       "id": "overworld_sign",
-      "textureResource": "mtr:sign/overworld.png",
+      "textureResource": "mtr:custom_signs/overworld.png",
       "customText": "地上世界|Overworld",
       "flipCustomText": false,
       "small": true
     },
     {
       "id": "overworld_sign_icon",
-      "textureResource": "mtr:sign/overworld.png",
+      "textureResource": "mtr:custom_signs/overworld.png",
       "customText": "",
       "small": true,
       "flipCustomText": false
     },
     {
       "id": "#kcr_logo_station",
-      "textureResource": "mtr:sign/kcr_logo.png",
+      "textureResource": "mtr:custom_signs/kcr_logo.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": true,
@@ -4799,14 +5015,14 @@
     },
     {
       "id": "kcr_logo",
-      "textureResource": "mtr:sign/kcr_logo.png",
+      "textureResource": "mtr:custom_signs/kcr_logo.png",
       "customText": "",
       "small": true,
       "flipCustomText": false
     },
     {
       "id": "#kcr_logo_station_fliped",
-      "textureResource": "mtr:sign/kcr_logo.png",
+      "textureResource": "mtr:custom_signs/kcr_logo.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": true,
@@ -4814,7 +5030,7 @@
     },
     {
       "id": "#mtr_gray_station",
-      "textureResource": "mtr:sign/logo_grayscale.png.png",
+      "textureResource": "mtr:custom_signs/logo_grayscale.png.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": false,
@@ -4822,7 +5038,7 @@
     },
     {
       "id": "#mtr_gray_station_fliped",
-      "textureResource": "mtr:sign/logo_grayscale.png.png",
+      "textureResource": "mtr:custom_signs/logo_grayscale.png.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": false,
@@ -4830,7 +5046,7 @@
     },
     {
       "id": "#chr_logo_station",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
+      "textureResource": "mtr:custom_signs/chr_custom_sign.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": false,
@@ -4838,7 +5054,7 @@
     },
     {
       "id": "#chr_logo_station_fliped",
-      "textureResource": "mtr:sign/chr_custom_sign.png",
+      "textureResource": "mtr:custom_signs/chr_custom_sign.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": false,
@@ -4846,7 +5062,7 @@
     },
     {
       "id": "#snr_logo_station",
-      "textureResource": "mtr:sign/snr_logo.png",
+      "textureResource": "mtr:custom_signs/snr_logo.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": true,
@@ -4854,7 +5070,7 @@
     },
     {
       "id": "#snr_logo_station_fliped",
-      "textureResource": "mtr:sign/snr_logo.png",
+      "textureResource": "mtr:custom_signs/snr_logo.png",
       "signType": "STATION",
       "customText": "sign.mtr.station",
       "small": true,
@@ -4862,133 +5078,133 @@
     },
     {
       "id": "emerald_sign",
-      "textureResource": "mtr:sign/emerald.png",
+      "textureResource": "mtr:custom_signs/emerald.png",
       "customText": "祖母綠|Emeralds",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "emerald_sign_fliped",
-      "textureResource": "mtr:sign/emerald.png",
+      "textureResource": "mtr:custom_signs/emerald.png",
       "customText": "祖母綠|Emeralds",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "emerald_icon",
-      "textureResource": "mtr:sign/emerald.png",
+      "textureResource": "mtr:custom_signs/emerald.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#overground_logo_blk",
-      "textureResource": "mtr:sign/overground_logo_blk.png",
+      "textureResource": "mtr:custom_signs/overground_logo_blk.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#underground_logo_blk",
-      "textureResource": "mtr:sign/tube_logo_blk.png",
+      "textureResource": "mtr:custom_signs/tube_logo_blk.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#dlr_logo",
-      "textureResource": "mtr:sign/dlr_logo_blk.png",
+      "textureResource": "mtr:custom_signs/dlr_logo_blk.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#liz_logo",
-      "textureResource": "mtr:sign/liz_line_logo_blk.png",
+      "textureResource": "mtr:custom_signs/liz_line_logo_blk.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#trams_logo",
-      "textureResource": "mtr:sign/trams_logo_blk.png",
+      "textureResource": "mtr:custom_signs/trams_logo_blk.png",
       "customText": "",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#overground_logo_blk_text",
-      "textureResource": "mtr:sign/overground_logo_blk.png",
+      "textureResource": "mtr:custom_signs/overground_logo_blk.png",
       "customText": "地上|Overground",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "#overground_logo_blk_text_flp",
-      "textureResource": "mtr:sign/overground_logo_blk.png",
+      "textureResource": "mtr:custom_signs/overground_logo_blk.png",
       "customText": "地上|Overground",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#underground_logo_blk",
-      "textureResource": "mtr:sign/tube_logo_blk.png",
+      "textureResource": "mtr:custom_signs/tube_logo_blk.png",
       "customText": "地下|Underground",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "#underground_logo_blk_flp",
-      "textureResource": "mtr:sign/tube_logo_blk.png",
+      "textureResource": "mtr:custom_signs/tube_logo_blk.png",
       "customText": "地下|Underground",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#dlr_logo_text",
-      "textureResource": "mtr:sign/dlr_logo_blk.png",
+      "textureResource": "mtr:custom_signs/dlr_logo_blk.png",
       "customText": "碼頭區輕軌|Docklands Light Railway",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "#dlr_logo_text_fliped",
-      "textureResource": "mtr:sign/dlr_logo_blk.png",
+      "textureResource": "mtr:custom_signs/dlr_logo_blk.png",
       "customText": "碼頭區輕軌|Docklands Light Railway",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#liz_logo_text",
-      "textureResource": "mtr:sign/liz_line_logo_blk.png",
+      "textureResource": "mtr:custom_signs/liz_line_logo_blk.png",
       "customText": "伊莉莎白線|Elizabeth line",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "#liz_logo_text_fliped",
-      "textureResource": "mtr:sign/liz_line_logo_blk.png",
+      "textureResource": "mtr:custom_signs/liz_line_logo_blk.png",
       "customText": "伊莉莎白線|Elizabeth line",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "#trams_logo_text",
-      "textureResource": "mtr:sign/trams_logo_blk.png",
+      "textureResource": "mtr:custom_signs/trams_logo_blk.png",
       "customText": "電車|Trams",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "#trams_logo_text_fliped",
-      "textureResource": "mtr:sign/trams_logo_blk.png",
+      "textureResource": "mtr:custom_signs/trams_logo_blk.png",
       "customText": "電車|Trams",
       "small": false,
       "flipCustomText": true
     },
     {
       "id": "or_logo",
-      "textureResource": "mtr:sign/origin_railway_logo.png",
+      "textureResource": "mtr:custom_signs/origin_railway_logo.png",
       "customText": "原生鐵路|Origin Railway",
       "small": false,
       "flipTexture": false,
@@ -4997,7 +5213,7 @@
     },
     {
       "id": "or_logo1",
-      "textureResource": "mtr:sign/origin_railway_logo.png",
+      "textureResource": "mtr:custom_signs/origin_railway_logo.png",
       "customText": "原生鐵路|Origin Railway",
       "small": false,
       "flipTexture": false,
@@ -5006,7 +5222,7 @@
     },
     {
       "id": "or_srt_logo",
-      "textureResource": "mtr:sign/srt_logo.png",
+      "textureResource": "mtr:custom_signs/srt_logo.png",
       "customText": "感謝阿多拉提供支援|Acknowledge to srt_logo's NTI",
       "small": false,
       "flipTexture": false,
@@ -5015,7 +5231,7 @@
     },
     {
       "id": "or_srt_logo1",
-      "textureResource": "mtr:sign/srt_logo.png",
+      "textureResource": "mtr:custom_signs/srt_logo.png",
       "customText": "感謝阿多拉提供支援|Acknowledge to srt_logo's NTI",
       "small": false,
       "flipTexture": false,
@@ -5024,7 +5240,7 @@
     },
     {
       "id": "or_arrow",
-      "textureResource": "mtr:sign/origin_arrow.png",
+      "textureResource": "mtr:custom_signs/origin_arrow.png",
       "customText": "",
       "small": false,
       "flipTexture": false,
@@ -5033,7 +5249,7 @@
     },
     {
       "id": "or_arrow1",
-      "textureResource": "mtr:sign/origin_arrow.png",
+      "textureResource": "mtr:custom_signs/origin_arrow.png",
       "customText": "",
       "small": false,
       "flipTexture": false,
@@ -5042,7 +5258,7 @@
     },
     {
       "id": "or_ticket",
-      "textureResource": "mtr:sign/enquiry.png",
+      "textureResource": "mtr:custom_signs/enquiry.png",
       "customText": "票務查詢|Ticket Enquiry",
       "small": false,
       "flipTexture": false,
@@ -5051,7 +5267,7 @@
     },
     {
       "id": "or_ticket1",
-      "textureResource": "mtr:sign/enquiry.png",
+      "textureResource": "mtr:custom_signs/enquiry.png",
       "customText": "票務查詢|Ticket Enquiry",
       "small": false,
       "flipTexture": false,
@@ -5060,7 +5276,7 @@
     },
     {
       "id": "or_eta",
-      "textureResource": "mtr:sign/eta.png",
+      "textureResource": "mtr:custom_signs/eta.png",
       "customText": "到站查詢|ETA Enquiry",
       "small": false,
       "flipTexture": false,
@@ -5069,7 +5285,7 @@
     },
     {
       "id": "or_eta1",
-      "textureResource": "mtr:sign/eta.png",
+      "textureResource": "mtr:custom_signs/eta.png",
       "customText": "到站查詢|ETA Enquiry",
       "small": false,
       "flipTexture": false,
@@ -5078,7 +5294,7 @@
     },
     {
       "id": "or_dining",
-      "textureResource": "mtr:sign/dining.png",
+      "textureResource": "mtr:custom_signs/dining.png",
       "customText": "餐廳|Restaurant",
       "small": false,
       "flipTexture": false,
@@ -5087,7 +5303,7 @@
     },
     {
       "id": "or_dining1",
-      "textureResource": "mtr:sign/dining.png",
+      "textureResource": "mtr:custom_signs/dining.png",
       "customText": "餐廳|Restaurant",
       "small": false,
       "flipTexture": false,
@@ -5096,7 +5312,7 @@
     },
     {
       "id": "1_car",
-      "textureResource": "mtr:sign/1-car.png",
+      "textureResource": "mtr:custom_signs/1-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5105,7 +5321,7 @@
     },
     {
       "id": "1_car_flip",
-      "textureResource": "mtr:sign/1-car.png",
+      "textureResource": "mtr:custom_signs/1-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5114,7 +5330,7 @@
     },
     {
       "id": "2_car",
-      "textureResource": "mtr:sign/2-car.png",
+      "textureResource": "mtr:custom_signs/2-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5123,7 +5339,7 @@
     },
     {
       "id": "2_car_flip",
-      "textureResource": "mtr:sign/2-car.png",
+      "textureResource": "mtr:custom_signs/2-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5132,7 +5348,7 @@
     },
     {
       "id": "3_car",
-      "textureResource": "mtr:sign/3-car.png",
+      "textureResource": "mtr:custom_signs/3-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5141,7 +5357,7 @@
     },
     {
       "id": "3_car_flip",
-      "textureResource": "mtr:sign/3-car.png",
+      "textureResource": "mtr:custom_signs/3-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5150,7 +5366,7 @@
     },
     {
       "id": "4_car",
-      "textureResource": "mtr:sign/4-car.png",
+      "textureResource": "mtr:custom_signs/4-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5159,7 +5375,7 @@
     },
     {
       "id": "4_car_flip",
-      "textureResource": "mtr:sign/4-car.png",
+      "textureResource": "mtr:custom_signs/4-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5168,7 +5384,7 @@
     },
     {
       "id": "5_car",
-      "textureResource": "mtr:sign/5-car.png",
+      "textureResource": "mtr:custom_signs/5-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5177,7 +5393,7 @@
     },
     {
       "id": "5_car_flip",
-      "textureResource": "mtr:sign/5-car.png",
+      "textureResource": "mtr:custom_signs/5-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5186,7 +5402,7 @@
     },
     {
       "id": "6_car",
-      "textureResource": "mtr:sign/6-car.png",
+      "textureResource": "mtr:custom_signs/6-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5195,7 +5411,7 @@
     },
     {
       "id": "6_car_flip",
-      "textureResource": "mtr:sign/6-car.png",
+      "textureResource": "mtr:custom_signs/6-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5204,7 +5420,7 @@
     },
     {
       "id": "7_car",
-      "textureResource": "mtr:sign/7-car.png",
+      "textureResource": "mtr:custom_signs/7-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5213,7 +5429,7 @@
     },
     {
       "id": "7_car_flip",
-      "textureResource": "mtr:sign/7-car.png",
+      "textureResource": "mtr:custom_signs/7-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5222,7 +5438,7 @@
     },
     {
       "id": "8_car",
-      "textureResource": "mtr:sign/8-car.png",
+      "textureResource": "mtr:custom_signs/8-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5231,7 +5447,7 @@
     },
     {
       "id": "8_car_flip",
-      "textureResource": "mtr:sign/8-car.png",
+      "textureResource": "mtr:custom_signs/8-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5240,7 +5456,7 @@
     },
     {
       "id": "9_car",
-      "textureResource": "mtr:sign/9-car.png",
+      "textureResource": "mtr:custom_signs/9-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5249,7 +5465,7 @@
     },
     {
       "id": "9_car_flip",
-      "textureResource": "mtr:sign/9-car.png",
+      "textureResource": "mtr:custom_signs/9-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5258,7 +5474,7 @@
     },
     {
       "id": "10_car",
-      "textureResource": "mtr:sign/10-car.png",
+      "textureResource": "mtr:custom_signs/10-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5267,7 +5483,7 @@
     },
     {
       "id": "10_car_flip",
-      "textureResource": "mtr:sign/10-car.png",
+      "textureResource": "mtr:custom_signs/10-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5276,7 +5492,7 @@
     },
     {
       "id": "11_car",
-      "textureResource": "mtr:sign/11-car.png",
+      "textureResource": "mtr:custom_signs/11-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5285,7 +5501,7 @@
     },
     {
       "id": "11_car_flip",
-      "textureResource": "mtr:sign/11-car.png",
+      "textureResource": "mtr:custom_signs/11-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5294,7 +5510,7 @@
     },
     {
       "id": "12_car",
-      "textureResource": "mtr:sign/12-car.png",
+      "textureResource": "mtr:custom_signs/12-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5303,7 +5519,7 @@
     },
     {
       "id": "12_car_flip",
-      "textureResource": "mtr:sign/12-car.png",
+      "textureResource": "mtr:custom_signs/12-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5312,7 +5528,7 @@
     },
     {
       "id": "13_car",
-      "textureResource": "mtr:sign/13-car.png",
+      "textureResource": "mtr:custom_signs/13-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5321,7 +5537,7 @@
     },
     {
       "id": "13_car_flip",
-      "textureResource": "mtr:sign/13-car.png",
+      "textureResource": "mtr:custom_signs/13-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5330,7 +5546,7 @@
     },
     {
       "id": "14_car",
-      "textureResource": "mtr:sign/14-car.png",
+      "textureResource": "mtr:custom_signs/14-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5339,7 +5555,7 @@
     },
     {
       "id": "14_car_flip",
-      "textureResource": "mtr:sign/14-car.png",
+      "textureResource": "mtr:custom_signs/14-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5348,7 +5564,7 @@
     },
     {
       "id": "15_car",
-      "textureResource": "mtr:sign/15-car.png",
+      "textureResource": "mtr:custom_signs/15-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5357,7 +5573,7 @@
     },
     {
       "id": "15_car_flip",
-      "textureResource": "mtr:sign/15-car.png",
+      "textureResource": "mtr:custom_signs/15-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5366,7 +5582,7 @@
     },
     {
       "id": "16_car",
-      "textureResource": "mtr:sign/16-car.png",
+      "textureResource": "mtr:custom_signs/16-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5375,7 +5591,7 @@
     },
     {
       "id": "16_car_flip",
-      "textureResource": "mtr:sign/16-car.png",
+      "textureResource": "mtr:custom_signs/16-car.png",
       "customText": "卡車|-Car Train",
       "small": false,
       "flipTexture": false,
@@ -5384,258 +5600,271 @@
     },
     {
       "id": "indium_icon",
-      "textureResource": "mtr:sign/indium.png",
+      "textureResource": "mtr:custom_signs/indium.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "iris",
-      "textureResource": "mtr:sign/iris.png",
+      "textureResource": "mtr:custom_signs/iris.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "lithium",
-      "textureResource": "mtr:sign/lithium.png",
+      "textureResource": "mtr:custom_signs/lithium.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "msd",
-      "textureResource": "mtr:sign/msd.png",
+      "textureResource": "mtr:custom_signs/msd.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "sodium",
-      "textureResource": "mtr:sign/sodium.png",
+      "textureResource": "mtr:custom_signs/sodium.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "updator",
-      "textureResource": "mtr:sign/updator.png",
+      "textureResource": "mtr:custom_signs/updator.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "carpet",
-      "textureResource": "mtr:sign/carpet.png",
+      "textureResource": "mtr:custom_signs/carpet.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "dynamicfps",
-      "textureResource": "mtr:sign/dyn.png",
+      "textureResource": "mtr:custom_signs/dyn.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "debugify",
-      "textureResource": "mtr:sign/debugify.png",
+      "textureResource": "mtr:custom_signs/debugify.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "BetterF3",
-      "textureResource": "mtr:sign/f3.png",
+      "textureResource": "mtr:custom_signs/f3.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "jsblock",
-      "textureResource": "mtr:sign/jsblock.png",
+      "textureResource": "mtr:custom_signs/jsblock.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "yacl_yet_another_config_mod",
-      "textureResource": "mtr:sign/yacl.png",
+      "textureResource": "mtr:custom_signs/yacl.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "yosbr",
-      "textureResource": "mtr:sign/yosbr.png",
+      "textureResource": "mtr:custom_signs/yosbr.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "kotlin",
-      "textureResource": "mtr:sign/kotlin.png",
+      "textureResource": "mtr:custom_signs/kotlin.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "melody_logo",
-      "textureResource": "mtr:sign/melody_logo.png",
+      "textureResource": "mtr:custom_signs/melody_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "etf",
-      "textureResource": "mtr:sign/etf.png",
+      "textureResource": "mtr:custom_signs/etf.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "emf",
-      "textureResource": "mtr:sign/emf.png",
+      "textureResource": "mtr:custom_signs/emf.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "puzzle",
-      "textureResource": "mtr:sign/puzzle.png",
+      "textureResource": "mtr:custom_signs/puzzle.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "yte",
-      "textureResource": "mtr:sign/yte.png",
+      "textureResource": "mtr:custom_signs/yte.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "polytone",
-      "textureResource": "mtr:sign/polytone.png",
+      "textureResource": "mtr:custom_signs/polytone.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "spark",
-      "textureResource": "mtr:sign/spark.png",
+      "textureResource": "mtr:custom_signs/spark.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "starlight",
-      "textureResource": "mtr:sign/starlight.png",
+      "textureResource": "mtr:custom_signs/starlight.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "MoreCulling",
-      "textureResource": "mtr:sign/MoreCulling.png",
+      "textureResource": "mtr:custom_signs/MoreCulling.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "mousetweaks_logo",
-      "textureResource": "mtr:sign/mousetweaks_logo.png",
+      "textureResource": "mtr:custom_signs/mousetweaks_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "fancymenu_logo",
-      "textureResource": "mtr:sign/fancymenu_logo.png",
+      "textureResource": "mtr:custom_signs/fancymenu_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "sliders",
-      "textureResource": "mtr:sign/sliders.png",
+      "textureResource": "mtr:custom_signs/sliders.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "mousetweaks_logo",
-      "textureResource": "mtr:sign/mousetweaks_logo.png",
+      "textureResource": "mtr:custom_signs/mousetweaks_logo.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "rma",
-      "textureResource": "mtr:sign/rma.png",
+      "textureResource": "mtr:custom_signs/rma.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "fabulously_optimized",
-      "textureResource": "mtr:sign/fabulously_optimized.png",
+      "textureResource": "mtr:custom_signs/fabulously_optimized.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "entityculling",
-      "textureResource": "mtr:sign/entityculling.png",
+      "textureResource": "mtr:custom_signs/entityculling.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "joban",
-      "textureResource": "mtr:sign/joban.png",
+      "textureResource": "mtr:custom_signs/joban.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "g_caps",
-      "textureResource": "mtr:sign/g_caps.png",
+      "textureResource": "mtr:custom_signs/g_caps.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "g_caps",
-      "textureResource": "mtr:sign/prefab.png",
+      "textureResource": "mtr:custom_signs/prefab.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "roblox",
-      "textureResource": "mtr:sign/roblox.png",
+      "textureResource": "mtr:custom_signs/roblox.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     },
     {
       "id": "rtc",
-      "textureResource": "mtr:sign/rtc.png",
+      "textureResource": "mtr:custom_signs/rtc.png",
       "customText": "",
       "small": false,
       "flipCustomText": false
     }
   ],
   "rails": [],
-  "objects": [],
+  "objects": [
+    {
+	    "id": "surface_board",
+        "name": "Surface Board",
+        "modelResource": "mtr:custom_objects/my_custom_object.obj",
+        "textureResource": "mtr:custom_objects/my_custom_object.mtl",
+        "color": "000000",
+        "flipTextureV": true,
+        "translation": {"x":0,"y":0,"z":0},
+        "rotation": {"x":0,"y":0,"z":0},
+        "scale": {"x":1,"y":1,"z":1},
+        "mirror": [false,false,false]
+    }
+  ],
   "lifts": [
     {
       "id": "detail",
       "name": "Detailed Lift",
       "color": "CCCCCC",
-      "textureResource": "mtr:lift/lift_1.png"
+      "textureResource": "mtr:custom_lifts/lift_1.png"
     }
   ]
 }

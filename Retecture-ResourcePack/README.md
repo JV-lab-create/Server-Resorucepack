@@ -24,5 +24,7 @@ The names of the resource packs are here but the Author's account is not here. I
 * Singapore MRT Alstom Movia R151 - NonPlayerCharacter - modrinth
 * Singapore MRT Thomson-East Coast Line T251 - NonPlayerCharacter - modrinth
 * British Rail Class 80x Livery Pack https://modrinth.com/resourcepack/80xliverypack?version=1.20.4
+* Class 377 Livery Pack - [MTR Disord Server Message Link](https://discord.com/channels/763273460465270816/953329579567767572/1064133458772901939) | [Discord Server](https://discord.gg/PVZ2nfUaTW)
+* ElectroStarsLiveriesPack - [MTR Disord Server Message Link](https://discord.com/channels/763273460465270816/953329579567767572/1242897450369548358) | [Discord Server](https://discord.gg/PVZ2nfUaTW)
 
 We recomend not to take resources out of this pack, due to you not knowing what owner is. Please download some from the info listed above here.

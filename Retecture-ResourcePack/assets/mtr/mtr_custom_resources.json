@@ -1053,7 +1053,13 @@
 			"base_train_type": "class_802_gwr",
 			"texture_id": "mtr:custom_directory/class_801_azuma.png"
 
-		}
+		},
+	"class_377_tpe":{
+         "name":"Class 377 Interlink",
+         "color":"FEC5E5",
+         "base_train_type":"class_377_southern",
+         "texture_id":"mtr:custom_directory/class_377_tpe.png"
+	}
 
 	}
 }
