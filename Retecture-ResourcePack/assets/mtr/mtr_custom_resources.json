@@ -1055,11 +1055,41 @@
 
 		},
 	"class_377_tpe":{
-         "name":"Class 377 Interlink",
+         "name":"Class 377 Interlink TransPennieExpress Style",
          "color":"FEC5E5",
          "base_train_type":"class_377_southern",
          "texture_id":"mtr:custom_directory/class_377_tpe.png"
-	}
+	},
+	"class_377_stepfordconnect": {
+			"name": "Class 377 Legacy Stepford Connect Style",
+			"color": "FFFFFF",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:custom_directory/class_377_sc.png"
+		},
+		"class_377_mersey":{
+         "name":"Class 377 Merseyrail",
+         "color":"FEC5E5",
+         "base_train_type":"class_377_southern",
+         "texture_id":"mtr:custom_directory/class_377_merseyrail.png"
+      },
+	  "southeastern_377":{
+         "name":"Class 377 Southeastern",
+         "color":"FFFFFF",
+         "base_train_type":"class_377_southern",
+         "texture_id":"mtr:custom_directory/class_377_southeastern.png"
+      },
+	                                  "Class-377_GWR": {
+			"name": "British Rail Class 387 GWR (No Logo)",
+			"color": "004928",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:custom_directory/class_377_gwr.png"
+		},
+		"Class-377_Elizabeth": {
+			"name": "British Rail Class 377 Elizabeth (Fictional)",
+			"color": "B200FF",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:custom_directory/class_377_elizabeth.png"
+		}
 
 	}
 }
