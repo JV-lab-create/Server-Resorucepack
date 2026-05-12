@@ -1089,6 +1089,12 @@
 			"color": "B200FF",
 			"base_train_type": "class_377_southern",
 			"texture_id": "mtr:custom_directory/class_377_elizabeth.png"
+		},                                
+		"Class-377_Overground": {
+			"name": "British Rail Class 378 Overground",
+			"color": "F77722",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:custom_directory/class_377_overground.png"
 		}
 
 	}
