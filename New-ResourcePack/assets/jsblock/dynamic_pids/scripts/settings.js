@@ -6,6 +6,21 @@ let LINES = [
         ch: "rapid_ch.png",
         en: "rapid_en.png"
     },
+    {
+        key: "西雅圖(東)特快|Seattle Express (E)",
+        ch: "seatleexpress_ch.png",
+        en: "seatleexpress.png"
+    },
+    {
+        key: "太空綫|Space Line",
+        ch: "space_ch.png",
+        en: "space.png"
+    },
+    {
+        key: "黃金綫|Golden Line",
+        ch: "golden_ch.png",
+        en: "golden_en.png"
+    }
 ];
 
 // It will default to 0 if the number of cars is not in this list
