@@ -39,7 +39,7 @@ function render(ctx, state, pids) {
         .draw(ctx);
 
     Text.create("Train Linet Header")
-        .text(TextUtil.cycleString("火車|Train"))
+        .text(TextUtil.cycleString("火車|Boat"))
         .color(0x02fceb) // #02fceb
         .pos(pids.width - 4, firstRowY)
         .stretchXY()

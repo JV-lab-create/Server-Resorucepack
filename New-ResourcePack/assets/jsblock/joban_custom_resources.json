@@ -708,6 +708,36 @@
         "scriptFiles": ["jsblock:scripts/uk_led_1a_white.js"],
         "blacklist": ["lcd_pids", "rv_pids", "rv_pids_sil_1", "rv_pids_sil_2"],
         "thumbnail": "jsblock:thumbnails/ukled_white.png"
+    },
+	{
+      "id": "pids_tut",
+      "name": "LRT Pids",
+      "thumbnail": "jsblock:textures/lrtpids.png",
+      "scriptFiles": ["jsblock:scripts/pids_tut.js"]
+    },
+    {
+      "id": "dyna_dyna",
+      "name": "Dynamic Pids",
+      "thumbnail": "jsblock:textures/lrtpids.png",
+      "scriptFiles": ["jsblock:dynamic_pids/scripts/main.js"]
+    },
+    {
+      "id": "pids_topia",
+      "name": "Topia PIDS",
+      "thumbnail": "jsblock:textures/topia.png",
+      "scriptFiles": ["jsblock:scripts/topia_pids.js"]
+    },
+    {
+      "id": "pids_la",
+      "name": "Los Angles Metro PIDS",
+      "thumbnail": "jsblock:textures/la.png",
+      "scriptFiles": ["jsblock:scripts/pids_la.js"]
+    },
+    {
+      "id": "awt",
+      "name": "AWT PIDS TEST",
+      "thumbnail": "jsblock:textures/testpids.png",
+      "scriptFiles": ["jsblock:scripts/awttest.js"]
     }
   	]
 }
