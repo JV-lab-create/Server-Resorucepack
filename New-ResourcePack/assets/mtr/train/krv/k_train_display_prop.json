@@ -1,0 +1,148 @@
+{
+  "parts": [
+    {
+      "names": [
+        "display_nextstation"
+      ],
+      "positionDefinitions": [
+        "roof_display_ns"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "00C2FF",
+      "displayColor": "00FFDC",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "NEXT_STATION_MTR",
+      "displayDefaultText": "下一站：Untitled|Next station: Untitled",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "display_nextstation"
+      ],
+      "positionDefinitions": [
+        "roof_display_ns"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "00C2FF",
+      "displayColor": "00FFDC",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "NEXT_STATION_MTR",
+      "displayDefaultText": "下一站：Untitled|Next station: Untitled",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "display_terminal"
+      ],
+      "positionDefinitions": [
+        "terminal_display"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0.1,
+      "displayYPadding": 0.3,
+      "displayColorCjk": "2D34FF",
+      "displayColor": "4F5AFF",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2.5,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "一N/A|N/A",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "side_display"
+      ],
+      "positionDefinitions": [
+        "side_display"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0.05,
+      "displayColorCjk": "fd07f1",
+      "displayColor": "fd07f1",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "SINGLE_LINE",
+        "SCROLL_NORMAL"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "暫停服務！|Not In Service!",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    }
+  ],
+  "modelYOffset": 1,
+  "gangwayInnerSideResource": "",
+  "gangwayInnerTopResource": "",
+  "gangwayInnerBottomResource": "",
+  "gangwayOuterSideResource": "",
+  "gangwayOuterTopResource": "",
+  "gangwayOuterBottomResource": "",
+  "gangwayWidth": 1.5,
+  "gangwayHeight": 2.25,
+  "gangwayYOffset": 1,
+  "gangwayZOffset": 0.5,
+  "barrierInnerSideResource": "",
+  "barrierInnerTopResource": "",
+  "barrierInnerBottomResource": "",
+  "barrierOuterSideResource": "",
+  "barrierOuterTopResource": "",
+  "barrierOuterBottomResource": "",
+  "barrierWidth": 2.25,
+  "barrierHeight": 1,
+  "barrierYOffset": 1.25,
+  "barrierZOffset": 0.25
+}

@@ -1,0 +1,75 @@
+{
+  "positionDefinitions": [
+    {
+      "name": "roof_display_ns",
+      "positions": [
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": -40
+        },
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": 40
+        }
+      ],
+      "positionsFlipped": [
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": -40
+        },
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": 40
+        }
+      ]
+    },
+    {
+      "name": "side_display",
+      "positions": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      ],
+      "positionsFlipped": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "name": "terminal_display",
+      "positions": [
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": -40
+        },
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": 40
+        }
+      ],
+      "positionsFlipped": [
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": -40
+        },
+        {
+          "x": 0,
+          "y": -0.065,
+          "z": 40
+        }
+      ]
+    }
+  ]
+}

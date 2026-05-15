@@ -10,7 +10,7 @@
 * World PIDS-Pack some in `/wpp/` https://modrinth.com/resourcepack/world-pids-pack
 * Orignal Railway - [Source](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
 * UK LED PIDS - [Source](https://modrinth.com/resourcepack/mtr4-uk-led-pids?version=1.20.4) - README is located in `/credits/UKLED.md`
-* JV-MTR-Pack - [Source](https://github.com/JV-lab-create/JV-MTR-ResourcePack)
+* JV-MTR-Pack - [Source](https://github.com/JV-lab-create/JV-MTR-ResourcePack) MIT Licance
 
 #### Elevator
 
