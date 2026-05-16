@@ -19740,6 +19740,13 @@
       "flipCustomText": false
     },
     {
+      "id": "joestu-client-mod",
+      "textureResource": "mtr:custom_signs/joestu-client-mod.png",
+      "customText": "",
+      "small": false,
+      "flipCustomText": false
+    },
+    {
       "id": "yacl_yet_another_config_mod",
       "textureResource": "mtr:custom_signs/yacl.png",
       "customText": "",
@@ -19879,6 +19886,7 @@
       "small": false,
       "flipCustomText": false
     },
+    
     {
       "id": "g_caps",
       "textureResource": "mtr:custom_signs/g_caps.png",
