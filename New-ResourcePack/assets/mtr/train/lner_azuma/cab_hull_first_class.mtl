@@ -1,0 +1,182 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material1.071
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_pantograph.png
+map_d 800_pantograph.png
+
+newmtl Material1.094
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.095
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.096
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd 800_driving_ht_2.png
+
+newmtl Material1.097
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.098
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.099
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.100
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.101
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.102
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.103
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.104
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.105
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.106
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.107
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.108
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png
+
+newmtl Material1.109
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_pantograph.png
+map_d 800_pantograph.png
+
+newmtl Material1.110
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 800_driving_ht_2.png
+map_d 800_driving_ht_2.png

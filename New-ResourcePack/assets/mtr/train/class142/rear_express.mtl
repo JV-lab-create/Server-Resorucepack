@@ -1,0 +1,879 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl vehicle/train/142065_northern.mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.017
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.018
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.019
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 express.png
+
+newmtl vehicle/train/142065_northern.mtl.044
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.045
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.046
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.047
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.048
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.055
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.056
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.057
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.058
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.059
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.060
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.061
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.062
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.063
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.064
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.065
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.066
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.067
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.068
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.069
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.070
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.071
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.072
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.073
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.074
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.075
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.076
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.077
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.078
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142065_northern.mtl.079
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd express.png
+map_d express.png
+map_Bump -bm 1.000000 142_normals_modern_2.png
+
+newmtl vehicle/train/142_lights.mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+
+newmtl vehicle/train/142_lights.mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+
+newmtl vehicle/train/142_lightsr.mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd express.png
+map_d express.png
+
+newmtl vehicle/train/142_tp.mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.008
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.039
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.040
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.041
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.042
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.043
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.044
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.045
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.046
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.047
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.048
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.049
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.050
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.051
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.052
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.053
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.054
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.055
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.056
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.057
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.058
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.059
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.060
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.061
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.062
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.063
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.064
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.065
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.066
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.067
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/142_tp.mtl.068
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd glass.png
+map_d glass.png
+map_Bump -bm 1.000000 142_tp_normals.png
+
+newmtl vehicle/train/cw_bsi.mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd bsi.png
+map_d bsi.png
+map_Bump -bm 1.000000 bsi_normals.png

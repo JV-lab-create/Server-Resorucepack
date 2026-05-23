@@ -1,0 +1,151 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl vehicle/train/68_cab.mtl.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 68_cab.png
+map_d 68_cab.png
+map_Bump -bm 1.000000 68_cab_normals.png
+
+newmtl vehicle/train/68_cab_screens.mtl.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl vehicle/train/68_exterior.mtl.008
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior.mtl.009
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior.mtl.010
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior.mtl.011
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior.mtl.012
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior.mtl.013
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd compass.png
+map_d compass.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_exterior_006_str.mtl
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 68_ctn_010.png
+map_d 68_ctn_010.png
+map_Bump -bm 1.000000 68_normals.png
+
+newmtl vehicle/train/68_lr.mtl.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl vehicle/train/68_lr.mtl.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.001518
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl vehicle/train/68_lw.mtl.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl vehicle/train/68_lw.mtl.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl vehicle/train/68_v.mtl.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd 68_v.png
+map_d 68_v.png
+map_Bump -bm 1.000000 68_v_normals.png
