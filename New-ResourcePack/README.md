@@ -38,7 +38,8 @@
 * Stepford County Railways British Rail Class 142 [Creator: vitor2005](https://modrinth.com/user/vitor2005) [Source](https://modrinth.com/resourcepack/mtr4-stepford-county-railways-british-rail-class-142) Licance: [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use%20-%20Vitor2005.md) 
 * Tyne and Wear Metrocar [Creator: szandorthe13th](https://modrinth.com/user/szandorthe13th) [Source](https://modrinth.com/resourcepack/tyne-and-wear-metrocar) Licance: [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)  
 * Stepford Connect and Waterline Class 730 [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/stepford-connect-and-waterline-class-730) Licance: [MIT](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MIT)
-
+* Stepford Express HST [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-express-hst/gallery?version=1.20.4) Licance: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+* Stepford Connect Coaches [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-connect-coaches?version=1.20.4) Licance: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Signs
 

@@ -26793,7 +26793,83 @@
       "legacyConstantPlaybackSpeed": false,
       "legacyDoorSoundBaseResource": "",
       "legacyDoorCloseSoundTime": 0
-    }
+    },
+    {
+            "id": "scr68coaches1stclass_trailer",
+            "name": "Stepford Connect Class 68 Coaches (1st Class) (Trailer)",
+            "color": "1D244C",
+            "transportMode": "TRAIN",
+            "length": 22,
+            "width": 2,
+            "bogie1Position": -7.82,
+            "bogie2Position": 7.82,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "description": "The Mark 3 Coaches are non-powered passenger rail vehicles used in SCR for services on Stepford Connect in rakes of 3 coaches and a Class 68 locomotive on each end and on Stepford Express in rakes of 4, 5, 7, 8 or 9 (one of them being a First Class only coach) with a Class 43 locomotive on each end. They are NGv3 with paper PIS on the outside and a scrolling PIS on the inside.",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:train/connect68mark5a/carriage_e_first_class.obj",
+                    "textureResource": "mtr:train/connect68mark5a/mark5a_dt.png",
+                    "modelPropertiesResource": "mtr:train/connect68mark5a/properties_f23a3783.json",
+                    "positionDefinitionsResource": "mtr:train/connect68mark5a/definition_88087fd4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.5,
+            "bveSoundBaseResource": "carriage",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+        {
+            "id": "scr68coaches2ndclass_trailer",
+            "name": "Stepford Connect Class 68 Coaches (2nd Class) (Trailer)",
+            "color": "1D244C",
+            "transportMode": "TRAIN",
+            "length": 22.5,
+            "width": 2,
+            "bogie1Position": -7.82,
+            "bogie2Position": 7.82,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "The Mark 3 Coaches are non-powered passenger rail vehicles used in SCR for services on Stepford Connect in rakes of 3 coaches and a Class 68 locomotive on each end and on Stepford Express in rakes of 4, 5, 7, 8 or 9 (one of them being a First Class only coach) with a Class 43 locomotive on each end. They are NGv3 with paper PIS on the outside and a scrolling PIS on the inside.",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:train/connect68mark5a/second_class.obj",
+                    "textureResource": "mtr:train/connect68mark5a/mark5a_dt.png",
+                    "modelPropertiesResource": "mtr:train/connect68mark5a/properties_16232cb2.json",
+                    "positionDefinitionsResource": "mtr:train/connect68mark5a/definition_73690704.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.5,
+            "bveSoundBaseResource": "carriage",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        }
   ],
   "signs": [
     {

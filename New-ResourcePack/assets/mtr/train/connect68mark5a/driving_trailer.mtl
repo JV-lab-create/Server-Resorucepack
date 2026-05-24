@@ -1,0 +1,174 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd mk5a_c1.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd mk5_b_cdr.png
+map_d mk5_b_cdr.png
+
+newmtl Material1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5dt.png
+map_d mk5dt.png
+
+newmtl vehicle/train/mk5_bogie.mtl.030
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_bogie.mtl.031
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_bogie.mtl.032
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_bogie.mtl.033
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_bogie.mtl.034
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_bogie.mtl.035
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_b.png
+map_d mk5_b.png
+map_Bump -bm 1.000000 mk5_b_normals.png
+
+newmtl vehicle/train/mk5_undercarriage.mtl.005
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5_u.png
+map_d mk5_u.png
+map_Bump -bm 1.000000 mk5_u_normals.png
+
+newmtl vehicle/train/mk5a_exterior_1.mtl.034
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5a_c1.png
+map_d mk5a_c1.png
+map_Bump -bm 1.000000 mk5a_normals.png
+
+newmtl vehicle/train/mk5a_exterior_1.mtl.039
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5a_c2.png
+map_d mk5a_c1.png
+map_Bump -bm 1.000000 mk5a_normals.png
+
+newmtl vehicle/train/mk5a_exterior_1.mtl.040
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5a_c2.png
+map_d mk5a_c1.png
+map_Bump -bm 1.000000 mk5a_normals.png
+
+newmtl vehicle/train/mk5a_exterior_1.mtl.041
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5a_c2.png
+map_d mk5a_c1.png
+map_Bump -bm 1.000000 mk5a_normals.png
+
+newmtl vehicle/train/mk5a_exterior_1.mtl.042
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd mk5a_c2.png
+map_d mk5a_c1.png
+map_Bump -bm 1.000000 mk5a_normals.png
