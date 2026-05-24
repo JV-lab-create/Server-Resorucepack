@@ -28197,16 +28197,36 @@
   "rails": [],
   "objects": [
     {
+      "id": "mrw_roundel",
+      "name": "Roundel - Moszyan Railways",
+      "color": "FB542B",
+      "modelResource": "mtrsteamloco:eyecandies/moszyan/roundel_pole.obj",
+      "flipTextureV": true,
+      "scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": "mrw_metro",
+      "name": "Moszyan Railways Metro Icon",
+      "color": "FBBF2B",
+      "modelResource": "mtrsteamloco:eyecandies/mrw_metro/mrw_metro.obj",
+      "textureResource": "mtrsteamloco:eyecandies/mrw_metro/mrw_silver.png",
+      "scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
 	    "id": "surface_board",
         "name": "Surface Board",
         "modelResource": "mtr:custom_objects/surface/surfaceboard.obj",
         "textureResource": "mtr:custom_objects/surface/surfaceboard.mtl",
         "color": "000000",
-        "flipTextureV": true,
-        "translation": {"x":0,"y":0,"z":0},
-        "rotation": {"x":0,"y":0,"z":0},
-        "scale": {"x":1,"y":1,"z":1},
-        "mirror": [false,false,false]
+        "scale": {"x":0,"y":0,"z":0}
     }
   ],
   "lifts": [
