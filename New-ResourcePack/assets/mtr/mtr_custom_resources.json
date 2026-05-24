@@ -26869,6 +26869,130 @@
             "legacyConstantPlaybackSpeed": false,
             "legacyDoorSoundBaseResource": "",
             "legacyDoorCloseSoundTime": 0
+        },
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": "mtr_custom_train_mark5a_1stclass_trailer",
+            "name": "mark 5a first class (Trailer)",
+            "color": "1D244C",
+            "transportMode": "TRAIN",
+            "length": 22,
+            "width": 2,
+            "bogie1Position": -7.82,
+            "bogie2Position": 7.82,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "description": "The British Rail Mark 5A is a type of railway vehicle in use in the UK. 52 standard carriages and 14 driving trailers were built by Spanish manufacturer CAF, and were operated by TransPennine Express. They first entered service on 24 August 2019, with the last set being withdrawn with the timetable change occurring on 10 December 2023.",
+            "wikipediaArticle": "https://en.wikipedia.org/wiki/British_Rail_Mark_5A",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:train/mark5a_dt/carriage_e_first_class.obj",
+                    "textureResource": "mtr:train/mark5a_dt/mark5a_dt.png",
+                    "modelPropertiesResource": "mtr:train/mark5a_dt/properties_f23a3783.json",
+                    "positionDefinitionsResource": "mtr:train/mark5a_dt/definition_88087fd4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.5,
+            "bveSoundBaseResource": "carriage",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+        {
+            "id": "mtr_custom_train_mark5a_second_class_trailer",
+            "name": "Mark5a Second Class (Trailer)",
+            "color": "1D244C",
+            "transportMode": "TRAIN",
+            "length": 22.5,
+            "width": 2,
+            "bogie1Position": -7.82,
+            "bogie2Position": 7.82,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "The British Rail Mark 5A is a type of railway vehicle in use in the UK. 52 standard carriages and 14 driving trailers were built by Spanish manufacturer CAF, and were operated by TransPennine Express. They first entered service on 24 August 2019, with the last set being withdrawn with the timetable change occurring on 10 December 2023.",
+            "wikipediaArticle": "https://en.wikipedia.org/wiki/British_Rail_Mark_5A",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:train/mark5a_dt/second_class.obj",
+                    "textureResource": "mtr:train/mark5a_dt/mark5a_dt.png",
+                    "modelPropertiesResource": "mtr:train/mark5a_dt/properties_16232cb2.json",
+                    "positionDefinitionsResource": "mtr:train/mark5a_dt/definition_73690704.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.5,
+            "bveSoundBaseResource": "carriage",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+        {
+            "id": "mtr_custom_train_mark5a_dt_cab_2",
+            "name": "mark 5a driving trailer Cab (Backwards)",
+            "color": "1D244C",
+            "transportMode": "TRAIN",
+            "length": 22,
+            "width": 2,
+            "bogie1Position": -7.82,
+            "bogie2Position": 7.82,
+            "couplingPadding1": 0,
+            "couplingPadding2": 1,
+            "description": "The British Rail Mark 5A is a type of railway vehicle in use in the UK. 52 standard carriages and 14 driving trailers were built by Spanish manufacturer CAF, and were operated by TransPennine Express. They first entered service on 24 August 2019, with the last set being withdrawn with the timetable change occurring on 10 December 2023.",
+            "wikipediaArticle": "https://en.wikipedia.org/wiki/British_Rail_Mark_5A",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:train/mark5a_dt/driving_trailer.obj",
+                    "textureResource": "mtr:train/mark5a_dt/mark5a_dt.png",
+                    "modelPropertiesResource": "mtr:train/mark5a_dt/properties_cbdd6c3.json",
+                    "positionDefinitionsResource": "mtr:train/mark5a_dt/definition_711b2905.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.5,
+            "bveSoundBaseResource": "carriage",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
         }
   ],
   "signs": [

@@ -40,6 +40,7 @@
 * Stepford Connect and Waterline Class 730 [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/stepford-connect-and-waterline-class-730) License: [MIT](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MIT)
 * Stepford Express HST [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-express-hst/gallery?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * Stepford Connect Coaches [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-connect-coaches?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+* Mark5a 'Nova 3' Set [Creator:vitor2005](https://modrinth.com/user/vitor2005) [Source](https://modrinth.com/resourcepack/mtr4-mark5a-nova-3-set?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Signs
 
