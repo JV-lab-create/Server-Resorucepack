@@ -46,7 +46,7 @@
 * Orignal Railway - [Source](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
 * Centown Resource Pack [Source (the resources.zip file in world)](https://github.com/itsamemari0/Centown)
 * London Underground Mod
-* Moszyan Railways (Signs only) [Source](https://modrinth.com/resourcepack/moszyan-railways) - Licance [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
+* Moszyan Railways (Signs only, modified to look lighter) [Source](https://modrinth.com/resourcepack/moszyan-railways) - Licance [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 
 ## Models
 
