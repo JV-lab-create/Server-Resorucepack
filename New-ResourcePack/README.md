@@ -41,6 +41,7 @@
 * Stepford Express HST [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-express-hst/gallery?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * Stepford Connect Coaches [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-connect-coaches?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * Mark5a 'Nova 3' Set [Creator:vitor2005](https://modrinth.com/user/vitor2005) [Source](https://modrinth.com/resourcepack/mtr4-mark5a-nova-3-set?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+* Moszyan Railways (Trains, signs, lifts) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md) 
 
 ## Signs
 
@@ -48,7 +49,7 @@
 * Origin Railway - [Source](https://www.planetminecraft.com/texture-pack/minecraft-transit-railway-origin-railway-train-pack/)
 * Centown Resource Pack [Source (the resources.zip file in world)](https://github.com/itsamemari0/Centown)
 * London Underground Mod
-* Moszyan Railways (Signs only, modified to look white) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
+* Moszyan Railways (modified to look white) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 
 ## Models
 

@@ -1,0 +1,447 @@
+{
+  "parts": [
+    {
+      "names": [
+        "int1num"
+      ],
+      "positionDefinitions": [
+        "526eb95c"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1,
+      "displayCjkSizeRatio": 1,
+      "displayOptions": [
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "ROUTE_NUMBER",
+      "displayDefaultText": "IC",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int1dest"
+      ],
+      "positionDefinitions": [
+        "b120c71a"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1,
+      "displayCjkSizeRatio": 1,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int1next"
+      ],
+      "positionDefinitions": [
+        "14a6dbfd"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "000CB3",
+      "displayColor": "000CB3",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "NEXT_STATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int1dest2"
+      ],
+      "positionDefinitions": [
+        "12afb8da"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int2nun"
+      ],
+      "positionDefinitions": [
+        "31373b1f"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1,
+      "displayCjkSizeRatio": 1,
+      "displayOptions": [
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "ROUTE_NUMBER",
+      "displayDefaultText": "IC",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int2dest"
+      ],
+      "positionDefinitions": [
+        "a2892b0a"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1,
+      "displayCjkSizeRatio": 1,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int2next"
+      ],
+      "positionDefinitions": [
+        "c35aff58"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "000CB3",
+      "displayColor": "000CB3",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "NEXT_STATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "int2dest2"
+      ],
+      "positionDefinitions": [
+        "ed4f66d1"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FFFFFF",
+      "displayColor": "FFFFFF",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "ALIGN_LEFT_CJK",
+        "ALIGN_LEFT",
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "floor"
+      ],
+      "positionDefinitions": [
+        "8edcd111"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "FLOOR",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FF9900",
+      "displayColor": "FF9900",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Not In Service",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "doorway"
+      ],
+      "positionDefinitions": [
+        "f74f6a34"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DOORWAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FF9900",
+      "displayColor": "FF9900",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Not In Service",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "stairs"
+      ],
+      "positionDefinitions": [
+        "cbea51d"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "FLOOR",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "FF9900",
+      "displayColor": "FF9900",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Not In Service",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "sidepidsold_left"
+      ],
+      "positionDefinitions": [
+        "13b4ff61"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "000CB3",
+      "displayColor": "000CB3",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    },
+    {
+      "names": [
+        "sidepidsold_right"
+      ],
+      "positionDefinitions": [
+        "b7bc8578"
+      ],
+      "condition": "NORMAL",
+      "renderStage": "EXTERIOR",
+      "type": "DISPLAY",
+      "displayXPadding": 0,
+      "displayYPadding": 0,
+      "displayColorCjk": "000CB3",
+      "displayColor": "000CB3",
+      "displayMaxLineHeight": 1.5,
+      "displayCjkSizeRatio": 2,
+      "displayOptions": [
+        "CYCLE_LANGUAGES"
+      ],
+      "displayPadZeros": 0,
+      "displayType": "DESTINATION",
+      "displayDefaultText": "Niet Instappen",
+      "doorXMultiplier": 0,
+      "doorZMultiplier": 0,
+      "doorAnimationType": "STANDARD",
+      "renderFromOpeningDoorTime": 0,
+      "renderUntilOpeningDoorTime": 0,
+      "renderFromClosingDoorTime": 0,
+      "renderUntilClosingDoorTime": 0,
+      "flashOffTime": 0,
+      "flashOnTime": 0
+    }
+  ],
+  "modelYOffset": 1,
+  "gangwayInnerSideResource": "",
+  "gangwayInnerTopResource": "",
+  "gangwayInnerBottomResource": "",
+  "gangwayOuterSideResource": "",
+  "gangwayOuterTopResource": "",
+  "gangwayOuterBottomResource": "",
+  "gangwayWidth": 1.5,
+  "gangwayHeight": 2.25,
+  "gangwayYOffset": 1,
+  "gangwayZOffset": 0.5,
+  "barrierInnerSideResource": "",
+  "barrierInnerTopResource": "",
+  "barrierInnerBottomResource": "",
+  "barrierOuterSideResource": "",
+  "barrierOuterTopResource": "",
+  "barrierOuterBottomResource": "",
+  "barrierWidth": 2.25,
+  "barrierHeight": 1,
+  "barrierYOffset": 1.25,
+  "barrierZOffset": 0.25
+}
