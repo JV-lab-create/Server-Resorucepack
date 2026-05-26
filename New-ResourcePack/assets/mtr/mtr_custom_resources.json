@@ -37032,6 +37032,120 @@
       "legacyConstantPlaybackSpeed": false,
       "legacyDoorSoundBaseResource": "",
       "legacyDoorCloseSoundTime": 0.5
+    },
+    {
+      "id": "mtr_custom_train_amsterdam_metro_srt_m7_front_cab_1",
+      "name": "Amsterdam Metro M7 Train (Forwards)",
+      "color": "D52228",
+      "transportMode": "TRAIN",
+      "length": 20,
+      "width": 2,
+      "bogie1Position": -6.800000000000001,
+      "bogie2Position": 6.800000000000001,
+      "couplingPadding1": 0.6,
+      "couplingPadding2": 0,
+      "description": "Amsterdam Metro M7 Train",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/amsterdam_metro_srt/amsterdam_m7_mc.obj",
+          "textureResource": "mtr:train/amsterdam_metro_srt/amsterdam_metro_srt_m7",
+          "modelPropertiesResource": "mtr:train/amsterdam_metro_srt/properties_182bcc02.json",
+          "positionDefinitionsResource": "mtr:train/amsterdam_metro_srt/definition_df5eb8de.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [],
+      "bogie2Models": [],
+      "hasGangway1": false,
+      "hasGangway2": true,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0.2,
+      "bveSoundBaseResource": "",
+      "legacySpeedSoundBaseResource": "class_377",
+      "legacySpeedSoundCount": 115,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "class_802",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_amsterdam_metro_srt_m7_back_trailer",
+      "name": "Amsterdam Metro M7 Train (Backwards)",
+      "color": "D52228",
+      "transportMode": "TRAIN",
+      "length": 20,
+      "width": 2,
+      "bogie1Position": -6.800000000000001,
+      "bogie2Position": 6.800000000000001,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0.6,
+      "description": "Amsterdam Metro M7 Train",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/amsterdam_metro_srt/amsterdam_m7_mc_back.obj",
+          "textureResource": "mtr:train/amsterdam_metro_srt/amsterdam_metro_srt_m7",
+          "modelPropertiesResource": "mtr:train/amsterdam_metro_srt/properties_d318fbc0.json",
+          "positionDefinitionsResource": "mtr:train/amsterdam_metro_srt/definition_bd79e875.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [],
+      "bogie2Models": [],
+      "hasGangway1": true,
+      "hasGangway2": true,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0.2,
+      "bveSoundBaseResource": "",
+      "legacySpeedSoundBaseResource": "class_377",
+      "legacySpeedSoundCount": 115,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "class_802",
+      "legacyDoorCloseSoundTime": 0
+    },
+    {
+      "id": "mtr_custom_train_amsterdam_metro_srt_m7_trailer_trailer",
+      "name": "Amsterdam Metro M7 Train (Trailer)",
+      "color": "D52228",
+      "transportMode": "TRAIN",
+      "length": 20,
+      "width": 2,
+      "bogie1Position": -6.800000000000001,
+      "bogie2Position": 6.800000000000001,
+      "couplingPadding1": 0,
+      "couplingPadding2": 0,
+      "description": "Amsterdam Metro M7 Train",
+      "wikipediaArticle": "",
+      "tags": [],
+      "models": [
+        {
+          "modelResource": "mtr:train/amsterdam_metro_srt/amsterdam_m7_m.obj",
+          "textureResource": "mtr:train/amsterdam_metro_srt/amsterdam_metro_srt_m7",
+          "modelPropertiesResource": "mtr:train/amsterdam_metro_srt/properties_fba03719.json",
+          "positionDefinitionsResource": "mtr:train/amsterdam_metro_srt/definition_1e550593.json",
+          "flipTextureV": false
+        }
+      ],
+      "bogie1Models": [],
+      "bogie2Models": [],
+      "hasGangway1": true,
+      "hasGangway2": true,
+      "hasBarrier1": false,
+      "hasBarrier2": false,
+      "legacyRiderOffset": 0.2,
+      "bveSoundBaseResource": "",
+      "legacySpeedSoundBaseResource": "class_377",
+      "legacySpeedSoundCount": 115,
+      "legacyUseAccelerationSoundsWhenCoasting": false,
+      "legacyConstantPlaybackSpeed": false,
+      "legacyDoorSoundBaseResource": "class_802",
+      "legacyDoorCloseSoundTime": 0
     }
   ],
   "signs": [
@@ -38515,6 +38629,78 @@
       "flipTexture": false,
       "customText": "Metro",
       "flipCustomText": true
+    },
+     {
+      "id": "srt_ams_metro",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amsmetro.png",
+      "customText": "Metro",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_metro_rev",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amsmetro.png",
+      "customText": "Metro",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_metro2",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amsmetro2.png",
+      "customText": "Metro",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_metro2_rev",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amsmetro2.png",
+      "customText": "Metro",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_trein",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amstrain.png",
+      "customText": "Trein",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_trein_rev",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amstrain.png",
+      "customText": "Trein",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_tram",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amstram.png",
+      "customText": "Tram",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "243c7d"
+    },
+    {
+      "id": "srt_ams_tram_rev",
+      "textureResource": "mtr:train/amsterdam_metro_srt/srt_amstram.png",
+      "customText": "Tram",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "243c7d"
     }
   ],
   "rails": [],
@@ -38554,7 +38740,241 @@
         "y": 0,
         "z": 0
       }
-    }
+    },
+    {
+            "id": "nl_bus_shelter",
+            "name": "[NL Deco] Bus Shelter (Small)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/nl_bus_shelter.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/bus_shelter_utrecht.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_shelter_utrecht",
+            "name": "[NL Deco] Bus Shelter (Utrecht Small)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/nl_bus_shelter_utrecht.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/bus_shelter_utrecht.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_shelter_large",
+            "name": "[NL Deco] Bus Shelter (Large)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/nl_bus_shelter_large.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/bus_shelter_large.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_shelter_large_ad",
+            "name": "[NL Deco] Bus Shelter (Large w/ Ad)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/nl_bus_shelter_large_ad.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/bus_shelter_large_ad.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_shelter_large_rnet",
+            "name": "[NL Deco] Bus Shelter (RNET Large)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/nl_bus_shelter_large_rnet.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_shelter/bus_shelter_large_rnet.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_sign",
+            "name": "[NL Deco] Bus Stop Sign",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/nl_bus_sign.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/bus_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_sign_front",
+            "name": "[NL Deco] Bus Stop Sign (w/ Info Sign)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/nl_bus_sign_front.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/bus_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_bus_sign_side",
+            "name": "[NL Deco] Bus Stop Sign (w/ Side Info Sign)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/nl_bus_sign_side.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/bus_sign/bus_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_schedule_sign",
+            "name": "[NL Deco] Schedule Sign",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/schedule_sign/nl_schedule_sign.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/schedule_sign/nl_schedule_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_hanging",
+            "name": "[NL Deco] Station Sign (Hanging)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_hanging.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_standing",
+            "name": "[NL Deco] Station Sign (Standing)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_standing.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_wall",
+            "name": "[NL Deco] Station Sign (Wall)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_wall.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_hanging_rnet",
+            "name": "[NL Deco] Station Sign RNET (Hanging)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_hanging_rnet.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_rnet.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_standing_rnet",
+            "name": "[NL Deco] Station Sign RNET (Standing)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_standing_rnet.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_rnet.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_wall_rnet",
+            "name": "[NL Deco] Station Sign RNET (Wall)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_wall_rnet.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_rnet.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_hanging_mrw",
+            "name": "[NL Deco] Station Sign MRW (Hanging)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_hanging_mrw.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_mrw.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_standing_mrw",
+            "name": "[NL Deco] Station Sign MRW (Standing)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_standing_mrw.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_mrw.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        },
+        {
+            "id": "nl_station_sign_wall_mrw",
+            "name": "[NL Deco] Station Sign MRW (Wall)",
+            "color": "B0B0BE",
+            "modelResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_wall_mrw.obj",
+            "textureResource": "mtrsteamloco:eyecandies/nl_deco/station_sign/nl_station_sign_mrw.png",
+            "flipTextureV": true,
+            "scale": {
+            	"x": 0,
+            	"y": 0,
+            	"z": 0
+	}
+        }
   ],
   "lifts": [
     {

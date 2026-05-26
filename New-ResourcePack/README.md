@@ -42,6 +42,8 @@
 * Stepford Connect Coaches [Creator: shoclyhd](https://modrinth.com/user/shoclyhd) [Source](https://modrinth.com/resourcepack/mtr4-stepford-connect-coaches?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * Mark5a 'Nova 3' Set [Creator:vitor2005](https://modrinth.com/user/vitor2005) [Source](https://modrinth.com/resourcepack/mtr4-mark5a-nova-3-set?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * Moszyan Railways (Trains, signs, lifts) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md) 
+* R-net Stadler FLIRT 3 [Source](https://modrinth.com/resourcepack/rnet-stadler-flirt-3/gallery) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
+* Amsterdam Metro [Source](https://modrinth.com/resourcepack/mtr-amsterdam-metro?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) [Creator: Soodari](https://modrinth.com/user/Soodari)
 
 ## Signs
 
@@ -51,11 +53,12 @@
 * London Underground Mod
 * Moszyan Railways (modified to look white) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 
+
 ## Models
 
 * Moszyan Railways (Objects/Models only) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
+* NL Deco [Source](https://modrinth.com/resourcepack/nl-deco/gallery?version=1.20.4) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 * Microsoft Surface Board - Windows 3D Paint Gallery
 * Not finished fully
 
 We recommend not to take resources out of this pack, due to you not knowing what owner is. Please download some from the info listed above here. As this is made for the purpose for a world.
-
