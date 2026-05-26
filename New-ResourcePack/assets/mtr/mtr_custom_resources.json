@@ -37063,12 +37063,10 @@
       "hasBarrier1": false,
       "hasBarrier2": false,
       "legacyRiderOffset": 0.2,
-      "bveSoundBaseResource": "",
-      "legacySpeedSoundBaseResource": "class_377",
       "legacySpeedSoundCount": 115,
       "legacyUseAccelerationSoundsWhenCoasting": false,
       "legacyConstantPlaybackSpeed": false,
-      "legacyDoorSoundBaseResource": "class_802",
+      "bveSoundBaseResource": "sf3",
       "legacyDoorCloseSoundTime": 0
     },
     {
@@ -37101,12 +37099,10 @@
       "hasBarrier1": false,
       "hasBarrier2": false,
       "legacyRiderOffset": 0.2,
-      "bveSoundBaseResource": "",
-      "legacySpeedSoundBaseResource": "class_377",
+      "bveSoundBaseResource": "sf3",
       "legacySpeedSoundCount": 115,
       "legacyUseAccelerationSoundsWhenCoasting": false,
       "legacyConstantPlaybackSpeed": false,
-      "legacyDoorSoundBaseResource": "class_802",
       "legacyDoorCloseSoundTime": 0
     },
     {
@@ -37139,12 +37135,10 @@
       "hasBarrier1": false,
       "hasBarrier2": false,
       "legacyRiderOffset": 0.2,
-      "bveSoundBaseResource": "",
-      "legacySpeedSoundBaseResource": "class_377",
+      "bveSoundBaseResource": "sf3",
       "legacySpeedSoundCount": 115,
       "legacyUseAccelerationSoundsWhenCoasting": false,
       "legacyConstantPlaybackSpeed": false,
-      "legacyDoorSoundBaseResource": "class_802",
       "legacyDoorCloseSoundTime": 0
     }
   ],
