@@ -44,6 +44,7 @@
 * Moszyan Railways (Trains, signs, lifts) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md) 
 * R-net Stadler FLIRT 3 [Source](https://modrinth.com/resourcepack/rnet-stadler-flirt-3/gallery) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 * Amsterdam Metro [Source](https://modrinth.com/resourcepack/mtr-amsterdam-metro?version=1.20.4) License: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) [Creator: Soodari](https://modrinth.com/user/Soodari)
+* West Midlands Trains [Source](https://modrinth.com/resourcepack/mtrwest-midlands-trains/gallery) Licance: [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## Signs
 
