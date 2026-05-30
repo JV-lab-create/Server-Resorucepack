@@ -20,6 +20,21 @@ let LINES = [
         key: "黃金綫|Golden Line",
         ch: "golden_ch.png",
         en: "golden_en.png"
+    },
+    {
+        key: "黃金綫|Golden Line",
+        ch: "golden_ch.png",
+        en: "golden_en.png"
+    },
+    {
+        key: "生成鐵路短跑|Spawn Railways Sprinter",
+        ch: "sprinter_ch.png",
+        en: "sprinter_en.png"
+    },
+    {
+        key: "出生軌道|Spawn Rail",
+        ch: "rapid_ch.png",
+        en: "rapid_en.png"
     }
 ];
 
