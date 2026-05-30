@@ -35,6 +35,24 @@ function render(ctx, state, pids) {
                     .draw(ctx);
 
                 arrival_number_pos = pids.width - 21
+            } 
+            if(customMsg.includes("sign: sp")) {
+                Texture.create("Background")
+                    .texture("jsblock:custom_directory/dutch_sign.png")
+                    .size(20, 10)
+                    .pos(pids.width - 21, 1)
+                    .draw(ctx);
+
+                arrival_number_pos = pids.width - 21
+            } 
+            if(customMsg.includes("sign: moz")) {
+                Texture.create("Background")
+                    .texture("jsblock:custom_directory/dutch_sign.png")
+                    .size(20, 10)
+                    .pos(pids.width - 21, 1)
+                    .draw(ctx);
+
+                arrival_number_pos = pids.width - 21
             }
             if(customMsg.includes("train: disable")){
                 train = false
@@ -171,16 +189,8 @@ function render(ctx, state, pids) {
                 .size(pids.width, pids.height)
                 .draw(ctx);
 
-            Text.create("text")
-                .text("Hierna/")
-                .pos(2, rowY)
-                .size(20, 5)
-                .scaleXY()
-                .color(0xFFFFFF)
-                .draw(ctx);
-
             Text.create("text italic")
-                .text("next:")
+                .text("Next Train in:")
                 .pos(22, rowY)
                 .size(15, 5)
                 .scaleXY()
@@ -204,7 +214,7 @@ function render(ctx, state, pids) {
             let late_minutes = late_eta.getMinutes()
             let late_time = late_hours.toString().padStart(2, '0') + ":" + late_minutes.toString().padStart(2, '0');
             Text.create("arrival ETA")
-            .text(late_time)
+            .text(TextUtil.cycleString(PIDSUtil.getETAText(arrival.arrivalTime())))
             .color(0xFFFFFF)
             .pos(38, rowY)
             .leftAlign()
