@@ -33,8 +33,8 @@ let LINES = [
     },
     {
         key: "出生軌道|Spawn Rail",
-        ch: "rapid_ch.png",
-        en: "rapid_en.png"
+        ch: "rail_ch.png",
+        en: "rail_en.png"
     }
 ];
 
