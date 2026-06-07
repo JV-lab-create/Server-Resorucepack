@@ -49,6 +49,7 @@
 * Spawn Rail Pack B [Source](https://github.com/JV-lab-create/JV-MTR-ResourcePack/tree/main/Modifyed%20Packs/Spawn%20Rail%20Trains/Spawn%20Rail%20B) Licance: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 * Spawn Rail Pack C [Source](https://github.com/JV-lab-create/JV-MTR-ResourcePack/tree/main/Modifyed%20Packs/Spawn%20Rail%20Trains/SpawnRail%20C) Licance: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 * Spawn Rail Pack D [Source](https://github.com/JV-lab-create/JV-MTR-ResourcePack/tree/main/Modifyed%20Packs/Spawn%20Rail%20Trains/Spawn%20Rail%20D) Licance: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+* UK Stop Makers [Source](https://modrinth.com/resourcepack/mtr4-uk-stop-markers?version=1.20.4) Licance: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) By: sleepysapphire [README File](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/UKSTOPMAKERS.md)
 
 ## Signs
 

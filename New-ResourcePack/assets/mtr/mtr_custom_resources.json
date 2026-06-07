@@ -40402,6 +40402,155 @@
       "flipTexture": false,
       "flipCustomText": true,
       "backgroundColor": "243c7d"
+    },
+
+
+
+
+    {
+      "id": "number1",
+      "textureResource": "mtr:custom_signs/1-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number2",
+      "textureResource": "mtr:custom_signs/2-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number3",
+      "textureResource": "mtr:custom_signs/3-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number4",
+      "textureResource": "mtr:custom_signs/4-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number5",
+      "textureResource": "mtr:custom_signs/5-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number6",
+      "textureResource": "mtr:custom_signs/6-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number7",
+      "textureResource": "mtr:custom_signs/7-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number8",
+      "textureResource": "mtr:custom_signs/8-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    
+    {
+      "id": "number9",
+      "textureResource": "mtr:custom_signs/9-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number10",
+      "textureResource": "mtr:custom_signs/10-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number11",
+      "textureResource": "mtr:custom_signs/11-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number12",
+      "textureResource": "mtr:custom_signs/12-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number13",
+      "textureResource": "mtr:custom_signs/13-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number14",
+      "textureResource": "mtr:custom_signs/14-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number15",
+      "textureResource": "mtr:custom_signs/15-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "number16",
+      "textureResource": "mtr:custom_signs/16-car.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
     }
   ],
   "rails": [],
@@ -40675,6 +40824,146 @@
             	"y": 0,
             	"z": 0
 	}
+        },
+        {
+            "id": "stopmark_s",
+            "name": "UK §eStop Marker§f - §l§bS §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/stopmark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/stopmark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_2",
+            "name": "UK §eStop Marker§f - §2§b2 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/2mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/2mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_3",
+            "name": "UK §eStop Marker§f - §3§b3 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/3mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/3mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_4",
+            "name": "UK §eStop Marker§f - §4§b4 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/4mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/4mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_412",
+            "name": "UK §eStop Marker§f - §4§b4-12 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/412mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/412mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_5",
+            "name": "UK §eStop Marker§f - §5§b5 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/5mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/5mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_56",
+            "name": "UK §eStop Marker§f - §5§b5-6 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/56mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/56mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_6",
+            "name": "UK §eStop Marker§f - §6§b6 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/6mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/6mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_68",
+            "name": "UK §eStop Marker§f - §6§b6-8 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/68mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/68mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_23",
+            "name": "UK §eStop Marker§f - §6§b2-3 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/23mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/23mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_7",
+            "name": "UK §eStop Marker§f - §7§b7 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/7mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/7mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_8",
+            "name": "UK §eStop Marker§f - §8§b8 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/8mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/8mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_9",
+            "name": "UK §eStop Marker§f - §9§b9 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/9mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/9mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_10",
+            "name": "UK §eStop Marker§f - §l§b10 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/10mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/10mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_11",
+            "name": "UK §eStop Marker§f - §2§b11 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/11mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/11mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_12",
+            "name": "UK §eStop Marker§f - §3§b12 §fCar Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/12mark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/12mark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_plat1a",
+            "name": "UK §eStop Marker§f - §3§bPlatform 1A §fS Car Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/plat1amark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/plat1amark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_plat1b",
+            "name": "UK §eStop Marker§f - §3§bPlatform 1B §fS Car Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/plat1bmark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/plat1bmark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_plat2a",
+            "name": "UK §eStop Marker§f - §3§bPlatform 2A §fS Car Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/plat2amark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/plat2amark.png",
+            "flipTextureV": true
+        },
+        {
+            "id": "stopmark_plat2b",
+            "name": "UK §eStop Marker§f - §3§bPlatform 2B §fS Car Stop",
+            "modelResource": "mtrsteamloco:eyecandies/stopmark/plat2bmark.obj",
+            "textureResource": "mtrsteamloco:eyecandies/stopmark/plat2bmark.png",
+            "flipTextureV": true
         }
   ],
   "lifts": [
