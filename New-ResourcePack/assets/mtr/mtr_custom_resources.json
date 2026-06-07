@@ -40551,6 +40551,105 @@
       "flipTexture": false,
       "flipCustomText": false,
       "backgroundColor": "000000"
+    },
+    {
+      "id": "letterb",
+      "textureResource": "mtr:custom_signs/bsign.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "lettera",
+      "textureResource": "mtr:custom_signs/asign.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "qr_code",
+      "textureResource": "mtr:textures/block/sign/qr_code.png",
+      "customText": "",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_all_terminals",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "至所有終端|To all terminals",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_all_terminals_flip",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "至所有終端|To all terminals",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_all_gates",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "通往所有大門|To all gates",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_all_gates_flip",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "通往所有大門|To all gates",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_airline_lounge",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "航空公司休息室|Airline Lounge",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_airline_lounge_flip",
+      "textureResource": "mtr:textures/block/sign/airplane.png",
+      "customText": "航空公司休息室|Airline Lounge",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_food_court",
+      "textureResource": "mtr:custom_lifts/foodanddrink.png",
+      "customText": "美食廣場|Food Court",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "to_food_court_flip",
+      "textureResource": "mtr:custom_lifts/foodanddrink.png",
+      "customText": "美食廣場|Food Court",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
     }
   ],
   "rails": [],
