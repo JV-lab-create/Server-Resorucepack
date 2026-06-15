@@ -40582,8 +40582,8 @@
     {
       "id": "to_all_terminals",
       "textureResource": "mtr:textures/block/sign/airplane.png",
-      "customText": "至所有終端|To all terminals",
-      "small": false,
+      "customText": "至所有終端|To All Terminals",
+      "small": true,
       "flipTexture": false,
       "flipCustomText": false,
       "backgroundColor": "000000"
@@ -40591,8 +40591,8 @@
     {
       "id": "to_all_terminals_flip",
       "textureResource": "mtr:textures/block/sign/airplane.png",
-      "customText": "至所有終端|To all terminals",
-      "small": false,
+      "customText": "至所有終端|To All Terminals",
+      "small": true,
       "flipTexture": false,
       "flipCustomText": true,
       "backgroundColor": "000000"
@@ -40600,8 +40600,8 @@
     {
       "id": "to_all_gates",
       "textureResource": "mtr:textures/block/sign/airplane.png",
-      "customText": "通往所有大門|To all gates",
-      "small": false,
+      "customText": "通往所有大門|To All Gates",
+      "small": true,
       "flipTexture": false,
       "flipCustomText": false,
       "backgroundColor": "000000"
@@ -40609,8 +40609,17 @@
     {
       "id": "to_all_gates_flip",
       "textureResource": "mtr:textures/block/sign/airplane.png",
-      "customText": "通往所有大門|To all gates",
-      "small": false,
+      "customText": "通往所有大門|To All Gates",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "zero",
+      "textureResource": "mtr:custom_signs/0-car.png",
+      "customText": "",
+      "small": true,
       "flipTexture": false,
       "flipCustomText": true,
       "backgroundColor": "000000"
@@ -40619,7 +40628,7 @@
       "id": "to_airline_lounge",
       "textureResource": "mtr:textures/block/sign/airplane.png",
       "customText": "航空公司休息室|Airline Lounge",
-      "small": false,
+      "small": true,
       "flipTexture": false,
       "flipCustomText": false,
       "backgroundColor": "000000"
@@ -40628,24 +40637,222 @@
       "id": "to_airline_lounge_flip",
       "textureResource": "mtr:textures/block/sign/airplane.png",
       "customText": "航空公司休息室|Airline Lounge",
-      "small": false,
+      "small": true,
       "flipTexture": false,
       "flipCustomText": true,
       "backgroundColor": "000000"
     },
     {
       "id": "to_food_court",
-      "textureResource": "mtr:custom_lifts/foodanddrink.png",
+      "textureResource": "mtr:custom_signs/foodanddrink.png",
       "customText": "美食廣場|Food Court",
-      "small": false,
+      "small": true,
       "flipTexture": false,
       "flipCustomText": false,
       "backgroundColor": "000000"
     },
     {
       "id": "to_food_court_flip",
-      "textureResource": "mtr:custom_lifts/foodanddrink.png",
+      "textureResource": "mtr:custom_signs/foodanddrink.png",
       "customText": "美食廣場|Food Court",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "athte_to_atwtw",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A12-A22號登機口|Gates A12-A22",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "athte_to_atwtw_flp",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A12-A22號登機口|Gates A12-A22",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "aon_to_aelel_flp",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A1-A11號登機口|Gates A1-A11",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "aon_to_aelel_flp",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A1-A11號登機口|Gates A1-A11",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "atwte_to_athte_flp",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A23-A33號登機口|Gates A23-A33",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "atwte_to_athte_flp",
+      "textureResource": "mtr:custom_signs/airport/gate.png",
+      "customText": "A23-A33號登機口|Gates A23-A33",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "carrent",
+      "textureResource": "mtr:custom_signs/airport/carrental.png",
+      "customText": "租車|Car Rental",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "carrent_flp",
+      "textureResource": "mtr:custom_signs/airport/carrental.png",
+      "customText": "租車|Car Rental",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "customs",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "海關|Customs",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "customs_flp",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "海關|Customs",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "customs",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "海關|Customs",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "customs_flp",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "海關|Customs",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "intar",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "國際入境|International Arrivals",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "intar_flp",
+      "textureResource": "mtr:custom_signs/airport/customs.png",
+      "customText": "國際入境|International Arrivals",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "duty_free",
+      "textureResource": "mtr:custom_signs/airport/duty_free.png",
+      "customText": "免稅店|Duty Free",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "duty_free_flp",
+      "textureResource": "mtr:custom_signs/airport/duty_free.png",
+      "customText": "免稅店|Duty Free",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "curconvert",
+      "textureResource": "mtr:custom_signs/airport/curconvertthree.png",
+      "customText": "貨幣轉換|Currency Convert",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "curconvert_flp",
+      "textureResource": "mtr:custom_signs/airport/curconvertthree.png",
+      "customText": "貨幣轉換|Currency Convert",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "info",
+      "textureResource": "mtr:custom_signs/airport/curconvertthree.png",
+      "customText": "資訊|Information",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "info_flp",
+      "textureResource": "mtr:custom_signs/airport/curconvertthree.png",
+      "customText": "資訊|Information",
+      "small": true,
+      "flipTexture": false,
+      "flipCustomText": true,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "ground_trprt",
+      "textureResource": "mtr:custom_signs/airport/groundtrspt.png",
+      "customText": "地面交通|Ground Transportation",
+      "small": false,
+      "flipTexture": false,
+      "flipCustomText": false,
+      "backgroundColor": "000000"
+    },
+    {
+      "id": "info_flp",
+      "textureResource": "mtr:custom_signs/airport/groundtrspt.png",
+      "customText": "地面交通|Ground Transportation",
       "small": false,
       "flipTexture": false,
       "flipCustomText": true,
