@@ -738,6 +738,76 @@
       "name": "AWT PIDS TEST",
       "thumbnail": "jsblock:textures/testpids.png",
       "scriptFiles": ["jsblock:scripts/awttest.js"]
+    },
+	{
+      "id": "stats",
+      "name": "Statistics Mathmatics",
+      "thumbnail": "jsblock:res/fluent.png",
+      "scriptFiles": ["jsblock:scripts/statspids.js"]
+    },
+    {
+      "id": "fluent_ui",
+      "name": "Fluent",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:res/fluent.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "farewell_food_and_drink",
+      "name": "Farewell Food and Drink | 𝓕𝓪𝓻𝓮𝔀𝓮𝓵𝓵 ",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:res/food_and_drink.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "farewell_plane",
+      "name": "Farewell Plane | 𝓕𝓪𝓻𝓮𝔀𝓮𝓵𝓵 ",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:res/plane.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "farewell_view",
+      "name": "Farewell view | 𝓕𝓪𝓻𝓮𝔀𝓮𝓵𝓵 ",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "customTextPushArrival": false,
+      "background": "jsblock:res/view.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
     }
   	]
 }

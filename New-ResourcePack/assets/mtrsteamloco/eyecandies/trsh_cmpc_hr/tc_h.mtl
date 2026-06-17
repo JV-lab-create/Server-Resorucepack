@@ -1,0 +1,98 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Part1Mtl
+Ka 1.000000 1.000000 1.000000
+Ks 0.019206 0.019206 0.019206
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part1_diff.png
+map_Ns Part1_spec.png
+map_d Part1_diff.png
+map_Bump Part1_nmap.png
+
+newmtl Part20Mtl
+Ka 1.000000 1.000000 1.000000
+Ks 0.002586 0.002586 0.002586
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part1_diff.png
+map_Ns Part1_spec.png
+map_d Part1_diff.png
+map_Bump Part1_nmap.png
+
+newmtl Part23Mtl
+Ka 1.000000 1.000000 1.000000
+Ks 0.105588 0.105588 0.105588
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Union1_diff.png
+map_Ns Union1_spec.png
+map_d Union1_diff.png
+map_Bump Union1_nmap.png
+
+newmtl Part24Mtl
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.666667 0.666667 0.666667
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part24_diff.png
+map_d Part24_diff.png
+
+newmtl Part26Mtl
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.666667 0.666667 0.666667
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part26_diff.png
+map_d Part26_diff.png
+
+newmtl Part3Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.047615 0.047615 0.047615
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part3_diff.png
+map_d Part3_diff.png
+map_Bump Part3_nmap.png
+
+newmtl Part4Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part4_diff.png
+map_d Part4_diff.png
+
+newmtl Part7Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.372552 0.372552 0.372552
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part3_diff.png
+map_d Part3_diff.png
+map_Bump Part3_nmap.png
+
+newmtl Union1Mtl
+Ka 1.000000 1.000000 1.000000
+Ks 0.052797 0.052797 0.052797
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Union1_diff.png
+map_Ns Union1_spec.png
+map_d Union1_diff.png
+map_Bump Union1_nmap.png

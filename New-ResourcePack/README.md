@@ -65,6 +65,6 @@
 * Moszyan Railways (Objects/Models only) [Source](https://modrinth.com/resourcepack/moszyan-railways) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 * NL Deco [Source](https://modrinth.com/resourcepack/nl-deco/gallery?version=1.20.4) - License [MTR Resource Pack Terms of Use↗️](https://github.com/JV-lab-create/Server-Resorucepack/tree/main/New-ResourcePack/credits/MTR%20Resource%20Pack%20Terms%20of%20Use.md)
 * Microsoft Surface Board - Windows 3D Paint Gallery
-* Not finished fully
+* Roblox Models Exported as OBJ File from place that no longer exsits.
 
 We recommend not to take resources out of this pack, due to you not knowing what owner is. Please download some from the info listed above here. As this is made for the purpose for a world.
