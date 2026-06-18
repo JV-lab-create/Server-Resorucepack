@@ -1,0 +1,28 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl plastic.001
+illum 2
+map_Kd plastic.png
+map_d plastic.png
+map_Bump plastic_nmap.png
+
+newmtl plastic.002
+illum 2
+map_Kd plastic.png
+map_d plastic.png
+map_Bump plastic_nmap
+
+newmtl wood
+illum 2
+map_Kd wood.png
+map_Ns wood_spec.png
+map_d wood.png
+map_Bump wood_nmap.png
+
+newmtl metal
+illum 2
+map_Kd metal.png
+map_Ns metal_spec.png
+map_d metal.png
+map_Bump metal_nmap.png

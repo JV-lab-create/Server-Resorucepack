@@ -8,10 +8,18 @@
     "objects":
     [
         {
-            "id": "trash_compact",
-            "name": "Trash Compactor",
-            "modelResource": "mtrsteamloco:eyecandies/trash_compact/trash_compactor.obj",
-            "textureResource": "mtrsteamloco:eyecandies/trash_compact/trash_compactor.mtl",
+            "id": "dumpster",
+            "name": "Trash Dumptster",
+            "modelResource": "mtrsteamloco:eyecandies/dmp/dmp.obj",
+            "textureResource": "mtrsteamloco:eyecandies/dmp/dmp.mtl",
+            "color": "000000",
+            "flipTextureV": true
+        },
+        {
+            "id": "test",
+            "name": "Tester.app",
+            "modelResource": "mtrsteamloco:eyecandies/test/test.obj",
+            "textureResource": "mtrsteamloco:eyecandies/test/test.mtl",
             "color": "000000",
             "flipTextureV": true
         },
@@ -24,34 +32,25 @@
             "flipTextureV": true
         },
         {
-            "id": "trsh_cmpc_hr",
-            "name": "Trash Compactor (Higher)",
-            "modelResource": "mtrsteamloco:eyecandies/trsh_cmpc_hr/tc_h.obj",
-            "textureResource": "mtrsteamloco:eyecandies/trsh_cmpc_hr/tc_h.mtl",
+            "id": "trash_can",
+            "name": "Trash Can",
+            "modelResource": "mtrsteamloco:eyecandies/trsh_can/tshcan.obj",
+            "textureResource": "mtrsteamloco:eyecandies/trsh_can/tshcan.mtl",
+            "color": "000000"
+        },
+        {
+            "id": "trash_compact",
+            "name": "Trash Compactor",
+            "modelResource": "mtrsteamloco:eyecandies/trash_compact/trash_compactor.obj",
+            "textureResource": "mtrsteamloco:eyecandies/trash_compact/trash_compactor.mtl",
             "color": "000000",
             "flipTextureV": true
         },
         {
-            "id": "trash_can",
-            "name": "Trash Can",
-            "modelResource": "mtrsteamloco:eyecandies/trsh-can/tshcan.obj",
-            "textureResource": "mtrsteamloco:eyecandies/trsh-can/tshcan.mtl",
-            "color": "000000"
-        },
-        {
-            "id": "surface_board_fx",
-            "name": "Surface Board",
-            "modelResource": "mtr:custom_objects/surface/surfaceboard.obj",
-            "textureResource": "mtr:custom_objects/surface/surfaceboard.mtl",
-            "color": "000000",
-            "flipTextureV": true,
-            "scale": {"x":10,"y":10,"z":10}
-        },
-        {
-            "id": "dumpster",
-            "name": "Trash Dumptster",
-            "modelResource": "mtrsteamloco:eyecandies/dmp/dmp.obj",
-            "textureResource": "mtrsteamloco:eyecandies/dmp/dmp.mtl",
+            "id": "trsh_cmpc_hr",
+            "name": "Trash Compactor (Higher)",
+            "modelResource": "mtrsteamloco:eyecandies/trsh_cmpc_hr/tc_h.obj",
+            "textureResource": "mtrsteamloco:eyecandies/trsh_cmpc_hr/tc_h.mtl",
             "color": "000000",
             "flipTextureV": true
         }
