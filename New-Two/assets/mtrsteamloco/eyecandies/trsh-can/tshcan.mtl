@@ -1,0 +1,46 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Part1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.148659 0.148659 0.148659
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+map_Bump Part1_nmap.png
+
+newmtl Part4Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.001024 0.001024 0.001024
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+map_Bump Part1_nmap.png
+
+newmtl Part6Mtl
+Ka 1.000000 1.000000 1.000000
+Ks 0.005766 0.005766 0.005766
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Part6_diff.png
+map_Ns Part6_spec.png
+map_d Part6_diff.png
+map_Bump Part6_nmap.png
+
+newmtl Union1Mtl.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.250218 0.250218 0.250218
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Union1_diff.png
+map_Ns Union1_spec.png
+map_d Union1_diff.png
+map_Bump Union1_nmap.png
