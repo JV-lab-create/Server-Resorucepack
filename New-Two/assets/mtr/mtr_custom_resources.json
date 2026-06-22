@@ -6,7 +6,15 @@
     "rails":
     [],
     "objects":
-    [
+    [   
+        {
+            "id": "windows_10_laptop",
+            "name": "Windows 10 Laptop",
+            "modelResource": "mtrsteamloco:eyecandies/windows_10_laptop/w10pc.obj",
+            "textureResource": "mtrsteamloco:eyecandies/dmp/w10pc.mtl",
+            "color": "000000",
+            "flipTextureV": true
+        },
         {
             "id": "dumpster",
             "name": "Trash Dumptster",
